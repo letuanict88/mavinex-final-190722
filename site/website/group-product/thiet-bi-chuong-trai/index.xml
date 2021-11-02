@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>85d9</objectGroupId>
+	<objectId>85d9587e-cc0b-952e-4b42-f920334efb55</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thiet-bi-chuong-trai</folder-name>
+	<internal-name>Thiết bị chuồng trại</internal-name>
+	<navLabel>Thiết bị chuồng trại</navLabel>
+	<product_title_s>Thiết bị chuồng trại</product_title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productGroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productGroup_o>
+	<createdDate>2020-05-23T03:39:51.713Z</createdDate>
+	<createdDate_dt>2020-05-23T03:39:51.713Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:34:31.543Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:34:31.543Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/4e0a40ae-242b-0774-16c4-fdf4b2bfa686.xml</key>
+	<value>Thiết bị chăn nuôi heo</value>
+	<include>/site/items/4e0a40ae-242b-0774-16c4-fdf4b2bfa686.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="productchildcomponent">	<key>/site/items/3c759e68-73ba-b7b5-dc0e-98af502ef0c2.xml</key>
+	<value>Thiết bị chăn nuôi gà</value>
+	<include>/site/items/3c759e68-73ba-b7b5-dc0e-98af502ef0c2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="productchildcomponent">	<key>/site/items/5289a155-c971-bde3-4364-793a515508a1.xml</key>
+	<value>Thiết bị chăn nuôi vịt</value>
+	<include>/site/items/5289a155-c971-bde3-4364-793a515508a1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGrouptitleEnglish_s>Farm equipment</productGrouptitleEnglish_s>
+</page>

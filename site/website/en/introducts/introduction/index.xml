@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>abd8</objectGroupId>
+	<objectId>abd8567d-be8a-03df-920b-15229832c392</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>introduction</folder-name>
+	<internal-name>Introduction</internal-name>
+	<title_s>Introduction</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/ed28b62e-0a55-e2ea-ec72-e0a0d311a90b.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/ed28b62e-0a55-e2ea-ec72-e0a0d311a90b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true"/>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-1.png</thumbail_s>
+	<contents_html>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Established in 2017 as the project office of Mavin Group, Mavinex Joint Stock Company is known as the construction division of the Group's key projects such as factory construction projects of aqua feedmill in Hung Yen with a capacity of 45,000 tons/year; Nghe An animal feed factory with a capacity of 300,000 tons/year; and Dong Thap animal feed factory with a capacity of 350,000 tons/year. The harmonious combination of equipment technology of the world's leading brands such as Buhler, CPM, PremierTech, Obial ... and the creativity of Mavinex engineers have built animal feed factories. Reputable and reliable, the application of 4.0 technology helps Mavin reduce production and operation costs, increase labor productivity, protect the environment as well as protect the health of producers and consumers.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;In the field of animal farming, Mavinex cooperates with partners such as Bigdutchman, Roxell, Fancom, Giordano Poultry Plat, Vostermans ... to deploy a lot of big projects such as: 1,200 Hung Viet - Hung Yen breeding pig farm, 1,500 grandparents sows farm in Nhon Tan - Binh Dinh, 30,000 duck farms in Thai Hung - Thai Binh ... and hundreds of parent sow farms, porker farms, chicken farms and duck farms. Thanks to the application of advanced technologies on farms such as: Automatic feeding and drinking system; intelligent temperature management and adjustment system, self-contained waste treatment system, etc., which help animals have the best conditions for growth and development, thereby optimizing breeding efficiency and environmentally sustainable farming.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;In the field of aquaculture, the company provides fish farming solutions using HDPE round cage system with large breeding volume, high durability, good storm and wind resistance suitable for concentrated farming in coastal areas or hydroelectric lakes bring high productivity and quality of commercial fish.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;In addition to providing plant and animal husbandry equipment, Mavinex is also a leading supplier in Vietnam in the field of providing hatcheries and hatcheries.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;With the goal of bringing high-quality products not only to projects in the Mavin Group but also to domestic and foreign customers, Mavinex Joint Stock Company is committed to preserving traditional values, promoting its advantages. compete with partners, bring prosperous development to customers, shareholders and social community.&lt;/span&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-06-05T04:09:40.984Z</createdDate>
+	<createdDate_dt>2020-06-05T04:09:40.984Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T09:24:59.735Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T09:24:59.735Z</lastModifiedDate_dt>
+</page>

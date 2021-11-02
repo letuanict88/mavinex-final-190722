@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/policywebsite</content-type>
+	<display-template>/templates/web/policy.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dce56bc7</objectGroupId>
+	<objectId>dce56bc7-006c-4490-9f57-57e5d4b69ab0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>van-chuyen-va-giao-nhan</folder-name>
+	<internal-name>Vận chuyển giao vận</internal-name>
+	<navLabel>Vận chuyển giao vận</navLabel>
+	<title_s>Vận chuyển giao vận</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/_E6P1798a.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Sau khi nhận x&amp;aacute;c nhận được đơn h&amp;agrave;ng của qu&amp;yacute; kh&amp;aacute;ch, ch&amp;uacute;ng t&amp;ocirc;i sẽ nhanh ch&amp;oacute;ng vận chuyển đến tay kh&amp;aacute;ch h&amp;agrave;ng trong thời gian sớm nhất c&amp;oacute; thể.&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Nhằm tạo điều kiện thuận lợi cho việc giao h&amp;agrave;ng v&amp;agrave; h&amp;agrave;ng h&amp;oacute;a được gửi đến kh&amp;aacute;ch h&amp;agrave;ng sớm nhất, qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng cung cấp chi tiết số nh&amp;agrave;, t&amp;ecirc;n đường, phường, th&amp;ocirc;n, ấp, tổ, khu, bản, x&amp;atilde;, thị trấn, quận, huyện, tỉnh &amp;hellip; một c&amp;aacute;ch chi tiết v&amp;agrave; ch&amp;iacute;nh x&amp;aacute;c.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ch&amp;uacute;ng t&amp;ocirc;i c&amp;oacute; quyền hủy bỏ c&amp;aacute;c đơn đặt h&amp;agrave;ng kh&amp;ocirc;ng r&amp;otilde; r&amp;agrave;ng hoặc kh&amp;ocirc;ng chịu tr&amp;aacute;ch nhiệm đối với những trường hợp giao h&amp;agrave;ng chậm trễ hay thất lạc v.v.. do Qu&amp;yacute; kh&amp;aacute;ch cung cấp th&amp;ocirc;ng tin kh&amp;ocirc;ng ch&amp;iacute;nh x&amp;aacute;c.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I/ CH&amp;Uacute;NG T&amp;Ocirc;I CAM KẾT:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Giao h&amp;agrave;ng trong v&amp;ograve;ng tối đa 2 ng&amp;agrave;y đối với c&amp;aacute;c địa chỉ ở nội th&amp;agrave;nh th&amp;agrave;nh phố H&amp;agrave; Nội hoặc Hưng Y&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Đối với c&amp;aacute;c khu vực ngoại th&amp;agrave;nh th&amp;agrave;nh phố H&amp;agrave; Nội v&amp;agrave; Hưng Y&amp;ecirc;n ch&amp;uacute;ng t&amp;ocirc;i sẽ giao h&amp;agrave;ng trong v&amp;ograve;ng tối đa 3 ng&amp;agrave;y.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Khu vực miền Bắc từ 2&amp;ndash; 3 ng&amp;agrave;y (t&amp;ugrave;y điều kiện địa l&amp;yacute; v&amp;agrave; h&amp;agrave;ng h&amp;oacute;a).&lt;/p&gt;
+&lt;p&gt;&amp;bull; Khu vực miền Trung từ 5 &amp;ndash; 7 ng&amp;agrave;y. (t&amp;ugrave;y điều kiện địa l&amp;yacute; v&amp;agrave; h&amp;agrave;ng h&amp;oacute;a).&lt;/p&gt;
+&lt;p&gt;&amp;bull; Những khu vực ở miền Nam từ 7 &amp;ndash; 10 ng&amp;agrave;y (t&amp;ugrave;y điều kiện địa l&amp;yacute; v&amp;agrave; h&amp;agrave;ng h&amp;oacute;a).&lt;/p&gt;
+&lt;p&gt;&amp;bull; Thời gian cam kết kể tr&amp;ecirc;n kh&amp;ocirc;ng t&amp;iacute;nh thứ 7, chủ nhật v&amp;agrave; những ng&amp;agrave;y lễ.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Đối với những đơn h&amp;agrave;ng cần giao gấp, qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng b&amp;aacute;o ngay cho nh&amp;acirc;n vi&amp;ecirc;n b&amp;aacute;n h&amp;agrave;ng để được tư vấn cũng như thống nhất thời gian giao h&amp;agrave;ng với bộ phận giao nhận.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Trường hợp qu&amp;yacute; kh&amp;aacute;ch thanh to&amp;aacute;n bằng chuyển khoản hoặc gửi qua bưu điện, ch&amp;uacute;ng t&amp;ocirc;i sẽ gửi h&amp;agrave;ng ngay sau khi c&amp;oacute; x&amp;aacute;c nhận đơn h&amp;agrave;ng đ&amp;atilde; được thanh to&amp;aacute;n.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II/ H&amp;Igrave;NH THỨC GIAO H&amp;Agrave;NG:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;1, Giao h&amp;agrave;ng đến tận nh&amp;agrave;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Mavinex giao h&amp;agrave;ng đến tận nh&amp;agrave;/trang trại/nh&amp;agrave; m&amp;aacute;y của Qu&amp;yacute; kh&amp;aacute;ch tr&amp;ecirc;n cơ sở chi ph&amp;iacute; vận chuyển được thống nhất giữa hai b&amp;ecirc;n.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;2, Giao h&amp;agrave;ng th&amp;ocirc;ng qua bưu điện.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Giao h&amp;agrave;ng khắp cả nước.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Bưu Điện cam kết giao h&amp;agrave;ng tận nơi v&amp;agrave; kh&amp;aacute;c h&amp;agrave;ng được quyền mở h&amp;agrave;ng kiểm tra trước khi thanh to&amp;aacute;n tiền với Bưu Điện. Vui l&amp;ograve;ng li&amp;ecirc;n hệ ngay cho ch&amp;uacute;ng t&amp;ocirc;i nếu c&amp;oacute; trường hợp đ&amp;ograve;i th&amp;ecirc;m tiền v&amp;agrave; kh&amp;ocirc;ng giao h&amp;agrave;ng tận nh&amp;agrave;/trang trại/nh&amp;agrave; m&amp;aacute;y.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;3, Giao h&amp;agrave;ng th&amp;ocirc;ng qua đơn vị giao nhận kh&amp;aacute;c.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;bull; Giao h&amp;agrave;ng khắp cả nước tuy nhi&amp;ecirc;n chỉ &amp;aacute;p dụng đối với 1 số địa điểm ở c&amp;aacute;c th&amp;agrave;nh phố.&lt;/p&gt;
+&lt;p&gt;&amp;bull; Cam kết giao h&amp;agrave;ng đến tận nh&amp;agrave; v&amp;agrave; kh&amp;aacute;ch h&amp;agrave;ng được quyền kiểm tra h&amp;agrave;ng trước khi thanh to&amp;aacute;n tiền cho đơn vị vận chuyển. Vui l&amp;ograve;ng li&amp;ecirc;n hệ ngay cho ch&amp;uacute;ng t&amp;ocirc;i nếu c&amp;oacute; trường hợp đ&amp;ograve;i th&amp;ecirc;m tiền v&amp;agrave; kh&amp;ocirc;ng giao h&amp;agrave;ng tận nh&amp;agrave;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Khi cần tư vấn về c&amp;aacute;c dịch vụ v&amp;agrave; sản phẩm của Mavinex, Qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng li&amp;ecirc;n hệ :&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;ocirc;ng ty Cổ phần Mavinex -&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Hotline: 0221.653.7979&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Website:&amp;nbsp; &lt;a href="https://mavinex.com"&gt;https://mavinex.com&lt;/a&gt; -&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;Email: info@mavin-group.com&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Địa chỉ: Tầng 8, t&amp;ograve;a nh&amp;agrave; Hudland, số 6 Nguyễn Hữu Thọ, Ho&amp;agrave;ng Liệt, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-16T02:29:30.123Z</createdDate>
+	<createdDate_dt>2020-07-16T02:29:30.123Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T07:52:05.835Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T07:52:05.835Z</lastModifiedDate_dt>
+</page>

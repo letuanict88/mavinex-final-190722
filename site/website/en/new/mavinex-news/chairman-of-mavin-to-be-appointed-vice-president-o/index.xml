@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9834</objectGroupId>
+	<objectId>98349da1-6d1a-d53d-fb13-7e579e1de9ee</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chairman-of-mavin-to-be-appointed-vice-president-o</folder-name>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<internal-name>Chairman of Mavin to be appointed Vice President o</internal-name>
+	<navLabel>Chairman of Mavin to be appointed Vice President o</navLabel>
+	<title_s>Chairman of Mavin to be appointed Vice President o</title_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Mr David 2018_Fotor.jpg</image_s>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Recently, the Australia - Vietnam Chamber of Commerce (AusCham) has announced the appointment of Mr. David John Whitehead - Chairman of Mavin Group as its Vice President for the 2020-2021 term.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Mr. David has spent many years living and working in Vietnam, has knowledge and deep understanding of business in Vietnam, as well as particular experience dealing with government authorities in provinces throughout the country.&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;As Chairman of Mavin Group, a member of Auscham from 2005 up to now, Mr. David has held various positions of Auscham such as: Director, Chairman of Hanoi Chapter, and Vice-President during that time.&amp;nbsp; He is a member of a number of committees of the VBF and has represented Auscham in workshops, conferences and seminars in Vietnam and overseas.&amp;nbsp; He has a strong business relationship with the Australian Embassy and the Australian-Consulate.&amp;nbsp; He also has good relationships with all Business Chambers including AmCham, BBGV and EuroCham.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:50:47.242Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T04:50:47.242Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T04:50:47.242Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>52e8</objectGroupId>
+	<objectId>52e8dbcc-3c0f-8085-f94b-775523925e33</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>scope-of-activities</folder-name>
+	<internal-name>Scope of activities</internal-name>
+	<title_s>Scope of activities</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/dc5f8600-d426-d621-c5e9-1d11b6837490.xml</key>
+	<value>Scope of Activities</value>
+	<include>/site/items/slides/dc5f8600-d426-d621-c5e9-1d11b6837490.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="sectionDataSource" inline="true">	<key>f881c98b-50b1-f772-39e2-11dad47da57e</key>
+	<value>Scope of activities</value>
+<component id="f881c98b-50b1-f772-39e2-11dad47da57e">
+	<content-type>/component/componentactivity</content-type>
+	<display-template>/templates/web/activity.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f881</objectGroupId>
+	<objectId>f881c98b-50b1-f772-39e2-11dad47da57e</objectId>
+	<file-name>f881c98b-50b1-f772-39e2-11dad47da57e.xml</file-name>
+	<internal-name>Scope of activities</internal-name>
+	<title_s>Scope of activities</title_s>
+	<image_s>/static-assets/images/featured/content_img_1.png</image_s>
+	<item_o item-list="true">	<item>	<content_t>Construction of irrigation, civil and industrial transport works, infrastructure of industrial parks and urban areas.</content_t>
+	</item>	<item>	<content_t>Manufacturing and trading in building materials, precast concrete structures, metal structures.</content_t>
+	</item>	<item>	<content_t>Consulting, planning construction projects of animal feed factories and livestock farms.</content_t>
+	</item>	<item>	<content_t>Buying and selling, leasing machines and equipment used in the livestock industry.</content_t>
+	</item>	<item>	<content_t>Supplying and installing animal feed production line equipment, Industrial electrical system, Factory management software system.</content_t>
+	</item>	<item>	<content_t>Supply of breeding equipment: cage cage; Automatic feeding and drinking system; hatching machines for chickens and ducks; HDPE round fish cage ...)</content_t>
+	</item></item_o>
+	<createdDate>2020-06-15T08:39:13.142Z</createdDate>
+	<createdDate_dt>2020-06-15T08:39:13.142Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T08:39:13.142Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T08:39:13.142Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+	<thumbail_s>/static-assets/images/featured/content_img_3.png</thumbail_s>
+	<contents_html/>
+	<createdDate>2020-06-15T08:36:37.152Z</createdDate>
+	<createdDate_dt>2020-06-15T08:36:37.152Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T08:36:37.152Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T08:36:37.152Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/homeitem2content</content-type>
+	<display-template>/templates/web/homeitem2content.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e50b</objectGroupId>
+	<objectId>e50bc2f0-fd6a-25ac-11df-ef682ab21776</objectId>
+	<file-name>e50bc2f0-fd6a-25ac-11df-ef682ab21776.xml</file-name>
+	<internal-name>Building</internal-name>
+	<title_s>Lĩnh vực xây dựng</title_s>
+	<url_s>/linh-vuc-xay-dung</url_s>
+	<image_s>/static-assets/images/featured/content_img_2.png</image_s>
+	<createdDate>2020-05-04T03:58:42.381Z</createdDate>
+	<createdDate_dt>2020-05-04T03:58:42.381Z</createdDate_dt>
+	<lastModifiedDate>2020-05-04T03:58:42.381Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-04T03:58:42.381Z</lastModifiedDate_dt>
+</component>

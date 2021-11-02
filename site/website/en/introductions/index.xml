@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01c1</objectGroupId>
+	<objectId>01c10780-811b-4d6f-0cf0-714c13584b86</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>introductions</folder-name>
+	<internal-name>Introduction</internal-name>
+	<title_s>Introduction</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t/>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>d5392c01-2153-f09e-23f8-440e2a67e690</key>
+	<value>Giới thiệu slide</value>
+<component id="d5392c01-2153-f09e-23f8-440e2a67e690">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d539</objectGroupId>
+	<objectId>d5392c01-2153-f09e-23f8-440e2a67e690</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/Layer 203.png</image_s>
+	</item></image_o>
+	<file-name>d5392c01-2153-f09e-23f8-440e2a67e690.xml</file-name>
+	<internal-name>Giới thiệu slide</internal-name>
+	<createdDate>2020-06-08T03:46:15.094Z</createdDate>
+	<createdDate_dt>2020-06-08T03:46:15.094Z</createdDate_dt>
+	<lastModifiedDate>2020-06-08T03:46:15.094Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-08T03:46:15.094Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>67c950a7-40d1-0328-4562-dccbb53bef23</key>
+	<value>Introduction</value>
+<component id="67c950a7-40d1-0328-4562-dccbb53bef23">
+	<content-type>/component/introductcontent</content-type>
+	<display-template>/templates/web/introduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>67c9</objectGroupId>
+	<objectId>67c950a7-40d1-0328-4562-dccbb53bef23</objectId>
+	<introduct_o item-list="true">	<item>	<introductitemtitle_s>Introduction</introductitemtitle_s>
+	<introductUrl_s>/en/introducts/introduction</introductUrl_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-1.png</introducitemavatar_s>
+	</item>	<item>	<introductitemtitle_s>History</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-2.png</introducitemavatar_s>
+	<introductUrl_s>/en/introducts/history</introductUrl_s>
+	</item>	<item>	<introductitemtitle_s>Scope of activities</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-3.png</introducitemavatar_s>
+	<introductUrl_s>/en/introducts/scope-of-activities</introductUrl_s>
+	</item>	<item>	<introductitemtitle_s>Partnership</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-4.png</introducitemavatar_s>
+	<introductUrl_s>/en/introducts/partnership</introductUrl_s>
+	</item></introduct_o>
+	<file-name>67c950a7-40d1-0328-4562-dccbb53bef23.xml</file-name>
+	<internal-name>Introduction</internal-name>
+	<title_s>Introduction</title_s>
+	<createdDate>2020-06-08T03:35:13.575Z</createdDate>
+	<createdDate_dt>2020-06-08T03:35:13.575Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T08:44:35.722Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T08:44:35.722Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-08T03:34:23.339Z</createdDate>
+	<createdDate_dt>2020-06-08T03:34:23.339Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T08:44:29.783Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T08:44:29.783Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>703f</objectGroupId>
+	<objectId>703ff1dd-dae3-dd28-48cc-cabdbb1872e2</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-trao-6000-qua-khai-giang-nam-hoc-moi-2020</folder-name>
+	<internal-name>Mavin trao hàng nghìn suất quà cho trẻ em n</internal-name>
+	<navLabel>Mavin trao hàng nghìn suất quà cho trẻ em n</navLabel>
+	<title_s>Mavin trao hàng nghìn suất quà khai giảng cho trẻ em nghèo</title_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/TBDT_Nghe An.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;H&amp;ograve;a chung kh&amp;ocirc;ng kh&amp;iacute; đ&amp;oacute;n ch&amp;agrave;o năm học mới 2020 &amp;ndash; 2021,&amp;nbsp; Tập đo&amp;agrave;n Mavin ra qu&amp;acirc;n tham dự v&amp;agrave; tặng qu&amp;agrave; cho học sinh tiểu học trong Lễ khai giảng của hơn 30 Trường tiểu học tại v&amp;ugrave;ng s&amp;acirc;u v&amp;ugrave;ng xa, thuộc địa b&amp;agrave;n kh&amp;oacute; khăn tr&amp;ecirc;n cả nước.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong ảnh:&amp;nbsp;&lt;em style="text-align: center;"&gt;Niềm vui nhận qu&amp;agrave; tặng từ Mavin của c&amp;aacute;c học sinh Trường Tiểu học H&amp;ugrave;ng Sơn (Anh Sơn - Nghệ An)&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Chương tr&amp;igrave;nh d&amp;agrave;nh tặng 6.000 suất qu&amp;agrave; cho học sinh d&amp;acirc;n tộc thiểu số, học sinh ngh&amp;egrave;o vượt kh&amp;oacute;, học sinh c&amp;oacute; ho&amp;agrave;n cảnh kh&amp;oacute; khăn đặc biệt,&amp;hellip; nhằm kh&amp;iacute;ch lệ c&amp;aacute;c em chuy&amp;ecirc;n cần trong học tập, chắp c&amp;aacute;nh ước mơ cho c&amp;aacute;c em tự tin đến trường, vượt qua kh&amp;oacute; khăn trong cuộc sống v&amp;agrave; vươn l&amp;ecirc;n trong học tập. Mỗi suất qu&amp;agrave; gồm c&amp;aacute;c dụng cụ học tập thiết yếu như: vở &amp;ocirc; ly, hộp b&amp;uacute;t, thước kẻ, b&amp;uacute;t ch&amp;igrave;, được thiết kế với những h&amp;igrave;nh ảnh ngộ nghĩnh, đ&amp;aacute;ng y&amp;ecirc;u của những vật nu&amp;ocirc;i c&amp;oacute; li&amp;ecirc;n quan đến ng&amp;agrave;nh nghề của Mavin, vật liệu sản xuất cao cấp th&amp;acirc;n thiện m&amp;ocirc;i trường, an to&amp;agrave;n cho sức khỏe.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Thay mặt cho to&amp;agrave;n thể học sinh Trường Tiểu học v&amp;agrave; THCS Nậm Loỏng (Lai Ch&amp;acirc;u), Em S&amp;ugrave;ng Thị Nga, lớp 5A1 đ&amp;atilde; ph&amp;aacute;t biểu trước to&amp;agrave;n trường: "&lt;em&gt;Thay mặt c&amp;aacute;c bạn học sinh khối Tiểu học Trường Tiểu học v&amp;agrave; THCS Nậm Loỏng, con xin cảm ơn c&amp;aacute;c B&amp;aacute;c, c&amp;aacute;c Ch&amp;uacute; của Tập đo&amp;agrave;n Mavin đ&amp;atilde; d&amp;agrave;nh t&amp;igrave;nh cảm v&amp;agrave; c&amp;oacute; m&amp;oacute;n qu&amp;agrave; thật &amp;yacute; nghĩa cho ch&amp;uacute;ng con trong ng&amp;agrave;y đầu đến trường. Con xin ch&amp;uacute;c Tập đo&amp;agrave;n Mavin ng&amp;agrave;y c&amp;agrave;ng ph&amp;aacute;t triển&lt;/em&gt;"&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong bối cảnh dịch bệnh Covid &amp;ndash; 19 đang g&amp;acirc;y kh&amp;ocirc;ng &amp;iacute;t kh&amp;oacute; khăn cho c&amp;ocirc;ng t&amp;aacute;c dạy v&amp;agrave; học của c&amp;aacute;c Trường tr&amp;ecirc;n cả nước, chương tr&amp;igrave;nh &amp;ldquo;&lt;strong&gt;Tiếp bước đến trường&lt;/strong&gt;&amp;rdquo; l&amp;agrave; sự chia sẻ của Tập đo&amp;agrave;n Mavin, với mong ước tiếp sức cho c&amp;aacute;c thầy c&amp;ocirc; v&amp;agrave; c&amp;aacute;c em học sinh tự tin ho&amp;agrave;n th&amp;agrave;nh tốt c&amp;ocirc;ng t&amp;aacute;c dạy v&amp;agrave; học trước thềm năm học mới 2020 &amp;ndash; 2021.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/Tieu hoc So Pai Gia Lai.jpg" alt="" width="800" height="600" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Chủ tịch HĐQT Mavin trao qu&amp;agrave; cho học sinh Trường Tiểu học Sơ Pai K'Bang - Gia Lai&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;Xem th&amp;ecirc;m chi tiết tại website của Tập đo&amp;agrave;n Mavin:&amp;nbsp;&lt;/em&gt;&lt;a href="https://mavin-group.com/vi/tin-mavin/le-khai-giang-nam-hoc-moi-mavin-trao-hang-nghin-suat-qua-cho-tre-em-ngheo-hoc-gioi.html"&gt;&lt;em&gt;https://mavin-group.com/vi/tin-mavin/le-khai-giang-nam-hoc-moi-mavin-trao-hang-nghin-suat-qua-cho-tre-em-ngheo-hoc-gioi.html&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-09-16T07:56:36.497Z</createdDate>
+	<createdDate_dt>2020-09-16T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T08:51:07.938Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T08:51:07.938Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

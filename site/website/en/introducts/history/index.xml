@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>96de</objectGroupId>
+	<objectId>96de8466-b1ba-9fb9-093e-ffe0c147e1a0</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>history</folder-name>
+	<internal-name>History</internal-name>
+	<title_s>Our history</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/9d441890-9dcb-9fad-b191-fd12fd5acfe8.xml</key>
+	<value>History</value>
+	<include>/site/items/slides/9d441890-9dcb-9fad-b191-fd12fd5acfe8.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true"/>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-2.png</thumbail_s>
+	<contents_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Formed in a period of strong integration and development of the country, with the background of 15 years of experience from the project office of the Mavin Group, Mavinex Joint Stock Company was established under the certificate of business registration No. 0901009304 dated April 3, 2017 of the Department of Planning and Investment of Hung Yen province. Through the process of building and developing, Mavinex Joint Stock Company has become a trusted company with a firm foothold in the market in providing technology solutions in the field of construction. animal feed processing factory and development of breeding farms.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Many big projects have been implemented by the company such as: Hung Yen aquafeed factory project with a capacity of 45,000 tons / year; Nghe An animal feed factory with a capacity of 300,000 tons / year; Dong Thap animal feed factory with a capacity of 350,000 tons / year; Binh Dinh animal feed factory with a capacity of 200,000 tons / year; Hung Yen animal feed factory expansion project from an annual capacity of 50,000 tons to an animal feed factory with a capacity of 250,000 tons / year.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;In the field of animal husbandry, there are projects such as: 1,200 Hung Yen breeding pigs; 1,500 grandparents' farms in Binh Dinh, 30,000 Thai Binh duck farms and hundreds of pig, chicken and duck farms across the country such as Thai Binh, Phu Tho, Bac Ninh, Hoa Binh, Hung Yen , Bac Giang, Hai Duong, Quang Ninh, Thanh Hoa, Nghe An, Hau Giang, Tay Ninh, Binh Phuoc ....&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;With the leadership and organization system of compact, dynamic management, in accordance with the market mechanism, a team of experienced engineers, skilled technical workers, synchronous construction technology equipment, the Company Mavinex shares affirmed: it is possible to meet all customer requirements for the quality and progress of large and small constructions with the most reasonable price.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Mavinex Corporation desires to be a reliable address of customers. Come to our company customers will meet friends and sincere partners, get the works of good quality, sustainability with reasonable prices and high aesthetic value.&lt;/span&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-06-05T04:14:34.729Z</createdDate>
+	<createdDate_dt>2020-06-05T04:14:34.729Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T09:27:42.780Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T09:27:42.780Z</lastModifiedDate_dt>
+</page>

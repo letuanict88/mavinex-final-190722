@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8725</objectGroupId>
+	<objectId>8725a3fd-6c5f-1580-a47d-b71578608614</objectId>
+	<file-name>8725a3fd-6c5f-1580-a47d-b71578608614.xml</file-name>
+	<productchildavatar_s>/static-assets/images/products/thiet-bi-thuy-san-avt.png</productchildavatar_s>
+	<internal-name>Lồng nuôi cá tròn hdpe</internal-name>
+	<productchildtitle_s>Lồng nuôi cá tròn hdpe</productchildtitle_s>
+	<productgrouplevel1_s>thiet-bi-thuy-san</productgrouplevel1_s>
+	<productgrouplevel2_s>long-nuoi-ca-hdpe</productgrouplevel2_s>
+	<createdDate>2020-05-25T02:50:21.404Z</createdDate>
+	<createdDate_dt>2020-05-25T02:50:21.404Z</createdDate_dt>
+	<lastModifiedDate>2020-05-25T02:50:21.404Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-25T02:50:21.404Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3931</objectGroupId>
+	<objectId>3931a00d-597b-f2c9-f660-22fe94ab4549</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>overall-consulting--livestock-farm-design</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>8586b711-6463-e1bf-aad7-135a89d2bda9</key>
+	<value>Design and overall solution for livestock farm</value>
+<component id="8586b711-6463-e1bf-aad7-135a89d2bda9">
+	<content-type>/component/componentfields</content-type>
+	<display-template>/templates/web/fields.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8586</objectGroupId>
+	<objectId>8586b711-6463-e1bf-aad7-135a89d2bda9</objectId>
+	<file-name>8586b711-6463-e1bf-aad7-135a89d2bda9.xml</file-name>
+	<internal-name>Design and overall solution for livestock farm</internal-name>
+	<title_s>Design and overall solution for livestock farm</title_s>
+	<itemTitle_s>Design and overall solution for livestock farm</itemTitle_s>
+	<itemId_s>fieldsen</itemId_s>
+	<groupTitle_s>Provide overall solution</groupTitle_s>
+	<carouselTitle_s>SOME PICTURES OF OVERALL DESIGNS OF THE FACTORY AND FARMS</carouselTitle_s>
+	<carousels_o item-list="true">	<item datasource="carouselsDataSource">	<key>/site/items/c7ca3b1a-a986-39b7-0b61-3c1992df3f6b.xml</key>
+	<value>Carousel</value>
+	<include>/site/items/c7ca3b1a-a986-39b7-0b61-3c1992df3f6b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></carousels_o>
+	<itemContent_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Mavinex provides optimal solutions from the master plan to the detailed farm design, and advises investors to apply advanced breeding technologies in accordance with the development trend, in accordance with breeding standards, ensure efficient and sustainable financial investment.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Currently Mavinex is supporting, consulting and supplying equipment for pig, chicken and duck farms throughout the country and cities such as Thai Binh, Phu Tho, Bac Ninh, Hoa Binh, Hung Yen and Bac Giang. , Hai Duong, Quang Ninh, Thanh Hoa, Nghe An, Hau Giang ... The projects are praised and appreciated by investors and partners.&lt;/span&gt;&lt;/p&gt;</itemContent_html>
+	<group_o item-list="true">	<item>	<groupContent_s>Master plan for livestock farm and feedmill design</groupContent_s>
+	</item>	<item>	<groupContent_s>Detailed design of livestock farm and feedmill</groupContent_s>
+	</item>	<item>	<groupContent_s>Advise advanced breeding technologies</groupContent_s>
+	</item></group_o>
+	<createdDate>2020-06-05T07:21:55.721Z</createdDate>
+	<createdDate_dt>2020-06-05T07:21:55.721Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:20:08.090Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:20:08.090Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<internal-name>Design and overall solution for livestock farm</internal-name>
+	<title_s>Design and overall solution for livestock farm</title_s>
+	<descripttion_t>Design and overall solution for livestock farm</descripttion_t>
+	<createdDate>2020-06-05T07:21:34.117Z</createdDate>
+	<createdDate_dt>2020-06-05T07:21:34.117Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:20:00.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:20:00.234Z</lastModifiedDate_dt>
+</page>

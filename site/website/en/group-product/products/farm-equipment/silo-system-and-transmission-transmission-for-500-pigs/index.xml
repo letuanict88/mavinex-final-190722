@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f6e</objectGroupId>
+	<objectId>3f6e0896-19dd-8f27-7f93-d961accd65fa</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>silo-system-and-transmission-transmission-for-500-pigs</folder-name>
+	<internal-name>SILO SYSTEM AND TRANSMISSION TRANSMISSION FOR 500 PORKERS</internal-name>
+	<navLabel>SILO SYSTEM AND TRANSMISSION TRANSMISSION FOR 500 </navLabel>
+	<productname_s>SILO SYSTEM AND TRANSMISSION TRANSMISSION FOR 500 PORKERS</productname_s>
+	<productnameEnglish_s>SILO SYSTEM AND TRANSMISSION TRANSMISSION FOR 500 PORKERS</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productAvatar_s>/static-assets/images/products/silo-500.png</productAvatar_s>
+	<productdescription_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;(Discharge bran into the feeder]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Include:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Composite silo capacity of 7.5 tons (3 legs, need to open the lid)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 03 Loadcell SQB - 5T&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 01 W 100 scale head - (Laumas Italia)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 01 Dol sensor - made in Denmark&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 10 square trays (2 sides) with 304 stainless steel, 1.5mm thick, size (LxWxH): 150 x 54 x 78 cm with wet bran knob, with a capacity of 150 kg.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- The bran transmission system is 55-60 m long.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Control cabinet.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Installation accessories.&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;(Discharge bran into the feeder]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Include:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Composite silo capacity of 7.5 tons (3 legs, need to open the lid)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 03 Loadcell SQB - 5T&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 01 W 100 scale head - (Laumas Italia)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 01 Dol sensor - made in Denmark&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- 10 square trays (2 sides) with 304 stainless steel, 1.5mm thick, size (LxWxH): 150 x 54 x 78 cm with wet bran knob, with a capacity of 150 kg.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- The bran transmission system is 55-60 m long.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Control cabinet.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Installation accessories.&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Silo chứa cám</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T02:42:11.877Z</createdDate>
+	<createdDate_dt>2020-07-14T02:42:11.877Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:51:52.214Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:51:52.214Z</lastModifiedDate_dt>
+</page>

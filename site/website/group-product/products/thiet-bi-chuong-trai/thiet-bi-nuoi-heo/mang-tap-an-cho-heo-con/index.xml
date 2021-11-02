@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a320</objectGroupId>
+	<objectId>a320a2ee-71aa-ddca-d323-c4f9db9f03da</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-tap-an-cho-heo-con</folder-name>
+	<internal-name>Máng tập ăn cho heo con</internal-name>
+	<navLabel>Máng tập ăn cho heo con</navLabel>
+	<productname_s>Máng tập ăn cho heo con</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Máng ăn heo con 1.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Dung t&amp;iacute;ch: 2 l&amp;iacute;t chiều cao: 25 cm đường k&amp;iacute;nh 24 cm&lt;/p&gt;
+&lt;p&gt;Chất liệu: Nhựa PP&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Rotecna &amp;ndash; T&amp;acirc;y Ban Nha&lt;br /&gt;&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng ăn heo con 1.jpg</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-07T04:34:38.412Z</createdDate>
+	<createdDate_dt>2020-06-07T04:34:38.412Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T08:26:32.730Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T08:26:32.730Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Troughs for piglet feeding</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;Capacity: 2 liters in height: 25 cm in diameter 24 cm&lt;/p&gt;
+&lt;p&gt;Material: PP plastic&lt;/p&gt;
+&lt;p&gt;Origin: Rotecna - Spain&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

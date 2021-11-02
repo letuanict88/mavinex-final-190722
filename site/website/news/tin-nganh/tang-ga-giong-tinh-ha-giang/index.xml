@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3ac5</objectGroupId>
+	<objectId>3ac55161-5d3a-b387-73c1-5b87ba98a810</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tang-ga-giong-tinh-ha-giang</folder-name>
+	<internal-name>Tặng gà giống hỗ trợ nông dân Hà Giang phát triển chăn nuôi</internal-name>
+	<navLabel>Tặng gà giống hỗ trợ nông dân Hà Giang phát triển chăn nuôi</navLabel>
+	<title_s>Tặng gà giống hỗ trợ nông dân Hà Giang phát triển chăn nuôi</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/Trao tang ga giong Ha Giang (1)_Fotor.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 14/9/2020, tại Thị trấn Y&amp;ecirc;n B&amp;igrave;nh, huyện Quang B&amp;igrave;nh, tỉnh H&amp;agrave; Giang &amp;ndash; Tập đo&amp;agrave;n Mavin trao tặng 5.000 con g&amp;agrave; giống (G&amp;agrave; Ri Mavin 233) cho c&amp;aacute;c hộ n&amp;ocirc;ng d&amp;acirc;n tham gia m&amp;ocirc; h&amp;igrave;nh chăn nu&amp;ocirc;i gia cầm th&amp;iacute; điểm tại Y&amp;ecirc;n B&amp;igrave;nh. Tổng số g&amp;agrave; giống được trao tặng trong Chương tr&amp;igrave;nh l&amp;agrave; 10.000 con, được cấp ph&amp;aacute;t th&amp;agrave;nh 2 đợt, v&amp;agrave;o c&amp;aacute;c ng&amp;agrave;y 14 v&amp;agrave; 21/9/2020.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong ảnh:&amp;nbsp;&lt;em style="text-align: center;"&gt;G&amp;agrave; giống Mavin v&amp;agrave; Chương tr&amp;igrave;nh chăn nu&amp;ocirc;i với c&amp;aacute;c sản phẩm c&amp;aacute;m g&amp;agrave; Stargro 8031, 8032, 8033 của Tập đo&amp;agrave;n Mavin&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;aacute;c hộ d&amp;acirc;n được lựa chọn trong Chương tr&amp;igrave;nh x&amp;acirc;y dựng m&amp;ocirc; h&amp;igrave;nh chăn nu&amp;ocirc;i gia cầm của Thị trấn Y&amp;ecirc;n B&amp;igrave;nh cần đ&amp;aacute;p ứng được c&amp;aacute;c điều kiện về chuồng trại, đảm bảo chăn nu&amp;ocirc;i an to&amp;agrave;n sinh học,&amp;hellip; Họ sẽ được cấp miễn ph&amp;iacute; g&amp;agrave; giống Mavin k&amp;egrave;m theo c&amp;aacute;c hỗ trợ kỹ thuật, tư vấn quy tr&amp;igrave;nh chăn nu&amp;ocirc;i bằng c&amp;aacute;c sản phẩm thức ăn chăn nu&amp;ocirc;i v&amp;agrave; thuốc th&amp;uacute; y chất lượng cao của Mavin. Tr&amp;ecirc;n cơ sở kết quả chăn nu&amp;ocirc;i của c&amp;aacute;c hộ tham gia, địa phương sẽ lập đề &amp;aacute;n quy hoạch chăn nu&amp;ocirc;i trong đ&amp;oacute; c&amp;oacute; ph&amp;aacute;t triển chăn nu&amp;ocirc;i gia cầm, g&amp;oacute;p phần ph&amp;aacute;t triển kinh tế Y&amp;ecirc;n B&amp;igrave;nh &amp;ndash; Quang B&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trước đ&amp;oacute;, để chuẩn bị tốt nhất cho c&amp;aacute;c hộ n&amp;ocirc;ng d&amp;acirc;n được cấp ph&amp;aacute;t g&amp;agrave; giống, Tập đo&amp;agrave;n Mavin cũng đ&amp;atilde; tổ chức Hội thảo Tập huấn chuyển giao kỹ thuật g&amp;agrave; l&amp;ocirc;ng m&amp;agrave;u tại Thị trấn Y&amp;ecirc;n B&amp;igrave;nh v&amp;agrave;o ng&amp;agrave;y 10/9/2020. C&amp;aacute;n bộ Kỹ thuật v&amp;agrave; c&amp;aacute;n bộ Kinh doanh Mavin đ&amp;atilde; giới thiệu cho b&amp;agrave; con về giống g&amp;agrave; Ri Mavin 233 v&amp;agrave; quy tr&amp;igrave;nh chăn nu&amp;ocirc;i hiệu quả bao gồm: c&amp;aacute;ch chăm s&amp;oacute;c, chuẩn bị chuồng trại, dinh dưỡng, ph&amp;ograve;ng ngừa dịch bệnh,&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;img src="/static-assets/images/Trao tang ga giong Ha Giang (13)_Fotor.jpg" alt="" width="800" height="486" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;C&amp;aacute;c hộ d&amp;acirc;n phấn khởi nhận g&amp;agrave; giống Mavin&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;G&amp;agrave; Ri Mavin 233 l&amp;agrave; sản phẩm độc quyền, được nghi&amp;ecirc;n cứu v&amp;agrave; chọn tạo tr&amp;ecirc;n cơ sở hợp t&amp;aacute;c chiến lược giữa Tập đo&amp;agrave;n Mavin v&amp;agrave; H&amp;atilde;ng g&amp;agrave; giống Sasso (Ph&amp;aacute;p). Nhờ lai tạo v&amp;agrave; chọn lọc từ c&amp;aacute;c d&amp;ograve;ng g&amp;agrave; nổi tiếng Ch&amp;acirc;u &amp;Acirc;u với c&amp;aacute;c giống g&amp;agrave; bản địa được chọn lọc, nu&amp;ocirc;i dưỡng, chăm s&amp;oacute;c, c&amp;oacute; độ thuần cao của Việt Nam, g&amp;agrave; Mavin c&amp;oacute; nhiều phẩm chất vượt trội. Cụ thể: R&amp;uacute;t ngắn thời gian nu&amp;ocirc;i từ 5 &amp;ndash; 10 ng&amp;agrave;y; Tăng trọng hơn 200g khi kết th&amp;uacute;c lứa nu&amp;ocirc;i; v&amp;agrave; đặc biệt trong c&amp;ugrave;ng thời gian nu&amp;ocirc;i, c&amp;ugrave;ng đặc điểm chuồng nu&amp;ocirc;i, g&amp;agrave; Mavin c&amp;oacute; thể gi&amp;uacute;p người chăn nu&amp;ocirc;i tiết kiệm tới 300g thức ăn tr&amp;ecirc;n 1 kg tăng trọng.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;img src="/static-assets/images/z2075493823844_4f9d3f5b8d85d797b9ab02694ff2b5aa_Fotor.jpg" alt="" width="800" height="531" /&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;G&amp;agrave; giống Mavin được chuyển về nh&amp;agrave; của một hộ chăn nu&amp;ocirc;i&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tập đo&amp;agrave;n Mavin kỳ vọng, với con giống chất lượng cao, c&amp;ugrave;ng những kiến thức v&amp;agrave; kinh nghiệm chăn nu&amp;ocirc;i ti&amp;ecirc;n tiến m&amp;agrave; Mavin chuyển giao cho b&amp;agrave; con n&amp;ocirc;ng d&amp;acirc;n sẽ g&amp;oacute;p phần thay đổi tư duy v&amp;agrave; tập qu&amp;aacute;n chăn nu&amp;ocirc;i g&amp;agrave; của Quang B&amp;igrave;nh - H&amp;agrave; Giang, qua đ&amp;oacute; kh&amp;ocirc;ng những gi&amp;uacute;p người n&amp;ocirc;ng d&amp;acirc;n l&amp;agrave;m chủ được nghề m&amp;agrave; c&amp;ograve;n ph&amp;aacute;t triển kinh tế hộ gia đ&amp;igrave;nh, đ&amp;oacute;ng g&amp;oacute;p v&amp;agrave;o ph&amp;aacute;t triển kinh tế địa phương.&lt;/p&gt;</content_html>
+	<createdDate>2020-09-16T08:02:08.836Z</createdDate>
+	<createdDate_dt>2020-09-16T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T08:50:04.367Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T08:50:04.367Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

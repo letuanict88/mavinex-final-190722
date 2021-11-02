@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e7b</objectGroupId>
+	<objectId>1e7bdf22-d667-2cfd-6e3f-b83c22d8d9e5</objectId>
+	<productgrouplevel1_s>thiet-bi-nha-may-thuc-an-chan-nuoi</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nha-may-tacn</productgrouplevel2_s>
+	<productchildavatar_s>/static-assets/images/products/thiet-bi-nha-may-tacn.png</productchildavatar_s>
+	<file-name>1e7bdf22-d667-2cfd-6e3f-b83c22d8d9e5.xml</file-name>
+	<internal-name>Feed machine equipment</internal-name>
+	<productchildtitle_s>Thiết bị máy TACN</productchildtitle_s>
+	<productchildtitleEnglish_s>Feed machine equipment</productchildtitleEnglish_s>
+	<createdDate>2020-06-09T08:45:34.311Z</createdDate>
+	<createdDate_dt>2020-06-09T08:45:34.311Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:45:34.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:45:34.311Z</lastModifiedDate_dt>
+</component>

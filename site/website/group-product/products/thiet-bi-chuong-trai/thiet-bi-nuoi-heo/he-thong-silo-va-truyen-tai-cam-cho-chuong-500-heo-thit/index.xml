@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3c6f</objectGroupId>
+	<objectId>3c6f9146-0fe1-a731-5573-8ab8cf563d1a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-silo-va-truyen-tai-cam-cho-chuong-500-heo-thit</folder-name>
+	<internal-name>Hệ thống silo và truyền tải cám cho chuồng 500 heo thịt.</internal-name>
+	<navLabel>Hệ thống silo và truyền tải cám cho chuồng 500 heo</navLabel>
+	<productname_s>Hệ thống silo và truyền tải cám cho chuồng 500 heo thịt.</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/product-group-4.png</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;[Phương &amp;aacute;n xả c&amp;aacute;m v&amp;agrave;o tận m&amp;aacute;ng ăn]&lt;/p&gt;
+&lt;p&gt;Bao gồm:&lt;/p&gt;
+&lt;p&gt;- Silo Composite dung t&amp;iacute;ch 7,5 tấn (3 ch&amp;acirc;n, c&amp;oacute; cần mở nắp)&lt;/p&gt;
+&lt;p&gt;- 03 Loadcell SQB - 5T&lt;/p&gt;
+&lt;p&gt;- 01 Đầu c&amp;acirc;n W 100 - (Laumas Italia)&lt;/p&gt;
+&lt;p&gt;- 01 Cảm biến Dol - xuất xứ Đan Mạch&lt;/p&gt;
+&lt;p&gt;- 10 M&amp;aacute;ng ăn 8 ngăn dạng vu&amp;ocirc;ng (2 b&amp;ecirc;n) bằng inox 304, d&amp;agrave;y 1,5mm, k&amp;iacute;ch thước (DxRxC): 150 x 54 x&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;78 cm c&amp;oacute; n&amp;uacute;m ướt c&amp;aacute;m, với sức chứa 150 kg.&lt;/p&gt;
+&lt;p&gt;- Hệ thống truyền tải c&amp;aacute;m d&amp;agrave;i 55 - 60 m.&lt;/p&gt;
+&lt;p&gt;- Tủ điều khiển.&lt;/p&gt;
+&lt;p&gt;- Phụ kiện lắp đặt.&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-05T09:05:42.340Z</createdDate>
+	<createdDate_dt>2020-06-05T09:05:42.340Z</createdDate_dt>
+	<lastModifiedDate>2020-06-10T09:32:02.098Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-10T09:32:02.098Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Silo system and conveying bran for barns 500 pigs.</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;[The plan to discharge bran into the feeder]&lt;/p&gt;
+&lt;p&gt;Include:&lt;/p&gt;
+&lt;p&gt;- Composite silo capacity of 7.5 tons (3 legs, need to open the lid)&lt;/p&gt;
+&lt;p&gt;- 03 Loadcell SQB - 5T&lt;/p&gt;
+&lt;p&gt;- 01 W 100 scale head - (Laumas Italia)&lt;/p&gt;
+&lt;p&gt;- 01 Dol sensor - made in Denmark&lt;/p&gt;
+&lt;p&gt;- 10 square trays (2 sides) with 304 stainless steel, 1.5mm thick, size (LxWxH): 150 x 54 x 78 cm with wet bran knob, with a capacity of 150 kg.&lt;/p&gt;
+&lt;p&gt;- The bran transmission system is 55-60 m long.&lt;/p&gt;
+&lt;p&gt;- Control cabinet.&lt;/p&gt;
+&lt;p&gt;- Installation accessories.&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

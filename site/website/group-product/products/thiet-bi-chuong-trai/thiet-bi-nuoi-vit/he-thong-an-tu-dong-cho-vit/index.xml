@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>792b</objectGroupId>
+	<objectId>792ba23e-0b01-557b-9319-48c988471a5e</objectId>
+	<internal-name>Hệ thống ăn tự động cho vịt</internal-name>
+	<navLabel>Hệ thống ăn tự động cho vịt</navLabel>
+	<productname_s>Hệ thống ăn tự động cho vịt</productname_s>
+	<productnameEnglish_s>Automatic feeding system for ducks</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-an-tu-dong-cho-vit</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productAvatar_s>/static-assets/images/products/He thong an cho vit 1.jpg</productAvatar_s>
+	<productdescription_html>&lt;p&gt;Xuất xứ: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 1.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn tự động cho vịt 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 3.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn tự động cho vịt  2</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 2.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn tự động cho vịt  2</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 4.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn tự động cho vịt  3</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-16T03:30:51.731Z</createdDate>
+	<createdDate_dt>2020-06-16T03:30:51.731Z</createdDate_dt>
+	<lastModifiedDate>2020-06-16T03:30:51.731Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-16T03:30:51.731Z</lastModifiedDate_dt>
+</page>

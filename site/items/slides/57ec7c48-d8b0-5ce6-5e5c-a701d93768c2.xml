@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>57ec</objectGroupId>
+	<objectId>57ec7c48-d8b0-5ce6-5e5c-a701d93768c2</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-so-do-to-chuc.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>57ec7c48-d8b0-5ce6-5e5c-a701d93768c2.xml</file-name>
+	<createdDate>2020-04-17T03:21:49.535Z</createdDate>
+	<createdDate_dt>2020-04-17T03:21:49.535Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T03:05:21.568Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T03:05:21.568Z</lastModifiedDate_dt>
+</component>

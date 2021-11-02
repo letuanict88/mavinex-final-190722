@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>95ea</objectGroupId>
+	<objectId>95ea3511-0ac1-0883-1212-75e6bfd483a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>may-ap-no-trung</folder-name>
+	<internal-name>Máy ấp nở trứng</internal-name>
+	<navLabel>Máy ấp nở trứng</navLabel>
+	<product_title_s>Máy ấp nở trứng</product_title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/33270aab-fd28-7e2c-b48c-141dc51f29e9.xml</key>
+	<value>Máy ấp nở trứng gà</value>
+	<include>/site/items/33270aab-fd28-7e2c-b48c-141dc51f29e9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="productchildcomponent">	<key>/site/items/28e6168c-feae-9389-bcc4-74056a82b738.xml</key>
+	<value>Máy ấp nở trứng vịt</value>
+	<include>/site/items/28e6168c-feae-9389-bcc4-74056a82b738.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGroup_o>	<item>	<key>thiet-bi-chan-nuoi</key>
+	<value_smv>Thiết bị chăn nuôi</value_smv>
+	</item></productGroup_o>
+	<createdDate>2020-06-08T06:51:10.038Z</createdDate>
+	<createdDate_dt>2020-06-08T06:51:10.038Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T07:56:41.183Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T07:56:41.183Z</lastModifiedDate_dt>
+	<productGrouptitleEnglish_s>Egg hatching machine </productGrouptitleEnglish_s>
+</page>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b68</objectGroupId>
+	<objectId>9b681e64-9bec-f818-a6c2-60eb47d33e0b</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Trang chủ</internal-name>
+	<title_s>Home</title_s>
+	<descripttion_t>Trang chủ</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>8e518ed7-832d-2044-8785-7b5bcea6eae9</key>
+	<value>Slide</value>
+<component id="8e518ed7-832d-2044-8785-7b5bcea6eae9">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8e51</objectGroupId>
+	<objectId>8e518ed7-832d-2044-8785-7b5bcea6eae9</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_1.png</image_s>
+	</item></image_o>
+	<file-name>8e518ed7-832d-2044-8785-7b5bcea6eae9.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-05T03:54:39.964Z</createdDate>
+	<createdDate_dt>2020-06-05T03:54:39.964Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T03:54:39.964Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T03:54:39.964Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>6f032d7b-0352-97e3-97bf-7863c34c981a</key>
+	<value>Products Carousel</value>
+<component id="6f032d7b-0352-97e3-97bf-7863c34c981a">
+	<content-type>/component/componentnews</content-type>
+	<display-template>/templates/web/products.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f03</objectGroupId>
+	<objectId>6f032d7b-0352-97e3-97bf-7863c34c981a</objectId>
+	<arrow1_s>/static-assets/images/mavinex_left_arrow.png</arrow1_s>
+	<arrow2_s>/static-assets/images/mavinex_right_arrow.png</arrow2_s>
+	<file-name>6f032d7b-0352-97e3-97bf-7863c34c981a.xml</file-name>
+	<internal-name>Products Carousel</internal-name>
+	<tittle_s>Products</tittle_s>
+	<products_o item-list="true">	<item>	<pTittle1_s>FARM EQUIPMENT</pTittle1_s>
+	<pLink1_s>/en/group-product/farm-equipment</pLink1_s>
+	<pImage1_s>/static-assets/images/Layer 205 copy.png</pImage1_s>
+	<pTittle2_s>EGG HATCHING MACHINE</pTittle2_s>
+	<pLink2_s>/en/group-product/egg-hatching-machine</pLink2_s>
+	<pImage2_s>/static-assets/images/Layer 198.png</pImage2_s>
+	<pTittle3_s>AQUACULTURE EQUIPMENT</pTittle3_s>
+	<pLink3_s>/en/group-product/aquaculture-equipment</pLink3_s>
+	<pImage3_s>/static-assets/images/Layer 300.png</pImage3_s>
+	<pTittle4_s>ANIMAL FEED PROCESSING</pTittle4_s>
+	<pLink4_s>/en/group-product/animal-feed-processing</pLink4_s>
+	<pImage4_s>/static-assets/images/Layer 211.png</pImage4_s>
+	</item>	<item>	<pTittle1_s>FARM EQUIPMENT</pTittle1_s>
+	<pLink1_s>/en/group-product/farm-equipment</pLink1_s>
+	<pImage1_s>/static-assets/images/Layer 205 copy.png</pImage1_s>
+	<pTittle2_s>EGG HATCHING MACHINE</pTittle2_s>
+	<pLink2_s>/en/group-product/egg-hatching-machine</pLink2_s>
+	<pImage2_s>/static-assets/images/Layer 198.png</pImage2_s>
+	<pTittle3_s>AQUACULTURE EQUIPMENT</pTittle3_s>
+	<pLink3_s>/en/group-product/aquaculture-equipment</pLink3_s>
+	<pImage3_s>/static-assets/images/Layer 300.png</pImage3_s>
+	<pTittle4_s>ANIMAL FEED PROCESSING</pTittle4_s>
+	<pLink4_s>/en/group-product/animal-feed-processing</pLink4_s>
+	<pImage4_s>/static-assets/images/Layer 211.png</pImage4_s>
+	</item></products_o>
+	<createdDate>2020-06-13T03:06:29.036Z</createdDate>
+	<createdDate_dt>2020-06-13T03:06:29.036Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T03:06:29.036Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T03:06:29.036Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>93c22144-427d-d0e1-c920-ffcdb006e591</key>
+	<value>Giới thiệu</value>
+<component id="93c22144-427d-d0e1-c920-ffcdb006e591">
+	<content-type>/component/homeitem1</content-type>
+	<display-template>/templates/web/homeitem1.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>93c2</objectGroupId>
+	<objectId>93c22144-427d-d0e1-c920-ffcdb006e591</objectId>
+	<item_o item-list="true">	<item>	<content_t>Established in 2017, formerly known as the Project Department of Mavin Group, Mavinex Joint Stock Company is known as the developer of key projects of  Mavin Group in designing and constructing animal feed factories &amp; breeding farms. Over the past years, Mavinex has implemented dozens of key projects of Mavin group, including: Aqua feedmill building project in Hung Yen with a capacity of 45,000 tons/year; Nghe An animal feedmill with a capacity of 300,000 tons/ year; and Dong Thap feedmill with a capacity of 350,000 tons / year.</content_t>
+	</item>	<item>	<content_t>The harmonious combination of equipment technology of the world's leading brands of Buhler, Vandesen, Chronos ... and the creation of Mavinex’s engineers have been building up “state of the art” animal feedmills. The application of 4.0 technology helps Mavin reduce production and operation costs, increase labor productivity and protect the environment and the health of producers and consumers.</content_t>
+	</item></item_o>
+	<isVerticalContent_b>false</isVerticalContent_b>
+	<file-name>93c22144-427d-d0e1-c920-ffcdb006e591.xml</file-name>
+	<internal-name>Giới thiệu</internal-name>
+	<title_s>Introduction</title_s>
+	<image_s>/static-assets/images/featured/content_img_1.png</image_s>
+	<createdDate>2020-06-08T02:30:32.590Z</createdDate>
+	<createdDate_dt>2020-06-08T02:30:32.590Z</createdDate_dt>
+	<lastModifiedDate>2020-06-08T03:33:43.200Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-08T03:33:43.200Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>a09d142e-d527-f678-4373-9b6fc6ee2e43</key>
+	<value>Capability</value>
+<component id="a09d142e-d527-f678-4373-9b6fc6ee2e43">
+	<content-type>/component/homeitem2</content-type>
+	<display-template>/templates/web/homeitem2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a09d</objectGroupId>
+	<objectId>a09d142e-d527-f678-4373-9b6fc6ee2e43</objectId>
+	<file-name>a09d142e-d527-f678-4373-9b6fc6ee2e43.xml</file-name>
+	<internal-name>Capability</internal-name>
+	<title_s>Capability</title_s>
+	<contentitem_o item-list="true">	<item datasource="homeitem2contentcomponent">	<key>/site/items/home-item-2-content/85460acf-e7ea-65da-ce98-4b658031839e.xml</key>
+	<value>Building sector</value>
+	<include>/site/items/home-item-2-content/85460acf-e7ea-65da-ce98-4b658031839e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="homeitem2contentcomponent">	<key>/site/items/home-item-2-content/21ca1eef-107f-353c-5a25-60c5608db25e.xml</key>
+	<value>Overall consulting, livestock farm design</value>
+	<include>/site/items/home-item-2-content/21ca1eef-107f-353c-5a25-60c5608db25e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contentitem_o>
+	<createdDate>2020-06-08T02:34:24.904Z</createdDate>
+	<createdDate_dt>2020-06-08T02:34:24.904Z</createdDate_dt>
+	<lastModifiedDate>2020-06-08T02:34:24.904Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-08T02:34:24.904Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>index</folder-name>
+	<createdDate>2020-06-05T03:53:24.856Z</createdDate>
+	<createdDate_dt>2020-06-05T03:53:24.856Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T03:06:15.853Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T03:06:15.853Z</lastModifiedDate_dt>
+</page>

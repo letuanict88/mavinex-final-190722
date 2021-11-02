@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/headeren</content-type>
+	<display-template>/templates/web/header-en.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>65e3</objectGroupId>
+	<objectId>65e34e03-2b97-b5b6-47f9-52c0443429f3</objectId>
+	<logo_s>/static-assets/images/logos/mavinex_logo.png</logo_s>
+	<file-name>65e34e03-2b97-b5b6-47f9-52c0443429f3.xml</file-name>
+	<internal-name>Header English</internal-name>
+	<createdDate>2020-06-05T03:51:54.169Z</createdDate>
+	<createdDate_dt>2020-06-05T03:51:54.169Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T04:05:11.300Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T04:05:11.300Z</lastModifiedDate_dt>
+</component>

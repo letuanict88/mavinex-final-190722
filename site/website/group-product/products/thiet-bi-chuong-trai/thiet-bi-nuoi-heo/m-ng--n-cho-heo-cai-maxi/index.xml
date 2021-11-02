@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c2f9</objectGroupId>
+	<objectId>c2f92e30-1ac1-2709-755e-7411461ae73b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>m-ng--n-cho-heo-cai-maxi</folder-name>
+	<internal-name>Máng ăn cho heo cai Maxi</internal-name>
+	<navLabel>Máng ăn cho heo cai Maxi</navLabel>
+	<productname_s>Máng ăn cho heo cai Maxi</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Mang an cho heo 5.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;&lt;strong&gt;Hoper Pan&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trọng lương heo: 6-14 kg&lt;/p&gt;
+&lt;p&gt;Số &amp;ocirc; ăn: 10 &amp;ocirc;&lt;/p&gt;
+&lt;p&gt;Dung t&amp;iacute;ch: 30 l&amp;iacute;t&lt;/p&gt;
+&lt;p&gt;Đường k&amp;iacute;nh m&amp;aacute;ng 42,5 cm&lt;/p&gt;
+&lt;p&gt;Chất liệu nhựa: PP + inox&lt;/p&gt;
+&lt;p&gt;C&amp;oacute; nấc điều chỉnh thức ăn&lt;/p&gt;
+&lt;p&gt;Xuất xứ: T&amp;acirc;y Ban Nha&lt;br /&gt;&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Mang an cho heo 5.jpg</productimage_s>
+	<productimagename_s>Máng ăn cho heo cai Maxi</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-05T09:18:17.931Z</createdDate>
+	<createdDate_dt>2020-06-05T09:18:17.931Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:39:54.517Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:39:54.517Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Feeder for Maxi's pig</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;Hoper Pan&lt;/p&gt;
+&lt;p&gt;Pig weight: 6-14 kg&lt;/p&gt;
+&lt;p&gt;Number of cells to eat: 10 cells&lt;/p&gt;
+&lt;p&gt;Capacity: 30 liters&lt;/p&gt;
+&lt;p&gt;Trunk diameter 42.5 cm&lt;/p&gt;
+&lt;p&gt;Plastic material: PP + stainless steel&lt;/p&gt;
+&lt;p&gt;There are steps to adjust the food&lt;/p&gt;
+&lt;p&gt;Origin: Spain&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

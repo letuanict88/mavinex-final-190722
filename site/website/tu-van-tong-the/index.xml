@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>253e</objectGroupId>
+	<objectId>253ef379-9d69-5b36-e703-f7cad0069d08</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tu-van-tong-the</folder-name>
+	<internal-name>Tư vấn tổng thể</internal-name>
+	<title_s>Tư vấn tổng thể</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t>Tư vấn, thiết kế và cung cấp giải pháp tổng thể trang trại chăn nuôi</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>2bcaeaf3-b8e7-e7f6-deb0-6a6d8f851d93</key>
+	<value>Background</value>
+<component id="2bcaeaf3-b8e7-e7f6-deb0-6a6d8f851d93">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2bca</objectGroupId>
+	<objectId>2bcaeaf3-b8e7-e7f6-deb0-6a6d8f851d93</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 234.png</image_s>
+	</item></image_o>
+	<file-name>2bcaeaf3-b8e7-e7f6-deb0-6a6d8f851d93.xml</file-name>
+	<internal-name>Background</internal-name>
+	<createdDate>2020-04-23T04:00:03.707Z</createdDate>
+	<createdDate_dt>2020-04-23T04:00:03.707Z</createdDate_dt>
+	<lastModifiedDate>2020-04-23T04:00:03.707Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-23T04:00:03.707Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>da92bad5-7aab-d3ee-c3fa-8a659cfce321</key>
+	<value>Tư vấn tổng thể</value>
+<component id="da92bad5-7aab-d3ee-c3fa-8a659cfce321">
+	<content-type>/component/componentfields</content-type>
+	<display-template>/templates/web/fields.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>da92</objectGroupId>
+	<objectId>da92bad5-7aab-d3ee-c3fa-8a659cfce321</objectId>
+	<file-name>da92bad5-7aab-d3ee-c3fa-8a659cfce321.xml</file-name>
+	<internal-name>Tư vấn tổng thể</internal-name>
+	<title_s>Tư vấn tổng thể</title_s>
+	<itemTitle_s>Tư vấn, thiết kế và cung cấp giải pháp tổng thể</itemTitle_s>
+	<itemId_s>overalladvisory</itemId_s>
+	<carousels_o item-list="true">	<item datasource="carouselsDataSource">	<key>/site/items/carousel/efd4ea0f-b794-b7d5-8d9e-cd0e9b75ce05.xml</key>
+	<value>CarouselAdvisory</value>
+	<include>/site/items/carousel/efd4ea0f-b794-b7d5-8d9e-cd0e9b75ce05.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></carousels_o>
+	<itemContent_html>&lt;p style="text-align: justify;"&gt;&lt;strong&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Tư vấn tổng thể cho nh&amp;agrave; m&amp;aacute;y, trang trại.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Mavinex cung cấp c&amp;aacute;c giải ph&amp;aacute;p tối ưu từ quy hoạch tổng thể đến thiết kế chi tiết trang trại chăn nu&amp;ocirc;i, đồng thời tư vấn cho chủ đầu tư &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ chăn nu&amp;ocirc;i ti&amp;ecirc;n tiến ph&amp;ugrave; hợp xu hướng ph&amp;aacute;t triển, ph&amp;ugrave; hợp với c&amp;aacute;c quy chuẩn chăn nu&amp;ocirc;i, đảm bảo vấn đề đầu tư t&amp;agrave;i ch&amp;iacute;nh một c&amp;aacute;ch hiệu quả v&amp;agrave; bền vững.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Hiện tại Mavinex đang hỗ trợ, tư vấn v&amp;agrave; cung cấp trang thiết bị cho c&amp;aacute;c trại chăn nu&amp;ocirc;i heo, g&amp;agrave;, vịt khắp c&amp;aacute;c tỉnh th&amp;agrave;nh trong nước như: Th&amp;aacute;i B&amp;igrave;nh, Ph&amp;uacute; Thọ, Bắc Ninh, H&amp;ograve;a B&amp;igrave;nh, Hưng Y&amp;ecirc;n, Bắc Giang, Hải Dương, Quảng Ninh, Thanh H&amp;oacute;a, Nghệ An, Hậu Giang&amp;hellip;C&amp;aacute;c dự &amp;aacute;n được chủ đầu tư v&amp;agrave; đối t&amp;aacute;c khen ngợi, đ&amp;aacute;nh gi&amp;aacute; cao.&lt;/span&gt;&lt;/p&gt;</itemContent_html>
+	<createdDate>2020-04-23T04:17:58.815Z</createdDate>
+	<createdDate_dt>2020-04-23T04:17:58.815Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:18:14.495Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:18:14.495Z</lastModifiedDate_dt>
+	<groupTitle_s>Cung cấp giải pháp tổng thể trang trại chăn nuôi</groupTitle_s>
+	<carouselTitle_s>MỘT SỐ HÌNH ẢNH THIẾT KẾ TỔNG THỂ CỦA NHÀ MÁY VÀ CÁC TRANG TRẠI</carouselTitle_s>
+	<group_o item-list="true">	<item>	<groupContent_s>Giải pháp quy hoạch tổng thể </groupContent_s>
+	</item>	<item>	<groupContent_s>Thiết kế chi tiết trang trại chăn nuôi</groupContent_s>
+	</item>	<item>	<groupContent_s>Tư vấn công nghệ chăn nuôi tiên tiến </groupContent_s>
+	</item></group_o>
+</component>
+	</item></sections_o>
+	<createdDate>2020-04-23T03:58:26.657Z</createdDate>
+	<createdDate_dt>2020-04-23T03:58:26.657Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:18:08.398Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:18:08.398Z</lastModifiedDate_dt>
+</page>

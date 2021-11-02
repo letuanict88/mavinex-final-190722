@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3c75</objectGroupId>
+	<objectId>3c759e68-73ba-b7b5-dc0e-98af502ef0c2</objectId>
+	<file-name>3c759e68-73ba-b7b5-dc0e-98af502ef0c2.xml</file-name>
+	<productgrouplevel1_s>thiet-bi-chuong-trai</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nuoi-ga</productgrouplevel2_s>
+	<internal-name>Thiết bị chăn nuôi gà</internal-name>
+	<productchildtitle_s>Thiết bị chăn nuôi gà</productchildtitle_s>
+	<productchildavatar_s>/static-assets/images/products/product-group-lv2-1.png</productchildavatar_s>
+	<createdDate>2020-05-23T07:43:53.429Z</createdDate>
+	<createdDate_dt>2020-05-23T07:43:53.429Z</createdDate_dt>
+	<lastModifiedDate>2020-05-23T07:43:53.429Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-23T07:43:53.429Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a0dc</objectGroupId>
+	<objectId>a0dcd7bc-e5a1-af3d-c5b6-0b6c8867a37b</objectId>
+	<internal-name>Máng ăn heo cai sữa 4 ngăn (2 bên)</internal-name>
+	<navLabel>Máng ăn heo cai sữa 4 ngăn (2 bên)</navLabel>
+	<productname_s>Máng ăn heo cai sữa 4 ngăn (2 bên)</productname_s>
+	<productnameEnglish_s>Feeder for weaning pigs with 4 compartments (2 sides)</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-an-heo-cai-sua-4-ngan--2-ben-</folder-name>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Mang an cho heo 4.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Bằng inox 304, d&amp;agrave;y 1.5mm, k&amp;iacute;ch thước (DxRxC): 76 x 43 x 63 cm, c&amp;oacute; n&amp;uacute;m ướt c&amp;aacute;m&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng cho heo cai sữa&lt;/p&gt;
+&lt;p&gt;Sức chứa: 40 &amp;ndash; 50 kg&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;304 stainless steel, 1.5mm thick, size (LxWxH): 76 x 43 x 63 cm, with wet bran knob&lt;/p&gt;
+&lt;p&gt;Used for weaning pigs&lt;/p&gt;
+&lt;p&gt;Capacity: 40 - 50 kg&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Mang an cho heo 4.jpg</productimage_s>
+	<productimagename_s>Máng ăn cho heo</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T08:48:26.650Z</createdDate>
+	<createdDate_dt>2020-06-11T08:48:26.650Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:38:26.705Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:38:26.705Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>724d</objectGroupId>
+	<objectId>724d2382-44dd-5755-0ed0-a0abd0f7dcb9</objectId>
+	<productgrouplevel1_s>thiet-bi-thuy-san</productgrouplevel1_s>
+	<productgrouplevel2_s>long-nuoi-ca-hdpe</productgrouplevel2_s>
+	<productchildavatar_s>/static-assets/images/products/thiet-bi-thuy-san-avt.png</productchildavatar_s>
+	<file-name>724d2382-44dd-5755-0ed0-a0abd0f7dcb9.xml</file-name>
+	<internal-name>Round cage HDPE</internal-name>
+	<productchildtitle_s>Lồng nuôi cá tròn HDPE</productchildtitle_s>
+	<productchildtitleEnglish_s>Round cage HDPE</productchildtitleEnglish_s>
+	<createdDate>2020-06-09T08:42:01.961Z</createdDate>
+	<createdDate_dt>2020-06-09T08:42:01.961Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:42:01.961Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:42:01.961Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e540</objectGroupId>
+	<objectId>e540bed7-351a-e60d-4d98-4caa1385fcf5</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>trough-for-duck</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Trough for duck</internal-name>
+	<navLabel>Trough for duck</navLabel>
+	<productname_s>Trough for duck</productname_s>
+	<productnameEnglish_s>Trough for duck</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productAvatar_s>/static-assets/images/products/Máng ăn cho vịt.jpg</productAvatar_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Size: 1,500 x 500 x 679 in steel, can be used for automatic feeding system.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Size: 1,500 x 500 x 679 in steel, can be used for automatic feeding system.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng ăn cho vịt.jpg</productimage_s>
+	<productimagename_s>Máng ăn cho vịt</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T06:27:38.102Z</createdDate>
+	<createdDate_dt>2020-07-14T06:27:38.102Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T06:27:38.102Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T06:27:38.102Z</lastModifiedDate_dt>
+</page>

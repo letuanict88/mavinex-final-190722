@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b7fe</objectGroupId>
+	<objectId>b7fe3efe-097b-442a-3d59-eedb33754fb9</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<internal-name>Mavinex-Nhà sản xuất silo và hệ thống cho heo ăn tự động uy tín</internal-name>
+	<navLabel>Mavinex-Nhà sản xuất silo và hệ thống cho heo ăn tự động uy tín</navLabel>
+	<title_s>Mavinex-Nhà sản xuất silo và hệ thống cho heo ăn tự động uy tín</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>silo-va-he-thong-cho-heo-an-tu-dong</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/20170222_103417.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Mavinex l&amp;agrave; một trong những đơn vị ti&amp;ecirc;n phong tại Việt Nam nghi&amp;ecirc;n cứu, ứng dụng v&amp;agrave; sản xuất hệ thống silo chứa c&amp;aacute;m v&amp;agrave; cho heo ăn tự động tại Việt Nam.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Những lợi &amp;iacute;ch khi ứng dụng hệ thống cho heo ăn tự động trong trang trại:&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;☑️ Tăng cường an to&amp;agrave;n sinh học.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;☑️ N&amp;acirc;ng cao t&amp;iacute;nh chuy&amp;ecirc;n nghiệp trong chăn nu&amp;ocirc;i.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;☑️ Tiết kiệm chi ph&amp;iacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;☑️ N&amp;acirc;ng cao hiệu quả quản l&amp;yacute;.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;☑️ Hướng tới nền chăn nu&amp;ocirc;i th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;B&amp;ecirc;n cạnh đ&amp;oacute;, hệ thống silo v&amp;agrave; cho ăn tự động c&amp;ograve;n c&amp;oacute; t&amp;aacute;c dụng đảm bảo chất lượng thức ăn, tr&amp;aacute;nh l&amp;atilde;ng ph&amp;iacute;, giảm sức người&amp;hellip;&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Ứng dụng hệ thống silo v&amp;agrave; cho heo ăn tự động l&amp;agrave; một trong những yếu tố quan trọng gi&amp;uacute;p đảm bảo an to&amp;agrave;n sinh học cho hệ thống trang trại của Tập đo&amp;agrave;n Mavin, qua đ&amp;oacute; gi&amp;uacute;p Mavin giữ vững tổng đ&amp;agrave;n trong bối cảnh Dịch tả heo Ch&amp;acirc;u Phi năm 2019.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;📞Vui l&amp;ograve;ng li&amp;ecirc;n hệ: 0221.653.7979&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Silo v&amp;agrave; cho heo ăn tự động.jpg" alt="" width="800" height="600" /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-07T02:02:28.079Z</createdDate>
+	<createdDate_dt>2020-08-06T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-07T02:12:01.498Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-07T02:12:01.498Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

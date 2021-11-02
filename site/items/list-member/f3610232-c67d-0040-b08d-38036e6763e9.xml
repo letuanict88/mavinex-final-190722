@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/listmember</content-type>
+	<display-template>/templates/web/listmember.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f361</objectGroupId>
+	<objectId>f3610232-c67d-0040-b08d-38036e6763e9</objectId>
+	<member_o item-list="true">	<item>	<imagealt_s>Mavin Group</imagealt_s>
+	<logo_s>/static-assets/images/logos/LOGO Mavin Group.jpg</logo_s>
+	</item>	<item>	<imagealt_s>Mavin Austfeed</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_mavin_austfeed_2.png</logo_s>
+	</item>	<item>	<imagealt_s>Mavin Farm</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_mavin_farm_moi.png</logo_s>
+	</item>	<item>	<imagealt_s>Mavin aqua</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_mavin_aqua.png</logo_s>
+	</item>	<item>	<imagealt_s>Mavin Food</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_mavin_foods_.jpg</logo_s>
+	</item>	<item>	<imagealt_s>Mavin Animal health</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_mavin_animal_health_cut.jpg</logo_s>
+	</item>	<item>	<imagealt_s>MKV</imagealt_s>
+	<logo_s>/static-assets/images/logos/logo_duoc_thu_y_cai_lay.jpg</logo_s>
+	</item></member_o>
+	<file-name>f3610232-c67d-0040-b08d-38036e6763e9.xml</file-name>
+	<internal-name>Mavin group members</internal-name>
+	<createdDate>2020-03-26T07:08:56.438Z</createdDate>
+	<createdDate_dt>2020-03-26T07:08:56.438Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T01:45:05.878Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T01:45:05.878Z</lastModifiedDate_dt>
+</component>

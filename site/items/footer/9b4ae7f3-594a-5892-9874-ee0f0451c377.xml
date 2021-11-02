@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b4a</objectGroupId>
+	<objectId>9b4ae7f3-594a-5892-9874-ee0f0451c377</objectId>
+	<file-name>9b4ae7f3-594a-5892-9874-ee0f0451c377.xml</file-name>
+	<internal-name>Default footer</internal-name>
+	<brandCopyright_s>Bản quyền thuộc về Công ty Cổ phần Mavinex 2020</brandCopyright_s>
+	<backgroundImage_s>/static-assets/images/featured/footer_bg.png</backgroundImage_s>
+	<createdDate>2020-03-25T10:27:58.433Z</createdDate>
+	<createdDate_dt>2020-03-25T10:27:58.433Z</createdDate_dt>
+	<lastModifiedDate>2020-09-17T07:14:24.837Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-17T07:14:24.837Z</lastModifiedDate_dt>
+	<socialMedia_o item-list="true">	<item>	<url_s>https://www.facebook.com/TapdoanMavin</url_s>
+	<icon_s>fa-facebook-f</icon_s>
+	</item>	<item>	<icon_s>fa-youtube</icon_s>
+	<url_s>https://www.youtube.com/watch?v=z24b-1zc9BA&amp;t=21s</url_s>
+	</item></socialMedia_o>
+	<companyname_s>Công ty Cổ phần Mavinex (Mavinex)</companyname_s>
+	<companysAddress_s>Tầng 8 - Tòa nhà Hudland số 6 Nguyễn Hữu Thọ, Phường Hoàng Liệt, Quận Hoàng Mai, Thành phố Hà Nội.</companysAddress_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<tax_s>0901009304</tax_s>
+	<issuedby_s>Sở Kế hoạch và Đầu tư tỉnh Hưng Yên.</issuedby_s>
+	<tick_s>/static-assets/item/images/featured/2020/09/17/logoSaleNoti.png</tick_s>
+</component>

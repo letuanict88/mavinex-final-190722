@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f7c9</objectGroupId>
+	<objectId>f7c9cbe1-24f7-b735-c8b4-b6f9b644b065</objectId>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<internal-name>Mavin recognized for sustainable operations</internal-name>
+	<navLabel>Mavin recognized for sustainable operations</navLabel>
+	<title_s>Mavin recognized for sustainable operations</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-recognized-for-sustainable-operations</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/OUB_4219-2-003-300x257.jpg</image_s>
+	<content_html>&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Mavin-recognized-for-sustainable-operations-1.png" alt="" width="800" height="1131" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Mavin-recognized-for-sustainable-operations-2.png" alt="" width="800" height="1131" /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:52:34.130Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T05:00:55.378Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T05:00:55.378Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

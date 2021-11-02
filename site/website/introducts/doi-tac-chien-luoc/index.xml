@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d236</objectGroupId>
+	<objectId>d236789d-d37d-d867-bc7b-9e499457ebaf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>doi-tac-chien-luoc</folder-name>
+	<internal-name>Đối tác chiến lược</internal-name>
+	<title_s>Đối tác chiến lược</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/a7d87a53-9ede-c24f-756b-cec900a757a8.xml</key>
+	<value>Slide đối tác chiến lược</value>
+	<include>/site/items/slides/a7d87a53-9ede-c24f-756b-cec900a757a8.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-4.png</thumbail_s>
+	<contents_html/>
+	<createdDate>2020-04-17T03:58:23.091Z</createdDate>
+	<createdDate_dt>2020-04-17T03:58:23.091Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:33:10.432Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:33:10.432Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="sectionDataSource" inline="true">	<key>c3f79ceb-85de-15fe-5ade-23ae1d8b286d</key>
+	<value>Danh sách đối tác chiến lược</value>
+<component id="c3f79ceb-85de-15fe-5ade-23ae1d8b286d">
+	<content-type>/component/partnership</content-type>
+	<display-template>/templates/web/partnership.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c3f7</objectGroupId>
+	<objectId>c3f79ceb-85de-15fe-5ade-23ae1d8b286d</objectId>
+	<file-name>c3f79ceb-85de-15fe-5ade-23ae1d8b286d.xml</file-name>
+	<internal-name>Danh sách đối tác chiến lược</internal-name>
+	<logo_o item-list="true">	<item>	<partnerimage_s>/static-assets/images/partnerships/1.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Group</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/2.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Austfeed</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/3.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Farm</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/4b.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Chickfarm</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/4c.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Duckfarm</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/4.jpg</partnerimage_s>
+	<partnerimagealt_s>Mavin Aqua</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/Logo Giordano.png</partnerimage_s>
+	<partnerimagealt_s>Giordano</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/7.jpg</partnerimage_s>
+	<partnerimagealt_s>Buhler</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/9.jpg</partnerimage_s>
+	<partnerimagealt_s>Premier Tech</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/8.jpg</partnerimage_s>
+	<partnerimagealt_s>big dutchman</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/10.jpg</partnerimage_s>
+	<partnerimagealt_s>vostermans ventilation</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/11.jpg</partnerimage_s>
+	<partnerimagealt_s>Multifan</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/12.jpg</partnerimage_s>
+	<partnerimagealt_s>roxell</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/14.jpg</partnerimage_s>
+	<partnerimagealt_s>fancom</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/13.jpg</partnerimage_s>
+	<partnerimagealt_s>famsum</partnerimagealt_s>
+	</item>	<item>	<partnerimage_s>/static-assets/images/partnerships/15.jpg</partnerimage_s>
+	<partnerimagealt_s>extrucsion group</partnerimagealt_s>
+	</item></logo_o>
+	<createdDate>2020-06-04T08:38:46.227Z</createdDate>
+	<createdDate_dt>2020-06-04T08:38:46.227Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T04:14:18.057Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T04:14:18.057Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>

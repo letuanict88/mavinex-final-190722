@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed11</objectGroupId>
+	<objectId>ed110c2d-8862-396b-95d9-524609fd2a76</objectId>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>9000</orderDefault_f>
+	<descripttion_t/>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>4996e36a-48f2-ea7b-25f9-fc8a6bdafb92</key>
+	<value>background</value>
+<component id="4996e36a-48f2-ea7b-25f9-fc8a6bdafb92">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4996</objectGroupId>
+	<objectId>4996e36a-48f2-ea7b-25f9-fc8a6bdafb92</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 203.png</image_s>
+	</item></image_o>
+	<file-name>4996e36a-48f2-ea7b-25f9-fc8a6bdafb92.xml</file-name>
+	<internal-name>background</internal-name>
+	<createdDate>2020-04-15T03:50:21.217Z</createdDate>
+	<createdDate_dt>2020-04-15T03:50:21.217Z</createdDate_dt>
+	<lastModifiedDate>2020-04-15T03:50:21.217Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-15T03:50:21.217Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>e02c6ec6-cb5a-2893-4893-2017a9014d0c</key>
+	<value>Năng lực kinh nghiệm Content</value>
+<component id="e02c6ec6-cb5a-2893-4893-2017a9014d0c">
+	<content-type>/component/componentfieldsandadvice</content-type>
+	<display-template>/templates/web/experience.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e02c</objectGroupId>
+	<objectId>e02c6ec6-cb5a-2893-4893-2017a9014d0c</objectId>
+	<file-name>e02c6ec6-cb5a-2893-4893-2017a9014d0c.xml</file-name>
+	<internal-name>Năng lực kinh nghiệm Content</internal-name>
+	<title_s>Năng lực kinh nghiệm Content</title_s>
+	<item_o item-list="true">	<item>	<itemTitle_s>Lĩnh vực xây dựng</itemTitle_s>
+	<itemImage_s>/static-assets/images/Layer 199.png</itemImage_s>
+	<itemUrl_s>/linh-vuc-xay-dung</itemUrl_s>
+	</item>	<item>	<itemTitle_s>Tư vấn tổng thể, thiết kế trang trại chăn nuôi</itemTitle_s>
+	<itemImage_s>/static-assets/images/Layer 186.png</itemImage_s>
+	<itemUrl_s>/tu-van-tong-the</itemUrl_s>
+	</item></item_o>
+	<createdDate>2020-04-15T03:53:23.758Z</createdDate>
+	<createdDate_dt>2020-04-15T03:53:23.758Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T08:57:50.855Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T08:57:50.855Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>nang-luc-kinh-nghiem</folder-name>
+	<internal-name>Năng lực kinh nghiệm</internal-name>
+	<title_s>Năng lực kinh nghiệm</title_s>
+	<createdDate>2020-04-15T03:49:59.560Z</createdDate>
+	<createdDate_dt>2020-04-15T03:49:59.560Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T08:57:46.139Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T08:57:46.139Z</lastModifiedDate_dt>
+</page>

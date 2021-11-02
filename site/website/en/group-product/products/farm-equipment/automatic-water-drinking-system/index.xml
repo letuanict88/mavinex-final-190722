@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f0c0</objectGroupId>
+	<objectId>f0c07c2a-8d94-4335-4704-28e7dd636587</objectId>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>Automatic water drinking system</internal-name>
+	<navLabel>Automatic water drinking system</navLabel>
+	<productname_s>Automatic water drinking system for Duck</productname_s>
+	<productnameEnglish_s>Automatic water drinking system for Duck</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>automatic-water-drinking-system</folder-name>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productAvatar_s>/static-assets/images/products/he thong uong cho vit 2.jpg</productAvatar_s>
+	<productdescription_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/he thong uong cho vit 2.jpg</productimage_s>
+	<productimagename_s>Hệ thống uống vịt 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/he thong uong cho vit 1.jpg</productimage_s>
+	<productimagename_s>Hệ thống uống vịt 2</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/he thong uong cho vit 3.jpg</productimage_s>
+	<productimagename_s>Hệ thống uống vịt 3</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T06:32:04.196Z</createdDate>
+	<createdDate_dt>2020-07-14T06:32:04.196Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T06:32:04.196Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T06:32:04.196Z</lastModifiedDate_dt>
+</page>

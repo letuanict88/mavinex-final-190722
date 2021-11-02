@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3646</objectGroupId>
+	<objectId>36460c78-172a-ef9a-8cf2-12074b181d8c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>aquaculture-equipment</folder-name>
+	<internal-name>Aquaculture equipment</internal-name>
+	<navLabel>Aquaculture equipment</navLabel>
+	<product_title_s>Thiết bị thủy sản</product_title_s>
+	<productGrouptitleEnglish_s>Aquaculture equipment</productGrouptitleEnglish_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/724d2382-44dd-5755-0ed0-a0abd0f7dcb9.xml</key>
+	<value>Round cage HDPE</value>
+	<include>/site/items/724d2382-44dd-5755-0ed0-a0abd0f7dcb9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGroup_o>	<item>	<key>thiet-bi-thuy-san</key>
+	<value_smv>Thiết bị thủy sản-Aquaculture equipment</value_smv>
+	</item></productGroup_o>
+	<createdDate>2020-06-09T08:41:19.942Z</createdDate>
+	<createdDate_dt>2020-06-09T08:41:19.942Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:41:19.942Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:41:19.942Z</lastModifiedDate_dt>
+</page>

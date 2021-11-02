@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>656c</objectGroupId>
+	<objectId>656c78a4-ef21-f3ff-056c-8a75aec8d70a</objectId>
+	<sections_o item-list="true">	<item datasource="carouselDataSource">	<key>/site/items/carousel/ae35b8bb-78ea-2486-bbe9-b245dab005fd.xml</key>
+	<value>CarouselHeader</value>
+	<include>/site/items/carousel/ae35b8bb-78ea-2486-bbe9-b245dab005fd.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>22a33590-653a-453f-3ad9-0fc2f6782fca</key>
+	<value>Content</value>
+<component id="22a33590-653a-453f-3ad9-0fc2f6782fca">
+	<content-type>/component/introductcontent</content-type>
+	<display-template>/templates/web/introduct.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>22a3</objectGroupId>
+	<objectId>22a33590-653a-453f-3ad9-0fc2f6782fca</objectId>
+	<file-name>22a33590-653a-453f-3ad9-0fc2f6782fca.xml</file-name>
+	<internal-name>Content</internal-name>
+	<title_s>Giới thiệu</title_s>
+	<createdDate>2020-03-27T04:00:00.581Z</createdDate>
+	<createdDate_dt>2020-03-27T04:00:00.581Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T04:29:07.436Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T04:29:07.436Z</lastModifiedDate_dt>
+	<introduct_o item-list="true">	<item>	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-1.png</introducitemavatar_s>
+	<introductitemtitle_s>Giới thiệu chung</introductitemtitle_s>
+	<introductUrl_s>/introducts/gioi-thieu-chung</introductUrl_s>
+	</item>	<item>	<introductitemtitle_s>Lịch sử hình thành</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-2.png</introducitemavatar_s>
+	<introductUrl_s>/introducts/lich-su-hinh-thanh</introductUrl_s>
+	</item>	<item>	<introductitemtitle_s>Lĩnh vực hoạt động</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-3.png</introducitemavatar_s>
+	<introductUrl_s>/introducts/linh-vuc-hoat-dong</introductUrl_s>
+	</item>	<item>	<introductitemtitle_s>Đối tác chiến lược</introductitemtitle_s>
+	<introducitemavatar_s>/static-assets/images/featured/gioi-thieu-img-4.png</introducitemavatar_s>
+	<introductUrl_s>/introducts/doi-tac-chien-luoc</introductUrl_s>
+	</item></introduct_o>
+</component>
+	</item></sections_o>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>2000</orderDefault_f>
+	<internal-name>Giới thiệu</internal-name>
+	<title_s>Giới thiệu</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>gioi-thieu</folder-name>
+	<createdDate>2020-03-26T09:30:07.188Z</createdDate>
+	<createdDate_dt>2020-03-26T09:30:07.188Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T04:29:03.077Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T04:29:03.077Z</lastModifiedDate_dt>
+	<descripttion_t>Đây là page giới thiệu về công ty bao gồm thông tin về công ty, lịch sử hình thành, cơ cấu tổ chức</descripttion_t>
+</page>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fab8</objectGroupId>
+	<objectId>fab89015-c643-0304-8e16-cb69c7adc59e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-an-heo-hau-bi-swing-r3</folder-name>
+	<internal-name>Máng  ăn heo hậu bị Swing R3</internal-name>
+	<navLabel/>
+	<productname_s>Máng  ăn heo hậu bị Swing R3</productname_s>
+	<productnameEnglish_s>Feed troughs gilts Swing R3</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productdescription_html>&lt;p&gt;Dung t&amp;iacute;ch 95 l&amp;iacute;t&lt;/p&gt;
+&lt;p&gt;D&amp;ugrave;ng cho heo từ 14-120 kg&lt;/p&gt;
+&lt;p&gt;Chiều cao 125cm&lt;/p&gt;
+&lt;p&gt;Đường k&amp;iacute;nh phễu lớn nhất 57 cm, nhỏ nhất 14 cm&lt;/p&gt;
+&lt;p&gt;K&amp;iacute;ch thước m&amp;aacute;ng ăn: 55 x45&amp;nbsp;x10 cm&lt;/p&gt;
+&lt;p&gt;Chất liệu nhựa PP v&amp;agrave; Inox&lt;/p&gt;
+&lt;p&gt;Xuất xứ: T&amp;acirc;y Ban Nha.&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Capacity of 95 liters&lt;/p&gt;
+&lt;p&gt;Used for pigs from 14-120 kg&lt;/p&gt;
+&lt;p&gt;Height 125cm&lt;/p&gt;
+&lt;p&gt;The largest funnel diameter 57 cm, the smallest 14 cm&lt;/p&gt;
+&lt;p&gt;Feeder size: 55 x45x10 cm&lt;/p&gt;
+&lt;p&gt;Material PP and stainless steel&lt;/p&gt;
+&lt;p&gt;Origin: Spain.&lt;/p&gt;</productdescriptionEnglish_html>
+	<productAvatar_s>/static-assets/images/products/Máng ăn heo hậu bị Swing.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng ăn heo hậu bị Swing.jpg</productimage_s>
+	<productimagename_s>Máng ăn heo hậu bị</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Máng ăn heo hậu bị Swing.jpg</productimage_s>
+	<productimagename_s>Máng ăn heo hậu bị</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T08:38:45.436Z</createdDate>
+	<createdDate_dt>2020-06-11T08:38:45.436Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T07:19:14.637Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T07:19:14.637Z</lastModifiedDate_dt>
+</page>

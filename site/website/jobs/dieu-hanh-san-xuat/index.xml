@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobpage</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d7b7</objectGroupId>
+	<objectId>d7b76e16-48fc-d773-7524-0eee1136622a</objectId>
+	<item_o item-list="true">	<item>	<title_s>Điều hành sản xuất</title_s>
+	<content_html>&lt;p&gt;&lt;strong&gt;1. M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;L&amp;ecirc;n kế hoạch sản xuất cho c&amp;aacute;c hạng mục thi c&amp;ocirc;ng theo đơn h&amp;agrave;ng của bộ phận kinh doanh&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Triển khai kế hoạch sản xuất theo đ&amp;uacute;ng quy tr&amp;igrave;nh, kế hoạch nhằm đảm bảo đ&amp;uacute;ng tiến độ v&amp;agrave; chất lượng sản phẩm.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Kiểm tra gi&amp;aacute;m s&amp;aacute;t người lao động l&amp;agrave;m việc nhằm thực hiện đ&amp;uacute;ng ti&amp;ecirc;u chuẩn kỹ thuật v&amp;agrave; tiến độ c&amp;ocirc;ng việc.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Quản l&amp;yacute; nh&amp;acirc;n vi&amp;ecirc;n v&amp;agrave; ph&amp;aacute;t triển đội ngũ c&amp;ocirc;ng nh&amp;acirc;n để n&amp;acirc;ng cao tay nghề cho người lao động.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Đề xuất c&amp;aacute;c phương &amp;aacute;n cải tiến tổ chức sản xuất đảm bảo tăng hiệu quả sử dụng m&amp;aacute;y m&amp;oacute;c, vật tư v&amp;agrave; nh&amp;acirc;n c&amp;ocirc;ng.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Phối kết hợp với c&amp;aacute;c bộ phận kh&amp;aacute;c trong qu&amp;aacute; tr&amp;igrave;nh thực hiện c&amp;ocirc;ng việc nhằm đạt mục ti&amp;ecirc;u chung của tổ chức.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;B&amp;aacute;o c&amp;aacute;o c&amp;ocirc;ng việc h&amp;agrave;ng ng&amp;agrave;y cho quản l&amp;yacute; cấp tr&amp;ecirc;n v&amp;agrave; Ban Gi&amp;aacute;m đốc.&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;Thực hiện một số c&amp;ocirc;ng việc kh&amp;aacute;c được giao khi c&amp;oacute; y&amp;ecirc;u cầu&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Y&amp;ecirc;u cầu&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;C&amp;oacute; &amp;iacute;t nhất 2 năm kinh nghiệm trong việc quản l&amp;yacute;, gi&amp;aacute;m s&amp;aacute;t cơ kh&amp;iacute;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;C&amp;oacute; tinh thần tr&amp;aacute;ch nhiệm&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;Chịu được &amp;aacute;p lực c&amp;ocirc;ng việc&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;3. Quyền lợi&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;Lương thỏa thuận&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;C&amp;aacute;c chế độ theo quy định của Luật hiện h&amp;agrave;nh&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;Thưởng theo hiệu suất c&amp;ocirc;ng việc&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- [if !supportLists]--&gt;&lt;span lang="EN-US"&gt;-&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;!--[endif]--&gt;&lt;span lang="EN-US"&gt;Bảo hiểm sức khỏe cho người lao động&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Thời hạn nộp hồ sơ 30/1/2021&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span lang="EN-US"&gt;Hồ sơ gửi về email: tuyendung@mavinex.com&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item></item_o>
+	<internal-name>Điều hành sản xuất</internal-name>
+	<title_s>Điều hành sản xuất</title_s>
+	<type_s>Toàn thời gian</type_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>7000</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>dieu-hanh-san-xuat</folder-name>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>87e832c0-5f65-283c-cb54-8e768ba9a9ce</key>
+	<value>Slide</value>
+<component id="87e832c0-5f65-283c-cb54-8e768ba9a9ce">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>87e8</objectGroupId>
+	<objectId>87e832c0-5f65-283c-cb54-8e768ba9a9ce</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>87e832c0-5f65-283c-cb54-8e768ba9a9ce.xml</file-name>
+	<createdDate>2021-01-07T11:08:50.425Z</createdDate>
+	<createdDate_dt>2021-01-07T11:08:50.425Z</createdDate_dt>
+	<lastModifiedDate>2021-01-07T11:08:50.425Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-07T11:08:50.425Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<duration_dt>2021-01-31T05:00:00.000Z</duration_dt>
+	<createdDate>2020-11-20T07:42:40.844Z</createdDate>
+	<createdDate_dt>2020-11-20T07:42:40.844Z</createdDate_dt>
+	<lastModifiedDate>2021-01-07T11:06:46.815Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-07T11:06:46.815Z</lastModifiedDate_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7371</objectGroupId>
+	<objectId>737112e9-8abb-4423-8a96-351cbc5df931</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>long-nuoi-ca-tron-hdpe-20m</folder-name>
+	<internal-name>Lồng nuôi cá tròn hdpe 20m</internal-name>
+	<navLabel/>
+	<productname_s>Lồng nuôi cá tròn HDPE 20m</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-thuy-san</key>
+	<value_smv>Thiết bị thủy sản</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>long-nuoi-ca-hdpe</key>
+	<value_smv>Lồng nuôi cá tròn HDPE</value_smv>
+	</item></productchildgroup_o>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;-&amp;nbsp; Đường k&amp;iacute;nh lồng: 20 m.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Chu vi lồng: 64,2&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Độ s&amp;acirc;u lưới: 8m.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;-&amp;nbsp; Ống nổi: HDPE&amp;nbsp; &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Ống lan can: HDPE &amp;Oslash; 110.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Ống kết nối: HDPE &amp;Oslash; 125.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Đai kết nối: Đai đ&amp;ocirc;i &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;- Lưới: 02 lưới&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; Đường k&amp;iacute;nh 20 m, cao từ miệng lưới đến đ&amp;aacute;y lưới 8m, k&amp;iacute;ch thước mắt lưới a = 2.5 cm v&amp;agrave; 1,5 cm.&lt;/p&gt;
+&lt;p&gt;Lưới dệt kh&amp;ocirc;ng g&amp;uacute;t, chất liệu Polyetylen&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;br /&gt;&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimagename_s>Lồng nuôi cá tròn HDPE 20m</productimagename_s>
+	<productimage_s>/static-assets/images/products/product-group-5.png</productimage_s>
+	</item></productimage_o>
+	<createdDate>2020-05-25T03:10:09.998Z</createdDate>
+	<createdDate_dt>2020-05-25T03:10:09.998Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T04:27:47.481Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T04:27:47.481Z</lastModifiedDate_dt>
+	<productAvatar_s>/static-assets/images/products/product-group-5.png</productAvatar_s>
+	<productnameEnglish_s>Round cage HDPE 20m</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;- Cage diameter: 20 m.&lt;/p&gt;
+&lt;p&gt;- Perimeter of cages: 64.2&lt;/p&gt;
+&lt;p&gt;- Depth depth: 8m.&lt;/p&gt;
+&lt;p&gt;- Floating pipe: HDPE &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Handrail tube: HDPE &amp;Oslash; 110.&lt;/p&gt;
+&lt;p&gt;- Connecting pipe: HDPE &amp;Oslash; 125.&lt;/p&gt;
+&lt;p&gt;- Connecting belt: Double belt &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Mesh: 02 mesh&lt;/p&gt;
+&lt;p&gt;- Diameter 20 m, height from the mouth of the mesh to the bottom of 8m, mesh size a = 2.5 cm and 1.5 cm.&lt;/p&gt;
+&lt;p&gt;Non-woven mesh, polyethylene material&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

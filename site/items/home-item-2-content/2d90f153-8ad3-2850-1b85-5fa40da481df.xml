@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/homeitem2content</content-type>
+	<display-template>/templates/web/homeitem2content.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2d90</objectGroupId>
+	<objectId>2d90f153-8ad3-2850-1b85-5fa40da481df</objectId>
+	<image_s>/static-assets/images/featured/content_img_3.png</image_s>
+	<internal-name>Consulting and farm design</internal-name>
+	<title_s>Tư vấn tổng thể - thiết kế trang trại chăn nuôi</title_s>
+	<file-name>2d90f153-8ad3-2850-1b85-5fa40da481df.xml</file-name>
+	<createdDate>2020-03-26T04:45:17.690Z</createdDate>
+	<createdDate_dt>2020-03-26T04:45:17.690Z</createdDate_dt>
+	<lastModifiedDate>2020-04-27T08:10:05.762Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-27T08:10:05.762Z</lastModifiedDate_dt>
+	<url_s>/tu-van-tong-the</url_s>
+</component>

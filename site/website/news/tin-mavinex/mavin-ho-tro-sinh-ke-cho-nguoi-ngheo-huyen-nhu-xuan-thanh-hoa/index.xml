@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae9b</objectGroupId>
+	<objectId>ae9b5274-3394-e06b-14d2-7e2699015857</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-ho-tro-sinh-ke-cho-nguoi-ngheo-huyen-nhu-xuan-thanh-hoa</folder-name>
+	<internal-name>Mavin hỗ trợ sinh kế cho người nghèo huyện Như Xuân,Thanh Hóa</internal-name>
+	<navLabel>Mavin hỗ trợ sinh kế cho người nghèo huyện Như Xuân,Thanh Hóa</navLabel>
+	<title_s>Mavin hỗ trợ sinh kế cho người nghèo huyện Như Xuân,Thanh Hóa</title_s>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Tang ga Nhu Xuan Thanh Hoa (13).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ng&amp;agrave;y 9/7/2020, Tập đo&amp;agrave;n Mavin phối hợp với Tổ chức Tầm nh&amp;igrave;n Thế giới (World Vision) tổ chức trao 15.000 con g&amp;agrave; giống (g&amp;agrave; ri Mavin 233) v&amp;agrave; thức ăn chăn nu&amp;ocirc;i, thuốc th&amp;uacute; y cho c&amp;aacute;c hộ d&amp;acirc;n đặc biệt kh&amp;oacute; khăn của huyện Như Xu&amp;acirc;n, Thanh H&amp;oacute;a.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Tang ga Nhu Xuan Thanh Hoa (13).jpg" alt="" width="600" height="450" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;75 hộ d&amp;acirc;n thuộc 5 x&amp;atilde; H&amp;oacute;a Quỳ, Thanh L&amp;acirc;m, B&amp;igrave;nh Lương, Thượng Ninh v&amp;agrave; thị trấn Y&amp;ecirc;n C&amp;aacute;t đ&amp;atilde; được nhận g&amp;agrave; giống k&amp;egrave;m theo thức ăn chăn nu&amp;ocirc;i trực tiếp từ Mavin, đồng thời được tham dự một chương tr&amp;igrave;nh tập huấn về kỹ thuật chăn nu&amp;ocirc;i, ph&amp;ograve;ng dịch bệnh do ch&amp;iacute;nh c&amp;aacute;n bộ kỹ thuật của Tập đo&amp;agrave;n Mavin giảng dạy. Qu&amp;aacute; tr&amp;igrave;nh chăn nu&amp;ocirc;i cũng sẽ được gi&amp;aacute;m s&amp;aacute;t bởi Mavin để đảm bảo trọng lượng v&amp;agrave; chất lượng thịt cung cấp cho thị trường. Mavin cũng sẽ cam kết hỗ trợ bao ti&amp;ecirc;u sản phẩm đầu ra cho người chăn nu&amp;ocirc;i tham gia chương tr&amp;igrave;nh. Tổng gi&amp;aacute; trị hỗ trợ to&amp;agrave;n bộ chương tr&amp;igrave;nh l&amp;ecirc;n tới 30.000 USD.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Theo đại diện World Vision, c&amp;aacute;c hộ chăn nu&amp;ocirc;i được tuyển chọn rất kỹ theo nhiều ti&amp;ecirc;u ch&amp;iacute; như: hộ thuộc diện ngh&amp;egrave;o/cận ngh&amp;egrave;o, c&amp;oacute; trẻ kh&amp;oacute; khăn, c&amp;oacute; lao động, c&amp;oacute; chuồng trại hợp vệ sinh... Với sự hỗ trợ kỹ thuật v&amp;agrave; gi&amp;aacute;m s&amp;aacute;t từ Mavin, trong v&amp;ograve;ng 4 -5 th&amp;aacute;ng tới, mỗi gia đ&amp;igrave;nh ước t&amp;iacute;nh sẽ c&amp;oacute; nguồn thu từ việc b&amp;aacute;n g&amp;agrave; từ 30 - 40 triệu đồng/hộ. Tr&amp;ecirc;n cơ sở kết quả chăn nu&amp;ocirc;i, c&amp;aacute;c hộ gia đ&amp;igrave;nh cũng sẽ đ&amp;oacute;ng g&amp;oacute;p 10% tổng gi&amp;aacute; trị g&amp;agrave; b&amp;aacute;n ra để duy tr&amp;igrave; sản xuất v&amp;agrave; mở rộng cho c&amp;aacute;c hộ chăn nu&amp;ocirc;i kh&amp;aacute;c tr&amp;ecirc;n địa b&amp;agrave;n.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Chương tr&amp;igrave;nh nằm trong khu&amp;ocirc;n khổ Hợp t&amp;aacute;c giữa Mavin v&amp;agrave; World Vision từ năm 2018. Theo đ&amp;oacute;, với mục ti&amp;ecirc;u ph&amp;aacute;t triển bền vững n&amp;ocirc;ng nghiệp v&amp;agrave; cải thiện mức sống của người n&amp;ocirc;ng d&amp;acirc;n Việt Nam, đặc biệt l&amp;agrave; trẻ em tại khu vực n&amp;ocirc;ng th&amp;ocirc;n, miền n&amp;uacute;i, Mavin v&amp;agrave; World Vision đ&amp;atilde; v&amp;agrave; đang đồng h&amp;agrave;nh phối hợp thực hiện nhiều chương tr&amp;igrave;nh an sinh x&amp;atilde; hội, hỗ trợ ph&amp;aacute;t triển sinh kế cho người ngh&amp;egrave;o tại c&amp;aacute;c tỉnh, th&amp;agrave;nh tr&amp;ecirc;n cả nước.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Chương tr&amp;igrave;nh đ&amp;atilde; triển khai thử nghiệm th&amp;agrave;nh c&amp;ocirc;ng tại tỉnh Thanh H&amp;oacute;a trong năm 2019 với việc cấp heo giống v&amp;agrave; thức ăn chăn nu&amp;ocirc;i cho h&amp;agrave;ng chục hộ ngh&amp;egrave;o huyện Như Xu&amp;acirc;n, Thanh H&amp;oacute;a, g&amp;oacute;p phần cải thiện cuộc sống v&amp;agrave; mang lại thu nhập tốt cho c&amp;aacute;c hộ gia đ&amp;igrave;nh tham gia.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Chia sẻ về tầm nh&amp;igrave;n v&amp;agrave; &amp;yacute; tưởng của Chương tr&amp;igrave;nh, &amp;ocirc;ng David John Whitehead, Chủ tịch HĐQT Tập đo&amp;agrave;n Mavin cho biết: &amp;ldquo;Thay v&amp;igrave; hỗ trợ t&amp;agrave;i ch&amp;iacute;nh để người d&amp;acirc;n ngh&amp;egrave;o vượt qua kh&amp;oacute; khăn trước mắt, th&amp;igrave; việc hỗ trợ tạo sinh kế mang t&amp;iacute;nh bền vững sẽ gi&amp;uacute;p họ biết v&amp;agrave; l&amp;agrave;m chủ được một nghề c&amp;oacute; thể tạo ra thu nhập ổn định v&amp;agrave; từ đ&amp;oacute; l&amp;agrave;m gi&amp;agrave;u. Đ&amp;oacute; l&amp;agrave; &amp;yacute; tưởng chủ đạo của c&amp;aacute;c dự &amp;aacute;n an sinh x&amp;atilde; hội của Tập đo&amp;agrave;n Mavin. Bằng c&amp;aacute;ch n&amp;agrave;y, ch&amp;uacute;ng t&amp;ocirc;i vừa gi&amp;uacute;p người n&amp;ocirc;ng d&amp;acirc;n tho&amp;aacute;t ngh&amp;egrave;o, vừa gi&amp;uacute;p họ tiếp cận c&amp;aacute;ch chăn nu&amp;ocirc;i hiệu quả với sản phẩm an to&amp;agrave;n vệ sinh thực phẩm, đồng thời cũng đ&amp;oacute;ng g&amp;oacute;p cho sự ph&amp;aacute;t triển bền vững của ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam&amp;rdquo;.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-14T01:36:29.520Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T01:36:29.520Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T01:36:29.520Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed28</objectGroupId>
+	<objectId>ed28b62e-0a55-e2ea-ec72-e0a0d311a90b</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-thu-ngo.png</image_s>
+	</item></image_o>
+	<file-name>ed28b62e-0a55-e2ea-ec72-e0a0d311a90b.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-06-05T04:12:26.166Z</createdDate>
+	<createdDate_dt>2020-06-05T04:12:26.166Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T04:12:26.166Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T04:12:26.166Z</lastModifiedDate_dt>
+</component>

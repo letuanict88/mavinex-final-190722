@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9e01</objectGroupId>
+	<objectId>9e01c7fe-ba8e-d5d9-c51b-c2ed3b56c461</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mavinex---tu-tin-tien-buoc</folder-name>
+	<internal-name>Mavinex – Tự tin tiến bước</internal-name>
+	<navLabel>Mavinex – Tự tin tiến bước</navLabel>
+	<title_s>Mavinex – Tự tin tiến bước.</title_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/Mavinex du lich he 2020 (1).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Từ ng&amp;agrave;y 22 &amp;ndash; 23/7/2020, nằm trong kế hoạch quan t&amp;acirc;m chăm s&amp;oacute;c đời sống tinh thần v&amp;agrave; n&amp;acirc;ng cao t&amp;igrave;nh đo&amp;agrave;n kết của người lao động, C&amp;ocirc;ng ty Cổ phần Mavinex đ&amp;atilde; tổ chức chuyến tham quan, nghỉ dưỡng cho c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n tại C&amp;aacute;t B&amp;agrave;. Chương tr&amp;igrave;nh đ&amp;atilde; nhận được sự hưởng ứng tham gia của đ&amp;ocirc;ng đảo c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n Mavinex c&amp;ugrave;ng người th&amp;acirc;n v&amp;agrave; gia đ&amp;igrave;nh.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Chương tr&amp;igrave;nh du lịch nghỉ m&amp;aacute;t C&amp;aacute;t B&amp;agrave; 2020 đ&amp;atilde; gi&amp;uacute;p c&amp;aacute;n bộ nh&amp;acirc;n vi&amp;ecirc;n Mavinex c&amp;oacute; gi&amp;acirc;y ph&amp;uacute;t nghỉ ngơi thư gi&amp;atilde;n b&amp;ecirc;n đồng nghiệp, người th&amp;acirc;n v&amp;agrave; gia đ&amp;igrave;nh sau những ng&amp;agrave;y l&amp;agrave;m việc căng thẳng. Đ&amp;acirc;y cũng l&amp;agrave; dịp để Ban L&amp;atilde;nh đạo Mavinex&amp;nbsp; ghi nhận v&amp;agrave; tri &amp;acirc;n những phấn đấu, cống hiến của người lao động, tạo cơ hội để c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n trong &amp;ldquo;m&amp;aacute;i nh&amp;agrave;&amp;rdquo; Mavinex giao lưu, hiểu biết lẫn nhau, c&amp;ugrave;ng phấn đấu ho&amp;agrave;n th&amp;agrave;nh nhiệm vụ 2020.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-28T08:56:24.446Z</createdDate>
+	<createdDate_dt>2020-07-28T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2021-01-19T09:35:36.756Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-19T09:35:36.756Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/homeitem2content</content-type>
+	<display-template>/templates/web/homeitem2content.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4141</objectGroupId>
+	<objectId>414193fc-6c90-b087-4b5d-9b64da1d69ef</objectId>
+	<internal-name>Building</internal-name>
+	<title_s>Lĩnh vực xây dựng</title_s>
+	<image_s>/static-assets/images/featured/content_img_2.png</image_s>
+	<file-name>414193fc-6c90-b087-4b5d-9b64da1d69ef.xml</file-name>
+	<createdDate>2020-03-26T04:44:42.601Z</createdDate>
+	<createdDate_dt>2020-03-26T04:44:42.601Z</createdDate_dt>
+	<lastModifiedDate>2020-04-27T08:09:45.845Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-27T08:09:45.845Z</lastModifiedDate_dt>
+	<url_s>/linh-vuc-xay-dung</url_s>
+</component>

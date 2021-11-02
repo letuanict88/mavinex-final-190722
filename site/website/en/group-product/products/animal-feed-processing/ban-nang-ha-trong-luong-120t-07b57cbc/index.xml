@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>20949fa0</objectGroupId>
+	<objectId>20949fa0-b52f-4827-a21a-f18139fbdd5c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ban-nang-ha-trong-luong-120t-07b57cbc</folder-name>
+	<internal-name>Bàn nâng hạ trọng lượng 120T 07b57cbc</internal-name>
+	<navLabel>Bàn nâng hạ trọng lượng 120T</navLabel>
+	<productname_s>Bàn nâng hạ trọng lượng 120T</productname_s>
+	<productnameEnglish_s>Lifting table weighing 120T</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>0.0</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-nha-may-thuc-an-chan-nuoi</key>
+	<value_smv>Thiết bị nhà máy và thức ăn chăn nuôi-Animal feed processing</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nha-may-tacn</key>
+	<value_smv>Thiết bị nhà máy TACN-Feed machine equipment</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Bàn nâng hạ trọng lượng 120T 1.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html/>
+	<productdescriptionEnglish_html/>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Bàn nâng hạ trọng lượng 120T 1.jpg</productimage_s>
+	<productimagename_s>Bàn nâng hạ trọng lượng 120T</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Bàn nâng hạ trọng lượng 120T 2.jpg</productimage_s>
+	<productimagename_s>Bàn nâng hạ trọng lượng 120T</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-12T04:07:13.199Z</createdDate>
+	<createdDate_dt>2020-06-12T04:07:13.199Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T04:07:13.199Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T04:07:13.199Z</lastModifiedDate_dt>
+</page>

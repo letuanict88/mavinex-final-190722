@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/componentnews</content-type>
+	<display-template>/templates/web/products.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f955</objectGroupId>
+	<objectId>f95544c8-088a-2dcf-9df8-3626398ddfa1</objectId>
+	<file-name>f95544c8-088a-2dcf-9df8-3626398ddfa1.xml</file-name>
+	<internal-name>Carousel Products</internal-name>
+	<tittle_s>Sản phẩm</tittle_s>
+	<products_o item-list="true">	<item>	<pTittle1_s>THIẾT BỊ CHUỒNG TRẠI</pTittle1_s>
+	<pLink1_s>/group-product/thiet-bi-chuong-trai</pLink1_s>
+	<pTittle2_s>MÁY ẤP NỞ TRỨNG</pTittle2_s>
+	<pLink2_s>/group-product/may-ap-no-trung</pLink2_s>
+	<pTittle3_s>THIẾT BỊ THUỶ SẢN</pTittle3_s>
+	<pLink3_s>/group-product/thiet-bi-thuy-san</pLink3_s>
+	<pTittle4_s>THIẾT BỊ NHÀ MÁY TACN</pTittle4_s>
+	<pLink4_s>/group-product/thiet-bi-thuc-an-chan-nuoi</pLink4_s>
+	<pImage1_s>/static-assets/images/Layer 205 copy.png</pImage1_s>
+	<pImage2_s>/static-assets/images/Layer 198.png</pImage2_s>
+	<pImage3_s>/static-assets/images/Layer 300.png</pImage3_s>
+	<pImage4_s>/static-assets/images/Layer 211.png</pImage4_s>
+	</item>	<item>	<pTittle1_s>THIẾT BỊ CHUỒNG TRẠI</pTittle1_s>
+	<pLink1_s>/group-product/thiet-bi-chuong-trai</pLink1_s>
+	<pImage1_s>/static-assets/images/Layer 205 copy.png</pImage1_s>
+	<pTittle2_s>MÁY ẤP NỞ TRỨNG</pTittle2_s>
+	<pLink2_s>/group-product/may-ap-no-trung</pLink2_s>
+	<pImage2_s>/static-assets/images/Layer 198.png</pImage2_s>
+	<pTittle3_s>THIẾT BỊ THUỶ SẢN</pTittle3_s>
+	<pLink3_s>/group-product/thiet-bi-thuy-san</pLink3_s>
+	<pImage3_s>/static-assets/images/Layer 300.png</pImage3_s>
+	<pTittle4_s>THIẾT BỊ NHÀ MÁY TACN</pTittle4_s>
+	<pLink4_s>/group-product/thiet-bi-thuc-an-chan-nuoi</pLink4_s>
+	<pImage4_s>/static-assets/images/Layer 211.png</pImage4_s>
+	</item></products_o>
+	<createdDate>2020-05-21T10:19:28.471Z</createdDate>
+	<createdDate_dt>2020-05-21T10:19:28.471Z</createdDate_dt>
+	<lastModifiedDate>2020-07-17T08:08:04.698Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-17T08:08:04.698Z</lastModifiedDate_dt>
+	<arrow1_s>/static-assets/images/mavinex_left_arrow.png</arrow1_s>
+	<arrow2_s>/static-assets/images/mavinex_right_arrow.png</arrow2_s>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9d44</objectGroupId>
+	<objectId>9d441890-9dcb-9fad-b191-fd12fd5acfe8</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-lich-su-hinh-thanh.png</image_s>
+	</item></image_o>
+	<file-name>9d441890-9dcb-9fad-b191-fd12fd5acfe8.xml</file-name>
+	<internal-name>History</internal-name>
+	<createdDate>2020-06-05T04:16:35.994Z</createdDate>
+	<createdDate_dt>2020-06-05T04:16:35.994Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T04:16:35.994Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T04:16:35.994Z</lastModifiedDate_dt>
+</component>

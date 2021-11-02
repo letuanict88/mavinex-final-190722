@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5ef5</objectGroupId>
+	<objectId>5ef58c0f-1942-9f47-57f0-449823165efe</objectId>
+	<file-name>5ef58c0f-1942-9f47-57f0-449823165efe.xml</file-name>
+	<internal-name>Chicken farm Equipment </internal-name>
+	<productchildtitle_s>Thiết bị chăn nuôi gà</productchildtitle_s>
+	<productchildtitleEnglish_s>Chicken farm Equipment </productchildtitleEnglish_s>
+	<productchildavatar_s>/static-assets/images/products/product-group-lv2-1.png</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-chuong-trai</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nuoi-ga</productgrouplevel2_s>
+	<createdDate>2020-06-09T08:13:36.443Z</createdDate>
+	<createdDate_dt>2020-06-09T08:13:36.443Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:13:36.443Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:13:36.443Z</lastModifiedDate_dt>
+</component>

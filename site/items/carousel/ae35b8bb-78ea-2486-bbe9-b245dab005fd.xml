@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ae35</objectGroupId>
+	<objectId>ae35b8bb-78ea-2486-bbe9-b245dab005fd</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/Layer 203.png</image_s>
+	</item></image_o>
+	<file-name>ae35b8bb-78ea-2486-bbe9-b245dab005fd.xml</file-name>
+	<internal-name>CarouselHeader</internal-name>
+	<createdDate>2020-04-19T02:54:12.440Z</createdDate>
+	<createdDate_dt>2020-04-19T02:54:12.440Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T03:07:29.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T03:07:29.537Z</lastModifiedDate_dt>
+</component>

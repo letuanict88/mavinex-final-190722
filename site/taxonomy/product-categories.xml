@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ff43</objectGroupId>
+	<objectId>ff4345f6-3231-eaa2-8a87-d888b7b9c06c</objectId>
+	<items item-list="true">	<item>	<key>thiet-bi-chuong-trai</key>
+	<value>Thiết bị chuồng trại-Farm equipment</value>
+	</item>	<item>	<key>thiet-bi-chan-nuoi</key>
+	<value>Thiết bị chăn nuôi-Livestock equipment</value>
+	</item>	<item>	<key>thiet-bi-thuy-san</key>
+	<value>Thiết bị thủy sản-Aquaculture equipment</value>
+	</item>	<item>	<key>thiet-bi-nha-may-thuc-an-chan-nuoi</key>
+	<value>Thiết bị nhà máy và thức ăn chăn nuôi-Animal feed processing</value>
+	</item></items>
+	<file-name>product-categories.xml</file-name>
+	<folder-name/>
+	<internal-name>Nhóm sản phẩm</internal-name>
+	<createdDate>2020-05-22T03:14:08.298Z</createdDate>
+	<createdDate_dt>2020-05-22T03:14:08.298Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T03:33:47.908Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T03:33:47.908Z</lastModifiedDate_dt>
+</component>

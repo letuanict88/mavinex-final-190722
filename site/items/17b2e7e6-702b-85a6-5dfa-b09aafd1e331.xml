@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>17b2</objectGroupId>
+	<objectId>17b2e7e6-702b-85a6-5dfa-b09aafd1e331</objectId>
+	<internal-name>Equipment for breeding pig</internal-name>
+	<productchildtitle_s>Thiết bị nuôi heo</productchildtitle_s>
+	<productchildtitleEnglish_s>Equipment for breeding pig</productchildtitleEnglish_s>
+	<productchildavatar_s>/static-assets/images/products/product-group-1.png</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-chuong-trai</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nuoi-heo</productgrouplevel2_s>
+	<file-name>17b2e7e6-702b-85a6-5dfa-b09aafd1e331.xml</file-name>
+	<createdDate>2020-06-09T08:12:13.837Z</createdDate>
+	<createdDate_dt>2020-06-09T08:12:13.837Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:12:13.837Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:12:13.837Z</lastModifiedDate_dt>
+</component>

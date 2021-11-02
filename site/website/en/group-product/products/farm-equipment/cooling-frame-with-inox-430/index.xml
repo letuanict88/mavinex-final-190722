@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>98c7</objectGroupId>
+	<objectId>98c74f30-ede8-cfa8-6900-e84f6677f7a3</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>COOLING FRAME WITH INOX 430</internal-name>
+	<navLabel>COOLING FRAME WITH INOX 430</navLabel>
+	<productname_s>COOLING FRAME WITH INOX 430</productname_s>
+	<productnameEnglish_s>COOLING FRAME WITH INOX 430</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>cooling-frame-with-inox-430</folder-name>
+	<productAvatar_s>/static-assets/images/products/Khung giàn mát bằng inox 430.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;&lt;span style="font-size: 18.6667px;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Khung giàn mát bằng inox 430.jpg</productimage_s>
+	<productimagename_s>khung làm mát</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T04:28:46.050Z</createdDate>
+	<createdDate_dt>2020-07-14T04:28:46.050Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:28:46.050Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:28:46.050Z</lastModifiedDate_dt>
+</page>

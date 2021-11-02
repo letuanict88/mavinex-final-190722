@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>efe4</objectGroupId>
+	<objectId>efe469f6-3f4c-c621-eeef-5ca2454d6688</objectId>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/01a39551-1be1-ae6e-7235-6de5fea6ca53.xml</key>
+	<value>Chicken egg hatching machine</value>
+	<include>/site/items/01a39551-1be1-ae6e-7235-6de5fea6ca53.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="productchildcomponent">	<key>/site/items/1ac48c52-3498-32f0-3579-283a92a3329e.xml</key>
+	<value>Duck egg hatching machine</value>
+	<include>/site/items/1ac48c52-3498-32f0-3579-283a92a3329e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGroup_o>	<item>	<key>thiet-bi-chan-nuoi</key>
+	<value_smv>Thiết bị chăn nuôi-Livestock equipment</value_smv>
+	</item></productGroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>egg-hatching-machine</folder-name>
+	<internal-name>Egg hatching machine </internal-name>
+	<navLabel>Egg hatching machine </navLabel>
+	<product_title_s>Máy ấp nở trứng</product_title_s>
+	<productGrouptitleEnglish_s>Egg hatching machine </productGrouptitleEnglish_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-06-09T08:36:37.542Z</createdDate>
+	<createdDate_dt>2020-06-09T08:36:37.542Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:36:37.542Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:36:37.542Z</lastModifiedDate_dt>
+</page>

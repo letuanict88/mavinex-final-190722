@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e57b</objectGroupId>
+	<objectId>e57b4f56-4c46-ea3b-1c1a-5666e3df3d56</objectId>
+	<internal-name>Mavinex hạ thủy lô lồng tròn NaUy tại hồ Hòa Bình</internal-name>
+	<navLabel>Mavinex hạ thủy lô lồng tròn NaUy tại hồ Hòa Bình</navLabel>
+	<title_s>Mavinex hạ thủy lô lồng tròn NaUy tại hồ Hòa Bình</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ha-thuy-11-long-tron-hdpe</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Long tron HDPE.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Ng&amp;agrave;y 20/7/2020, Mavinex đ&amp;atilde; tiến h&amp;agrave;nh hạ thủy 11 lồng tr&amp;ograve;n nu&amp;ocirc;i c&amp;aacute; theo c&amp;ocirc;ng nghệ NaUy v&amp;agrave; b&amp;agrave;n giao cho Trung t&amp;acirc;m nu&amp;ocirc;i trồng thủy sản xuất khẩu của Mavin tại hồ thủy điện H&amp;ograve;a B&amp;igrave;nh.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ưu điểm của lồng tr&amp;ograve;n HDPE:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Độ bền cao :alarm_clock: tr&amp;ecirc;n 50 năm.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Thể t&amp;iacute;ch thả nu&amp;ocirc;i lớn, c&amp;aacute; nhanh lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉Tận dụng mặt nước sẵn c&amp;oacute;: c&amp;aacute;c Hồ đập lớn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Dễ d&amp;agrave;ng mở rộng quy m&amp;ocirc; theo hướng c&amp;ocirc;ng nghiệp.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;👉 Dễ d&amp;agrave;ng v&amp;agrave; thuận lợi trong quản l&amp;yacute; v&amp;agrave; chăm s&amp;oacute;c.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tập đo&amp;agrave;n Mavin l&amp;agrave; một trong những c&amp;ocirc;ng ty ti&amp;ecirc;n phong tại Việt Nam ứng dụng c&amp;ocirc;ng nghệ nu&amp;ocirc;i c&amp;aacute; r&amp;ocirc; phi bằng lồng tr&amp;ograve;n HDPE tr&amp;ecirc;n quy m&amp;ocirc; lớn, b&amp;agrave;i bản v&amp;agrave; chuy&amp;ecirc;n nghiệp. Hệ thống lồng tr&amp;ograve;n n&amp;agrave;y được Mavinex sản xuất bằng chất liệu nhựa chịu lực HDPE c&amp;oacute; thể t&amp;iacute;ch mỗi lồng nu&amp;ocirc;i 2.000 m3, kết nối với nhau v&amp;agrave; với neo gi&amp;agrave;n, chịu được b&amp;atilde;o gi&amp;oacute; cấp 12, c&amp;ocirc;ng suất mỗi lồng l&amp;ecirc;n tới 50 tấn c&amp;aacute;/vụ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;C&amp;ocirc;ng nghệ n&amp;agrave;y cho ph&amp;eacute;p nu&amp;ocirc;i ở những v&amp;ugrave;ng nước xa bờ nơi m&amp;ocirc;i trường nước trong sạch, do đ&amp;oacute; c&amp;oacute; thể hạn chế nguy cơ &amp;ocirc; nhiễm v&amp;agrave; dịch bệnh; kiểm so&amp;aacute;t được chất lượng ATTP; tr&amp;aacute;nh xung đột với c&amp;aacute;c lợi &amp;iacute;ch kh&amp;aacute;c như giao th&amp;ocirc;ng vận tải thủy, du lịch ở những v&amp;ugrave;ng vịnh k&amp;iacute;n s&amp;oacute;ng gi&amp;oacute;. Hệ thống lồng c&amp;oacute; l&amp;oacute;t lưới để tiện cho việc vệ sinh chăm s&amp;oacute;c, lớp lưới n&amp;agrave;y được vệ sinh 1 tuần/lần để đảm bảo loại bỏ rong r&amp;ecirc;u, mảng b&amp;aacute;m.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Từ 3 lồng ở thời điểm cuối năm 2018, hiện Mavinex đang lắp đặt th&amp;ecirc;m cho Trung t&amp;acirc;m thủy sản Mavin tại H&amp;ograve;a B&amp;igrave;nh gần 50 lồng để phục vụ đủ nhu cầu của c&amp;aacute;c đơn đặt h&amp;agrave;ng, thậm ch&amp;iacute; c&amp;oacute; cả những đơn đặt h&amp;agrave;ng từ nước ngo&amp;agrave;i. Trong kế hoạch, Tập đo&amp;agrave;n Mavin sẽ đầu tư 100 lồng tr&amp;ograve;n NaUy ở hồ H&amp;ograve;a B&amp;igrave;nh, đồng thời sẽ triển khai m&amp;ocirc; h&amp;igrave;nh tương tự với c&amp;aacute;c hồ chứa tại Tuy&amp;ecirc;n Quang, Sơn La.&amp;nbsp;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tham khảo về sản phẩm Lồng tr&amp;ograve;n HDPE của Mavinex &lt;strong&gt;&lt;a href="https://mavinex.com/group-product/thiet-bi-thuy-san"&gt;TẠI Đ&amp;Acirc;Y.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Trung t&amp;acirc;m nu&amp;ocirc;i trồng Thủy sản Mavin tại Hồ thủy điện H&amp;ograve;a B&amp;igrave;nh ứng dụng c&amp;ocirc;ng nghệ nu&amp;ocirc;i lồng tr&amp;ograve;n HDPE của Mavinex:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;iframe src="//www.youtube.com/embed/Ud42V26zZDo" width="560" height="314" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&amp;nbsp;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-07T01:46:42.868Z</createdDate>
+	<createdDate_dt>2020-08-06T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-07T02:14:23.852Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-07T02:14:23.852Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0330</objectGroupId>
+	<objectId>0330e26c-1bc4-fbc1-6855-85d938ae9805</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>50-inch-galvanized-cooling-fan</folder-name>
+	<internal-name>50 INCH GALVANIZED COOLING FAN</internal-name>
+	<navLabel>50 INCH GALVANIZED COOLING FAN</navLabel>
+	<productname_s>50 INCH GALVANIZED COOLING FAN</productname_s>
+	<productnameEnglish_s>50 INCH GALVANIZED COOLING FAN</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Quạt làm mát hộp mạ kẽm 50 inch.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;1.5Hp, 3 phase, 6 stainless steel blades, capacity of 38,000m3/h&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Made in China&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;1.5Hp, 3 phase, 6 stainless steel blades, capacity of 38,000m3/h&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Made in China&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Quạt làm mát hộp mạ kẽm 50 inch.jpg</productimage_s>
+	<productimagename_s>QUẠT LÀM MÁT</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T02:53:42.953Z</createdDate>
+	<createdDate_dt>2020-07-14T02:53:42.953Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:53:42.953Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:53:42.953Z</lastModifiedDate_dt>
+</page>

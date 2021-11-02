@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9483</objectGroupId>
+	<objectId>94830bf0-238f-f742-ee03-39a75a0d80fc</objectId>
+	<internal-name>Tặng 20.000 giống gà, vịt cho nông dân huyện KBang (Gia Lai)</internal-name>
+	<navLabel>Tặng 20.000 giống gà, vịt cho nông dân huyện KBang (Gia Lai)</navLabel>
+	<title_s>Tặng 20.000 giống gà, vịt cho nông dân huyện KBang (Gia Lai)</title_s>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>tang_ga_giong_huyen_kbang</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/KBang 12.2020 (15).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Trong 02 ng&amp;agrave;y 25 v&amp;agrave; 26 th&amp;aacute;ng 12 năm 2020, Tập đo&amp;agrave;n Mavin phối hợp với Hội Chữ thập đỏ huyện Kbang - tỉnh Gia Lai tổ chức hỗ trợ 20.000 con giống c&amp;aacute;c loại; trong đ&amp;oacute;: 10.000 con g&amp;agrave;, 10.000 con vịt giống.&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/KBang 12.2020 (20).jpg" alt="" width="800" height="600" /&gt;&lt;em&gt;Tham dự tại buổi lễ trao tặng sản phẩm t&amp;agrave;i trợ của Tập đo&amp;agrave;n Mavin, &amp;ocirc;ng Trương Văn Đạt, b&amp;iacute; thư Huyện ủy huyện Kbang đ&amp;aacute;nh gi&amp;aacute; cao việc l&amp;agrave;m thiết thực, &amp;yacute; nghĩa của Mavin v&amp;agrave; Hội Chữ thập đỏ huyện Kbang.&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Tổng gi&amp;aacute; trị hỗ trợ của Tập đo&amp;agrave;n Mavin d&amp;agrave;nh cho huyện Kbang l&amp;ecirc;n tới 400 triệu đồng, được ph&amp;acirc;n bổ cho gần 380 hộ ngh&amp;egrave;o, cận ngh&amp;egrave;o, hộ mới tho&amp;aacute;t ngh&amp;egrave;o thuộc x&amp;atilde; Đ&amp;ocirc;ng, Nghĩa An, Lơ Ku, Tơ Tung, Đăk Hlơ, K&amp;ocirc;ng Bờ La, thị trấn Kbang, Sơ Pai, Sơn Lang, Đak Smar, Krong, Đak Rong v&amp;agrave; Kon Pne. Theo đ&amp;oacute;, mỗi hộ được nhận hỗ trợ&amp;nbsp; 50 con giống.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/KBang 12.2020 (2).jpg" alt="" width="800" height="600" /&gt;&lt;/p&gt;
+&lt;p&gt;Chương tr&amp;igrave;nh tặng con giống từ Mavin sẽ g&amp;oacute;p phần tạo điều kiện cho hộ ngh&amp;egrave;o, cận ngh&amp;egrave;o, hộ mới tho&amp;aacute;t ngh&amp;egrave;o ở c&amp;aacute;c x&amp;atilde;, thị trấn ph&amp;aacute;t triển kinh tế, g&amp;oacute;p phần x&amp;oacute;a đ&amp;oacute;i giảm ngh&amp;egrave;o, đồng h&amp;agrave;nh c&amp;ugrave;ng huyện Kbang thực hiện ti&amp;ecirc;u ch&amp;iacute; số 10 về thu nhập v&amp;agrave; ti&amp;ecirc;u ch&amp;iacute; số 11 về hộ ngh&amp;egrave;o trong Bộ ti&amp;ecirc;u ch&amp;iacute; Quốc gia về x&amp;acirc;y dựng n&amp;ocirc;ng th&amp;ocirc;n mới.&lt;/p&gt;</content_html>
+	<createdDate>2021-01-07T10:58:00.163Z</createdDate>
+	<createdDate_dt>2021-01-07T05:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2021-01-07T10:58:00.163Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-07T10:58:00.163Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

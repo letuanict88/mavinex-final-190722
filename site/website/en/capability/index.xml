@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e34f</objectGroupId>
+	<objectId>e34f106c-8c8e-47b5-3a0c-2fcfb898cc03</objectId>
+	<internal-name>Capability.  </internal-name>
+	<title_s>Capability</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t>Capability</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>cecc8533-9df7-49c5-4028-ae061d4775f1</key>
+	<value>Cability Slide</value>
+<component id="cecc8533-9df7-49c5-4028-ae061d4775f1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cecc</objectGroupId>
+	<objectId>cecc8533-9df7-49c5-4028-ae061d4775f1</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/Layer 203.png</image_s>
+	</item></image_o>
+	<file-name>cecc8533-9df7-49c5-4028-ae061d4775f1.xml</file-name>
+	<internal-name>Cability Slide</internal-name>
+	<createdDate>2020-06-05T05:10:39.666Z</createdDate>
+	<createdDate_dt>2020-06-05T05:10:39.666Z</createdDate_dt>
+	<lastModifiedDate>2020-06-05T05:10:39.666Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-05T05:10:39.666Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>bf1fcb6a-a24c-e4b1-bca2-890271ffb12b</key>
+	<value>Capability</value>
+<component id="bf1fcb6a-a24c-e4b1-bca2-890271ffb12b">
+	<content-type>/component/componentfieldsandadvice</content-type>
+	<display-template>/templates/web/experience.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bf1f</objectGroupId>
+	<objectId>bf1fcb6a-a24c-e4b1-bca2-890271ffb12b</objectId>
+	<item_o item-list="true">	<item>	<itemTitle_s>Building sector</itemTitle_s>
+	<itemUrl_s>/en/building-sector</itemUrl_s>
+	<itemImage_s>/static-assets/images/Layer 199.png</itemImage_s>
+	</item>	<item>	<itemTitle_s>Overall consulting, livestock farm design</itemTitle_s>
+	<itemImage_s>/static-assets/images/Layer 186.png</itemImage_s>
+	<itemUrl_s>overall-consulting--livestock-farm-design</itemUrl_s>
+	</item></item_o>
+	<file-name>bf1fcb6a-a24c-e4b1-bca2-890271ffb12b.xml</file-name>
+	<internal-name>Capability</internal-name>
+	<title_s>Capability</title_s>
+	<createdDate>2020-06-05T05:09:23.213Z</createdDate>
+	<createdDate_dt>2020-06-05T05:09:23.213Z</createdDate_dt>
+	<lastModifiedDate>2020-06-08T03:01:41.152Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-08T03:01:41.152Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>capability</folder-name>
+	<createdDate>2020-06-05T05:08:40.872Z</createdDate>
+	<createdDate_dt>2020-06-05T05:08:40.872Z</createdDate_dt>
+	<lastModifiedDate>2020-08-24T07:59:04.448Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-24T07:59:04.448Z</lastModifiedDate_dt>
+</page>

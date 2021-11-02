@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5289</objectGroupId>
+	<objectId>5289a155-c971-bde3-4364-793a515508a1</objectId>
+	<file-name>5289a155-c971-bde3-4364-793a515508a1.xml</file-name>
+	<internal-name>Thiết bị chăn nuôi vịt</internal-name>
+	<productchildtitle_s>Thiết bị chăn nuôi vịt</productchildtitle_s>
+	<productchildavatar_s>/static-assets/images/products/Sp- Tb chuong trại - Tb chăn nuoi vit.JPG</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-chuong-trai</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nuoi-vit</productgrouplevel2_s>
+	<createdDate>2020-06-08T03:40:00.390Z</createdDate>
+	<createdDate_dt>2020-06-08T03:40:00.390Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:34:56.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:34:56.646Z</lastModifiedDate_dt>
+	<productchildtitleEnglish_s>Duck farm equiment</productchildtitleEnglish_s>
+</component>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobpage</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d3e7</objectGroupId>
+	<objectId>d3e783fe-e8b5-31d7-1199-779a75a9bdef</objectId>
+	<item_o item-list="true">	<item>	<title_s>Mô tả công việc:</title_s>
+	<content_t/>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- H&amp;agrave;n kết cấu, h&amp;agrave;n g&amp;ograve;, h&amp;agrave;n c&amp;aacute;c chi tiết cơ kh&amp;iacute;&amp;hellip;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Thực hiện c&amp;aacute;c c&amp;ocirc;ng việc li&amp;ecirc;n quan đến gia c&amp;ocirc;ng, chế tạo, lắp đặt thiết bị cơ kh&amp;iacute; theo sự điều h&amp;agrave;nh v&amp;agrave; sắp xếp của quản l&amp;yacute; xưởng&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;-&amp;nbsp;&lt;span style="font-size: 14pt;"&gt;Chi tiết c&amp;ocirc;ng việc cụ thể sẽ trao đổi trực tiếp&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Yêu cầu:</title_s>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Biết sử dụng c&amp;aacute;c m&amp;aacute;y h&amp;agrave;n, m&amp;aacute;y phay, m&amp;aacute;y tiện&amp;hellip;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- C&amp;oacute; chứng chỉ trung cấp nghề trở l&amp;ecirc;n&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Si&amp;ecirc;ng năng, nhiệt t&amp;igrave;nh, chịu kh&amp;oacute; học hỏi trong c&amp;ocirc;ng việc.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Quyền lợi:</title_s>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Được hưởng c&amp;aacute;c quyền lợi theo quy định của ph&amp;aacute;p luật.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Mức lương từ 6 -12 triệu/ th&amp;aacute;ng.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Thưởng cuối năm.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content_html>
+	</item></item_o>
+	<file-name>index.xml</file-name>
+	<folder-name>quan-ly</folder-name>
+	<internal-name>Công nhân cơ khí</internal-name>
+	<title_s>Công nhân cơ khí</title_s>
+	<type_s>Toàn thời gian</type_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>cf91d235-6830-7d06-7afc-4ed746ec63f1</key>
+	<value>Slide</value>
+<component id="cf91d235-6830-7d06-7afc-4ed746ec63f1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cf91</objectGroupId>
+	<objectId>cf91d235-6830-7d06-7afc-4ed746ec63f1</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_3.png</image_s>
+	</item></image_o>
+	<file-name>cf91d235-6830-7d06-7afc-4ed746ec63f1.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-17T03:09:56.318Z</createdDate>
+	<createdDate_dt>2020-04-17T03:09:56.318Z</createdDate_dt>
+	<lastModifiedDate>2020-04-17T03:09:56.318Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-17T03:09:56.318Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<createdDate>2020-04-17T03:09:08.165Z</createdDate>
+	<createdDate_dt>2020-04-17T03:09:08.165Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:29:01.198Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:29:01.198Z</lastModifiedDate_dt>
+	<duration_dt>2020-04-16T04:00:00.000Z</duration_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

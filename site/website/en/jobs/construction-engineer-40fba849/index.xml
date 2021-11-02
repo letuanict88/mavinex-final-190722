@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/joben</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e913f4a4</objectGroupId>
+	<objectId>e913f4a4-daad-4f1d-a61d-5de0ca1acf80</objectId>
+	<internal-name>Mechanical workers</internal-name>
+	<navLabel>Mechanical workers</navLabel>
+	<title_s>Mechanical workers</title_s>
+	<type_s>Full time</type_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>72a5d7e3-6533-1902-7478-c4392f360a6b</key>
+	<value>Jobs</value>
+<component id="72a5d7e3-6533-1902-7478-c4392f360a6b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>72a5</objectGroupId>
+	<objectId>72a5d7e3-6533-1902-7478-c4392f360a6b</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>index.xml</file-name>
+	<internal-name>Jobs</internal-name>
+	<createdDate>2020-06-13T02:14:57.584Z</createdDate>
+	<createdDate_dt>2020-06-13T02:14:57.584Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T02:14:57.584Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T02:14:57.584Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<file-name>index.xml</file-name>
+	<folder-name>construction-engineer-40fba849</folder-name>
+	<duration_dt>2020-06-30T04:00:00.000Z</duration_dt>
+	<item_o item-list="true">	<item>	<title_s>Job description</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Structural welding, welding, mechanical parts ...&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Perform jobs related to processing, manufacturing, installing mechanical equipment under the management and arrangement of factory management.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Specific job details will be exchanged directly&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Requirement</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Know how to use welding machines, milling machines, lathes ...&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Having vocational secondary school certificate or higher&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Diligent, enthusiastic, hard to learn at work.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Interest</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Enjoy benefits as prescribed by law.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Salary from 6 -12 million / month.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Year-end bonus.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item></item_o>
+	<createdDate>2020-06-13T02:11:45.559Z</createdDate>
+	<createdDate_dt>2020-06-13T02:11:45.559Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T02:17:04.151Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T02:17:04.151Z</lastModifiedDate_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

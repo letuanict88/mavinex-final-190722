@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>48b9</objectGroupId>
+	<objectId>48b97b97-814b-ae40-80ee-79fd5ab5998f</objectId>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<header_o item-list="true">	<item datasource="headercomponent">	<key>/site/items/header/65e34e03-2b97-b5b6-47f9-52c0443429f3.xml</key>
+	<value>Header English</value>
+	<include>/site/items/header/65e34e03-2b97-b5b6-47f9-52c0443429f3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<memberlist_o item-list="true">	<item datasource="listmembercomponent">	<key>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</key>
+	<value>Mavin group members</value>
+	<include>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></memberlist_o>
+	<footer_o item-list="true">	<item datasource="footercomponent">	<key>/site/items/footer/86cde991-8dfd-d2a8-46bc-eccaf904929d.xml</key>
+	<value>Footer EN</value>
+	<include>/site/items/footer/86cde991-8dfd-d2a8-46bc-eccaf904929d.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<createdDate>2020-06-05T03:52:41.452Z</createdDate>
+	<createdDate_dt>2020-06-05T03:52:41.452Z</createdDate_dt>
+	<lastModifiedDate>2020-09-17T07:27:57.776Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-17T07:27:57.776Z</lastModifiedDate_dt>
+</component>

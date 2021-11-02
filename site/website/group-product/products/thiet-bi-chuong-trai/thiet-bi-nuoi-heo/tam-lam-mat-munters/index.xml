@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>50a9</objectGroupId>
+	<objectId>50a956d5-1800-0cdf-1ee7-b1c9795cb87f</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tam-lam-mat-munters</folder-name>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>Tấm làm mát Munters</internal-name>
+	<navLabel>Tấm làm mát Munters</navLabel>
+	<productname_s>Tấm làm mát Munters</productname_s>
+	<productnameEnglish_s> 25/5000 Munters cooling pads</productnameEnglish_s>
+	<phonenumber_s/>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productAvatar_s>/static-assets/images/products/Tấm làm mát Munters.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;KT: cao x rộng x d&amp;agrave;y: 1800 x 600 x 150mm.&lt;/p&gt;
+&lt;p&gt;Chiều cao s&amp;oacute;ng: 7mm, g&amp;oacute;c s&amp;oacute;ng: 450.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Munters&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Size: height x width x thickness: 1800 x 600 x 150mm.&lt;/p&gt;
+&lt;p&gt;Wave height: 7mm, wave angle: 450.&lt;/p&gt;
+&lt;p&gt;Origin: Munters&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tấm làm mát Munters.jpg</productimage_s>
+	<productimagename_s>Tam lam mat Munters</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T09:03:28.798Z</createdDate>
+	<createdDate_dt>2020-06-11T09:03:28.798Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:56:09.134Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:56:09.134Z</lastModifiedDate_dt>
+</page>

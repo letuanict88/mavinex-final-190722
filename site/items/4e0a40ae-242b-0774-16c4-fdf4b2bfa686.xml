@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>4e0a</objectGroupId>
+	<objectId>4e0a40ae-242b-0774-16c4-fdf4b2bfa686</objectId>
+	<productgrouplevel1_s>thiet-bi-chuong-trai</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nuoi-heo</productgrouplevel2_s>
+	<file-name>4e0a40ae-242b-0774-16c4-fdf4b2bfa686.xml</file-name>
+	<internal-name>Thiết bị chăn nuôi heo</internal-name>
+	<productchildtitle_s>Thiết bị chăn nuôi heo</productchildtitle_s>
+	<productchildavatar_s>/static-assets/images/products/product-group-1.png</productchildavatar_s>
+	<createdDate>2020-05-23T07:42:05.701Z</createdDate>
+	<createdDate_dt>2020-05-23T07:42:05.701Z</createdDate_dt>
+	<lastModifiedDate>2020-05-23T07:42:05.701Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-23T07:42:05.701Z</lastModifiedDate_dt>
+</component>

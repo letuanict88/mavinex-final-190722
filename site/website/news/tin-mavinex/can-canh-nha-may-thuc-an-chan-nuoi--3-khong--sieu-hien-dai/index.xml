@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ead7</objectGroupId>
+	<objectId>ead78e8a-3674-b09d-3a73-e7bf044cd233</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>can-canh-nha-may-thuc-an-chan-nuoi--3-khong--sieu-hien-dai</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Cận cảnh nhà máy thức ăn chăn nuôi '3 không' siêu hiện đại</internal-name>
+	<navLabel>Cận cảnh nhà máy thức ăn chăn nuôi '3 không' siêu hiện đại</navLabel>
+	<title_s>Cận cảnh nhà máy thức ăn chăn nuôi '3 không' siêu hiện đại</title_s>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/nhamaythucanchannuoi/Khu vực cầu cảng.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Những nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i ng&amp;agrave;y nay hiện đại, tự động đến mức kh&amp;oacute; tin, nhờ sự ph&amp;aacute;t triển vượt bậc của khoa học c&amp;ocirc;ng nghệ v&amp;agrave; tr&amp;iacute; tuệ nh&amp;acirc;n tạo.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Tập đo&amp;agrave;n Mavin hiện đ&amp;atilde; đầu tư 5 nh&amp;agrave; m&amp;aacute;y chế biến thức ăn chăn nu&amp;ocirc;i tại Việt Nam, ứng dụng c&amp;ocirc;ng nghệ sản xuất tối t&amp;acirc;n nhất của c&amp;aacute;c h&amp;atilde;ng như Buhler (Thụy Sỹ) v&amp;agrave; CPM (Mỹ).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Nh&amp;agrave; m&amp;aacute;y sau cơn mưa.jpg" alt="" width="800" height="600" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;C&amp;aacute;c nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i của Mavin lu&amp;ocirc;n đảm bảo xanh, sạch, đẹp, th&amp;acirc;n thiện m&amp;ocirc;i trường theo ti&amp;ecirc;u ch&amp;iacute; 3 kh&amp;ocirc;ng, kh&amp;ocirc;ng bụi, kh&amp;ocirc;ng m&amp;ugrave;i, kh&amp;ocirc;ng chất thải.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Khu vực cảng s&amp;ocirc;ng.jpg" alt="" width="800" height="600" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Khu vực cầu cảng nhập nguy&amp;ecirc;n liệu được h&amp;uacute;t thẳng từ c&amp;aacute;c t&amp;agrave;u v&amp;agrave;o silo dự trữ v&amp;agrave; chia thẳng tới kho x&amp;aacute;, khu nhập liệu theo một chu tr&amp;igrave;nh tự động, kh&amp;eacute;p k&amp;iacute;n, đ&amp;aacute;p ứng nhu cầu sản xuất li&amp;ecirc;n tục với số lượng lớn.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Xuat hang di Campuchia (3).jpg" alt="" width="800" height="453" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Từ hệ thống cầu cảng, h&amp;agrave;ng h&amp;oacute;a th&amp;agrave;nh phẩm cũng được chuyển bằng băng tải tự động thẳng l&amp;ecirc;n t&amp;agrave;u, ghe để vận chuyển bằng đường s&amp;ocirc;ng đi ti&amp;ecirc;u thụ trong v&amp;agrave; ngo&amp;agrave;i nước gi&amp;uacute;p tiết kiệm chi ph&amp;iacute; v&amp;agrave; thời gian vận chuyển.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Kho th&amp;agrave;nh phẩm 1.jpg" alt="" width="800" height="453" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Kho th&amp;agrave;nh phẩm sử dụng c&amp;ocirc;ng nghệ m&amp;aacute;i skylight, tận dụng tối đa &amp;aacute;nh s&amp;aacute;ng tự nhi&amp;ecirc;n, tiết kiệm điện năng.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Xếp h&amp;agrave;ng l&amp;ecirc;n xe tải.jpg" alt="" width="800" height="450" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Khu vực bốc h&amp;agrave;ng l&amp;ecirc;n xe tải đường bộ cũng ho&amp;agrave;n to&amp;agrave;n tự động bằng xe n&amp;acirc;ng v&amp;agrave; băng tải.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Lưu mẫu c&amp;aacute;m.jpg" alt="" width="800" height="481" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Mọi l&amp;ocirc; thức ăn chăn nu&amp;ocirc;i sản xuất ra đều được lấy mẫu c&amp;aacute;m để lưu lại.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Picture4.jpg" alt="" width="800" height="470" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Tất cả c&amp;aacute;c l&amp;ocirc; thức ăn chăn nu&amp;ocirc;i trước khi đưa ra thị trường đều được ph&amp;acirc;n t&amp;iacute;ch mẫu tự động, khi đạt y&amp;ecirc;u cầu mới được xuất kho.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/M&amp;aacute;y bẻ mảnh vi&amp;ecirc;n c&amp;aacute;m.jpg" alt="" width="800" height="450" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Tập đo&amp;agrave;n Mavin ứng dụng c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến nhất hiện nay trong c&amp;aacute;c c&amp;ocirc;ng đoạn: nghiền, trộn, trộn rỉ mật, &amp;eacute;p đ&amp;ugrave;n, &amp;eacute;p vi&amp;ecirc;n,&amp;hellip; sản phẩm đảm bảo vệ sinh an to&amp;agrave;n tuyệt đối, chất lượng cao, đ&amp;aacute;p ứng Ti&amp;ecirc;u chuẩn thực h&amp;agrave;nh sản xuất tốt của Ch&amp;acirc;u &amp;Acirc;u - GMP.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Robot dong bao tu dong.JPG" alt="" width="800" height="522" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Mavin l&amp;agrave; một trong số &amp;iacute;t c&amp;aacute;c c&amp;ocirc;ng ty hiện nay trang bị c&amp;ocirc;ng nghệ đ&amp;oacute;ng bao tự động với hệ thống ra bao, in date v&amp;agrave; xếp pallet 100% bằng robot của h&amp;atilde;ng Premier Tech Chronos, đảm bảo t&amp;iacute;nh ch&amp;iacute;nh x&amp;aacute;c v&amp;agrave; năng suất cao.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Ph&amp;ograve;ng điều khiển SCADA.jpg" alt="" width="800" height="450" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;To&amp;agrave;n bộ Nh&amp;agrave; m&amp;aacute;y Mavin được điều khiển tự động bằng phần mềm SCADA với rất &amp;iacute;t sự can thiệp của con người.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;img src="/static-assets/images/nhamaythucanchannuoi/Ph&amp;ograve;ng điều khiển trung t&amp;acirc;m.jpg" alt="" width="800" height="532" /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;Năm 2019, Mavin cũng đ&amp;atilde; số h&amp;oacute;a to&amp;agrave;n bộ ng&amp;agrave;nh thức ăn chăn nu&amp;ocirc;i với việc ứng dụng phần mềm quản trị doanh nghiệp ti&amp;ecirc;n tiến nhất thế giới ERP SAP S/4HANA.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;em&gt;Nguồn: B&amp;aacute;o N&amp;ocirc;ng nghiệp Việt Nam (Link b&amp;agrave;i viết:&lt;/em&gt; &lt;em&gt;&lt;a href="https://nongnghiep.vn/can-canh-nha-may-thuc-an-chan-nuoi-3-khong-sieu-hien-dai-d268771.html"&gt;https://nongnghiep.vn/can-canh-nha-may-thuc-an-chan-nuoi-3-khong-sieu-hien-dai-d268771.html&lt;/a&gt;&lt;/em&gt;)&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-20T02:22:20.926Z</createdDate>
+	<createdDate_dt>2020-07-19T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-20T02:43:42.619Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-20T02:43:42.619Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

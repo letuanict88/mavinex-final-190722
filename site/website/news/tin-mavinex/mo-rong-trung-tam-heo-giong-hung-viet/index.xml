@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ea5f</objectGroupId>
+	<objectId>ea5fd5d6-8a53-5e29-dc13-74f2612c2893</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mo-rong-trung-tam-heo-giong-hung-viet</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Thi công mở rộng trung tâm heo hạt nhân Hưng Việt</internal-name>
+	<navLabel>Thi công mở rộng trung tâm heo hạt nhân Hưng Việt</navLabel>
+	<title_s>Thi công mở rộng trung tâm heo hạt nhân Hưng Việt</title_s>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Chuong hau bi Hung Viet (3).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Nhằm mục ti&amp;ecirc;u mở rộng trung t&amp;acirc;m heo giống hạt nh&amp;acirc;n Hưng Việt của Tập đo&amp;agrave;n Mavin, trong th&amp;aacute;ng 7/2020, C&amp;ocirc;ng ty Cổ Phần Mavinex đ&amp;atilde; tiến h&amp;agrave;nh khởi c&amp;ocirc;ng hạng mục chuồng heo hậu bị với quy m&amp;ocirc; 1.500 heo hậu bị giống.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;M&amp;ocirc; h&amp;igrave;nh được thiết kế v&amp;agrave; x&amp;acirc;y dựng theo c&amp;ocirc;ng nghệ ho&amp;agrave;n to&amp;agrave;n mới từ hầm s&amp;agrave;n, v&amp;aacute;ch ngăn, hệ thống th&amp;ocirc;ng tho&amp;aacute;ng chuồng nu&amp;ocirc;i, hệ thống điều khiển, hệ thống ăn uống tự động mới được &amp;aacute;p dụng đồng bộ.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dự kiến m&amp;ocirc; h&amp;igrave;nh sẽ được ho&amp;agrave;n th&amp;agrave;nh trong th&amp;aacute;ng 9, Sau khi ho&amp;agrave;n thiện v&amp;agrave; đi v&amp;agrave;o hoạt động m&amp;ocirc; h&amp;igrave;nh được kỳ vọng sẽ đem lại những đột ph&amp;aacute; mới trong c&amp;ocirc;ng nghệ chăn nu&amp;ocirc;i đặc biệt l&amp;agrave; trong việc cải thiện điều kiện sinh trưởng v&amp;agrave; ph&amp;aacute;t triển đ&amp;agrave;n heo, tăng cường c&amp;ocirc;ng t&amp;aacute;c an to&amp;agrave;n sinh học, giảm thiểu nh&amp;acirc;n c&amp;ocirc;ng lao động, giảm thiểu nguồn nước thải từ đ&amp;oacute; l&amp;agrave;m tiền đề th&amp;uacute;c đẩy c&amp;aacute;c hoạt động chăn nu&amp;ocirc;i bền vững v&amp;agrave; th&amp;acirc;n thiện m&amp;ocirc;i trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Một số h&amp;igrave;nh ảnh khởi c&amp;ocirc;ng Dự &amp;aacute;n:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Chuong hau bi Hung Viet (1).jpg" alt="" width="800" height="800" /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Chuong hau bi Hung Viet (2).jpg" alt="" width="800" height="800" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/Chuong hau bi Hung Viet (4).jpg" alt="" width="800" height="800" /&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-08-10T04:06:57.905Z</createdDate>
+	<createdDate_dt>2020-08-10T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-08-11T03:18:06.433Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-11T03:18:06.433Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

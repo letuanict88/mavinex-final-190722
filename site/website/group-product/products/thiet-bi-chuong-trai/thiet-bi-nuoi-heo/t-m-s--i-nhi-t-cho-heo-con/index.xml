@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>210c</objectGroupId>
+	<objectId>210c361b-ce24-3fc2-3fb6-f5ce1b006e85</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>t-m-s--i-nhi-t-cho-heo-con</folder-name>
+	<internal-name>Tấm sưởi nhiệt cho heo con</internal-name>
+	<navLabel/>
+	<productname_s>Tấm sưởi nhiệt cho heo con</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Tấm sưởi nhiệt.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Chất liệu Composite&lt;/p&gt;
+&lt;p&gt;Điện &amp;aacute;p 220 v &amp;ndash; 50Hz&lt;/p&gt;
+&lt;p&gt;C&amp;ocirc;ng tắc Hi &amp;ndash; low ( 90-180w)&lt;/p&gt;
+&lt;p&gt;Xuất xứ - H&amp;agrave;n Quốc&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tấm sưởi nhiệt.jpg</productimage_s>
+	<productimagename_s>Tấm sưởi nhiệt</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-05T09:14:24.312Z</createdDate>
+	<createdDate_dt>2020-06-05T09:14:24.312Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T08:30:43.184Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T08:30:43.184Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Heating plate for piglets</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;Composite material&lt;/p&gt;
+&lt;p&gt;Voltage 220 v - 50Hz&lt;/p&gt;
+&lt;p&gt;Hi - low switch (90-180w)&lt;/p&gt;
+&lt;p&gt;Made in Korea&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

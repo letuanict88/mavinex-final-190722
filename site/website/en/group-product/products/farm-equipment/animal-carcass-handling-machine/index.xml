@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bb3d</objectGroupId>
+	<objectId>bb3d76e2-bf6f-406a-0336-e8bf76ff8118</objectId>
+	<internal-name>Animal carcass handling machine</internal-name>
+	<navLabel>Animal carcass handling machine</navLabel>
+	<productname_s>Animal carcass handling machine</productname_s>
+	<productnameEnglish_s>Animal carcass handling machine</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>animal-carcass-handling-machine</folder-name>
+	<productAvatar_s>/static-assets/images/products/Máy xử lý xác động vật.jpg</productAvatar_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà-Chicken farm Equipment</value_smv>
+	</item></productchildgroup_o>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Size L4955 * W1600 * H1730&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Material: 304 stainless steel&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Stainless steel screw conveyor &amp;Oslash; 200 L1000, P = 1.5kw, 1445V / P&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Mechanism of action: Cutting, beating and drying&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Handling capacity: 1,200 kg / 48 h&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Size L4955 * W1600 * H1730&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Material: 304 stainless steel&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Stainless steel screw conveyor &amp;Oslash; 200 L1000, P = 1.5kw, 1445V / P&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Mechanism of action: Cutting, beating and drying&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Handling capacity: 1,200 kg / 48 h&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máy xử lý xác động vật.jpg</productimage_s>
+	<productimagename_s>Máy xử lý xác động vật</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T04:37:03.501Z</createdDate>
+	<createdDate_dt>2020-07-14T04:37:03.501Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:37:03.501Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:37:03.501Z</lastModifiedDate_dt>
+</page>

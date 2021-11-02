@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>782f</objectGroupId>
+	<objectId>782fad87-8ac5-be9d-c1a0-c227f2994bf0</objectId>
+	<file-name>categories.xml</file-name>
+	<folder-name/>
+	<internal-name>Categories</internal-name>
+	<items item-list="true">	<item>	<key>updates</key>
+	<value>Updates</value>
+	</item>	<item>	<key>events</key>
+	<value>Events</value>
+	</item>	<item>	<key>recipes</key>
+	<value>Recipe</value>
+	</item>	<item>	<key>technology</key>
+	<value>Technology</value>
+	</item>	<item>	<key>introduct</key>
+	<value>Introduct</value>
+	</item>	<item>	<key>fieldWork</key>
+	<value>FieldWork</value>
+	</item></items>
+	<createdDate>2017-5-9T21:8:58.000Z</createdDate>
+	<createdDate_dt>2017-5-9T21:8:58.000Z</createdDate_dt>
+	<lastModifiedDate>2020-03-27T06:51:54.945Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-27T06:51:54.945Z</lastModifiedDate_dt>
+</component>

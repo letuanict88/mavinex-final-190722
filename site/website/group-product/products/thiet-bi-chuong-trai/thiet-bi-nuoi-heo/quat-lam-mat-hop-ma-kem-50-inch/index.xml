@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>056f</objectGroupId>
+	<objectId>056f3eeb-0745-5bd4-fc9f-2c1413d86dbc</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>quat-lam-mat-hop-ma-kem-50-inch</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Quạt làm mát hộp mạ kẽm 50 inch.jpg</productAvatar_s>
+	<internal-name>Quạt làm mát hộp mạ kẽm 50 inch</internal-name>
+	<navLabel>Quạt làm mát hộp mạ kẽm 50 inch</navLabel>
+	<productname_s>Quạt làm mát hộp mạ kẽm 50 inch</productname_s>
+	<productnameEnglish_s>50-inch galvanized box cooling fan</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;1.5Hp, 3 pha, 6 c&amp;aacute;nh inox, c&amp;ocirc;ng suất 38.000m3/h&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Trung Quốc&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;1.5Hp, 3 phase, 6 stainless steel blades, capacity of 38,000m3 / h&lt;/p&gt;
+&lt;p&gt;Made in China&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Quạt làm mát hộp mạ kẽm 50 inch.jpg</productimage_s>
+	<productimagename_s>Quạt làm mát hộp mạ kẽm 50 inch</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T09:29:42.797Z</createdDate>
+	<createdDate_dt>2020-06-11T09:29:42.797Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:55:18.507Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:55:18.507Z</lastModifiedDate_dt>
+</page>

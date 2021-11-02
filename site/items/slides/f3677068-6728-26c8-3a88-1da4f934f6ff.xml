@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f367</objectGroupId>
+	<objectId>f3677068-6728-26c8-3a88-1da4f934f6ff</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-linh-vuc-hoat-dong.png</image_s>
+	</item></image_o>
+	<file-name>f3677068-6728-26c8-3a88-1da4f934f6ff.xml</file-name>
+	<internal-name>Chủ tịch HĐQT Mavin được bổ nhiệm Phó Chủ tịch Auscham tại Việt Nam</internal-name>
+	<createdDate>2020-05-26T02:48:25.283Z</createdDate>
+	<createdDate_dt>2020-05-26T02:48:25.283Z</createdDate_dt>
+	<lastModifiedDate>2020-06-10T07:00:29.888Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-10T07:00:29.888Z</lastModifiedDate_dt>
+</component>

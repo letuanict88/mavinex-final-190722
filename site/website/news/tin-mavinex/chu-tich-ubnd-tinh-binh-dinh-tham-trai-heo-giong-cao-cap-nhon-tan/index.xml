@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c9fa</objectGroupId>
+	<objectId>c9faa118-0e6d-2b14-a8c0-89540edf0fbf</objectId>
+	<internal-name>Chủ tịch UBND tỉnh Bình Định thăm trại heo giống cao cấp Nhơn Tân</internal-name>
+	<navLabel>Chủ tịch UBND tỉnh Bình Định thăm trại heo giống cao cấp Nhơn Tân</navLabel>
+	<title_s>Chủ tịch UBND tỉnh Bình Định thăm trại heo giống cao cấp Nhơn Tân</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex</value_smv>
+	</item></categories_o>
+	<file-name>index.xml</file-name>
+	<folder-name>chu-tich-ubnd-tinh-binh-dinh-tham-trai-heo-giong-cao-cap-nhon-tan</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Anh MBD 17.3.2020A.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;S&amp;aacute;ng ng&amp;agrave;y 17/3/2020, đồng ch&amp;iacute; Hồ Quốc Dũng, Chủ tịch UBND tỉnh B&amp;igrave;nh Định c&amp;ugrave;ng đo&amp;agrave;n c&amp;ocirc;ng t&amp;aacute;c đ&amp;atilde; đến thăm v&amp;agrave; l&amp;agrave;m việc tại Trang trại chăn nu&amp;ocirc;i heo giống cao cấp Nhơn T&amp;acirc;n (An Nhơn, B&amp;igrave;nh Định) của Tập đo&amp;agrave;n Mavin.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&amp;Ocirc;ng Đ&amp;agrave;o Mạnh Lương, Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin đ&amp;atilde; tiếp đo&amp;agrave;n c&amp;ocirc;ng t&amp;aacute;c v&amp;agrave; tr&amp;igrave;nh b&amp;agrave;y giới thiệu về trại Nhơn T&amp;acirc;n cũng như hệ thống chăn nu&amp;ocirc;i tại miền Trung của Tập đo&amp;agrave;n Mavin.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ph&amp;aacute;t biểu tại buổi l&amp;agrave;m việc, Chủ tịch tỉnh đ&amp;atilde; đề nghị Mavin hỗ trợ tỉnh B&amp;igrave;nh Định ph&amp;aacute;t triển giống heo chất lượng cao cũng như hỗ trợ tỉnh ph&amp;aacute;t triển chăn nu&amp;ocirc;i vịt. Chủ tịch Hồ Quốc Dũng cũng gợi &amp;yacute; Mavin tổ chức c&amp;aacute;c h&amp;ocirc;i nghị chuy&amp;ecirc;n s&amp;acirc;u để c&amp;ugrave;ng b&amp;agrave;n về hướng ph&amp;aacute;t triển chăn nu&amp;ocirc;i cho tỉnh, đặc biệt l&amp;agrave; việc ứng dụng nu&amp;ocirc;i c&amp;ocirc;ng nghệ cao.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;a href="https://mavin-group.com/vi/nghien-cuu-phat-trien/trai-heo-nhon-tan-%E2%80%93-trang-trai-chan-nuoi-tieu-chuan-chau-au.html?fbclid=IwAR091hjU8i8gHx6U6Ke49frAXOePFYvyVJJ_KDIzqvUsTKPOP4XjaJyz8Sc"&gt;&amp;ldquo;Trang trại chăn nu&amp;ocirc;i heo giống cao cấp Nhơn T&amp;acirc;n&amp;rdquo;&lt;/a&gt;&amp;nbsp;của Tập đo&amp;agrave;n Mavin được đặt tại th&amp;ocirc;n Thọ T&amp;acirc;n Bắc, x&amp;atilde; Nhơn T&amp;acirc;n, Thị x&amp;atilde; An Nhơn (B&amp;igrave;nh Định). Đ&amp;acirc;y l&amp;agrave; trang trại heo hiện đại nhất khu vực miền Trung v&amp;agrave; T&amp;acirc;y nguy&amp;ecirc;n, với số tiền đầu tư l&amp;ecirc;n đến gần 4 triệu USD, đạt ti&amp;ecirc;u chuẩn Ch&amp;acirc;u &amp;Acirc;u. Trang trại được thiết kế, vận h&amp;agrave;nh theo quy tr&amp;igrave;nh tự động, kh&amp;eacute;p k&amp;iacute;n với quy m&amp;ocirc; 1.200 heo n&amp;aacute;i v&amp;agrave; hơn 7.000 heo thịt theo ti&amp;ecirc;u chuẩn GMP.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-10T08:37:22.589Z</createdDate>
+	<createdDate_dt>2020-06-10T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:36:47.236Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:36:47.236Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

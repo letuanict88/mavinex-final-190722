@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/item-explorer</content-type>
+	<placeInNav>true</placeInNav>
+	<display-template>/templates/web/item-explorer.ftl</display-template>
+	<no-template-required/>
+	<descriptor-mapper>hierarchical-mapper</descriptor-mapper>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Công ty Cổ phần Mavinex</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2020-09-17T07:14:16.348Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-17T07:14:16.348Z</lastModifiedDate_dt>
+	<title_s>Công ty Cổ phần Mavinex</title_s>
+	<disabled>false</disabled>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>7191fe7b-e11d-bc53-bfdf-2468c4633e91</key>
+	<value>Slide</value>
+<component id="7191fe7b-e11d-bc53-bfdf-2468c4633e91">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7191</objectGroupId>
+	<objectId>7191fe7b-e11d-bc53-bfdf-2468c4633e91</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_1.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>7191fe7b-e11d-bc53-bfdf-2468c4633e91.xml</file-name>
+	<createdDate>2020-05-04T03:32:26.334Z</createdDate>
+	<createdDate_dt>2020-05-04T03:32:26.334Z</createdDate_dt>
+	<lastModifiedDate>2020-05-04T03:32:26.334Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-04T03:32:26.334Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="carouselDataSource">	<key>/site/items/carousel/f95544c8-088a-2dcf-9df8-3626398ddfa1.xml</key>
+	<value>Carousel Products</value>
+	<include>/site/items/carousel/f95544c8-088a-2dcf-9df8-3626398ddfa1.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>e69bd248-5a04-f6cb-ffc1-70fa86db788c</key>
+	<value>Introduction</value>
+<component id="e69bd248-5a04-f6cb-ffc1-70fa86db788c">
+	<content-type>/component/homeitem1</content-type>
+	<display-template>/templates/web/homeitem1.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e69b</objectGroupId>
+	<objectId>e69bd248-5a04-f6cb-ffc1-70fa86db788c</objectId>
+	<item_o item-list="true">	<item>	<content_t>Được thành lập từ năm 2017, với tiền thân là Phòng dự án của Tập đoàn Mavin, Công ty cổ Phần Mavinex được biết đến là đơn vị triển khai thi công các dự án trọng điểm của tập đoàn Mavin trong các lĩnh vực thiết kế và xây dựng các nhà máy thức ăn chăn nuôi, thiết kế và xây dựng các trang trại chăn nuôi, Trong những năm qua Công ty đã triển khai hàng chục các dự án trọng điểm, có thể kể ra như: dự án xây dựng nhà máy thức ăn thủy Sản tại Hưng Yên với công suất  45.000 tấn/năm; nhà máy thức ăn gia súc Nghệ An với công suất 300.000 tấn/năm; và nhà máy Đồng Tháp với công suất  350.000 tấn/năm.</content_t>
+	</item>	<item>	<content_t>Việc kết hợp hài hòa công nghệ thiết bị của các hãng hàng đầu thế giới của các hàng Buhler, Vandesen, Chronos…cùng sự sáng tạo của các kỹ sư Mavinex đã xây dựng nên các nhà máy sản xuất thức ăn chăn nuôi công nghệ 4.0, Việc áp dụng công nghệ 4.0 giúp Mavin giảm được chi phí sản xuất, vận hành, tăng năng suất lao động và bảo vệ môi trường cũng như bảo vệ sức khỏe của người sản xuất và tiêu dùng.</content_t>
+	</item></item_o>
+	<file-name>e69bd248-5a04-f6cb-ffc1-70fa86db788c.xml</file-name>
+	<internal-name>Introduction</internal-name>
+	<title_s>Giới thiệu</title_s>
+	<image_s>/static-assets/images/featured/content_img_1.png</image_s>
+	<isVerticalContent_b>false</isVerticalContent_b>
+	<createdDate>2020-05-04T03:33:29.643Z</createdDate>
+	<createdDate_dt>2020-05-04T03:33:29.643Z</createdDate_dt>
+	<lastModifiedDate>2020-05-04T03:33:29.643Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-04T03:33:29.643Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>0d13a4a3-eb5a-0dfc-58a5-aa771f42c9b7</key>
+	<value>Experience</value>
+<component id="0d13a4a3-eb5a-0dfc-58a5-aa771f42c9b7">
+	<content-type>/component/homeitem2</content-type>
+	<display-template>/templates/web/homeitem2.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0d13</objectGroupId>
+	<objectId>0d13a4a3-eb5a-0dfc-58a5-aa771f42c9b7</objectId>
+	<contentitem_o item-list="true">	<item datasource="homeitem2contentcomponent">	<key>/site/items/home-item-2-content/e50bc2f0-fd6a-25ac-11df-ef682ab21776.xml</key>
+	<value>Building</value>
+	<include>/site/items/home-item-2-content/e50bc2f0-fd6a-25ac-11df-ef682ab21776.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="homeitem2contentcomponent">	<key>/site/items/home-item-2-content/2d90f153-8ad3-2850-1b85-5fa40da481df.xml</key>
+	<value>Consulting and farm design</value>
+	<include>/site/items/home-item-2-content/2d90f153-8ad3-2850-1b85-5fa40da481df.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></contentitem_o>
+	<file-name>0d13a4a3-eb5a-0dfc-58a5-aa771f42c9b7.xml</file-name>
+	<internal-name>Experience</internal-name>
+	<title_s>Năng lực kinh nghiệm</title_s>
+	<createdDate>2020-05-04T03:34:36.578Z</createdDate>
+	<createdDate_dt>2020-05-04T03:34:36.578Z</createdDate_dt>
+	<lastModifiedDate>2020-05-04T03:58:31.104Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-04T03:58:31.104Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<header_o item-list="true">	<item datasource="headerComponent">	<key>/site/items/header/035a3762-4f52-f116-b687-2a3d9701c52e.xml</key>
+	<value>Default header</value>
+	<include>/site/items/header/035a3762-4f52-f116-b687-2a3d9701c52e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<listmember_o item-list="true">	<item datasource="listMemberComponent">	<key>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</key>
+	<value>Mavin group members</value>
+	<include>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></listmember_o>
+	<footer_o item-list="true">	<item datasource="footerComponent">	<key>/site/items/footer/9b4ae7f3-594a-5892-9874-ee0f0451c377.xml</key>
+	<value>Default footer</value>
+	<include>/site/items/footer/9b4ae7f3-594a-5892-9874-ee0f0451c377.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+</page>

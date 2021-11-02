@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobpage</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1758</objectGroupId>
+	<objectId>1758f874-90fa-15ab-8aa6-8d1188803b75</objectId>
+	<item_o item-list="true">	<item>	<title_s>Mô tả</title_s>
+	<content_t>–  Hàng ngày thu thập chứng từ, xử lý thông tin số liệu kế toán, chứng từ kế toán.
+–  Tham mưu cho Ban Giám đốc về các hoạt động tài chính kế toán.
+
+–  Hạch toán thu thập chi phí, khấu hao TSCĐ, công nợ, các nghiệp vụ khác, thuế GTGT
+
+–  Công tác ngoại giao với các cơ quan: Ngân hàng, thuế, đối tác ….
+</content_t>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- T&amp;igrave;m kiếm kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; nhu cầu mua c&amp;aacute;c sản phẩm của c&amp;ocirc;ng ty.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Ch&amp;agrave;o b&amp;aacute;n c&amp;aacute;c sản phẩm của c&amp;ocirc;ng ty tới kh&amp;aacute;ch h&amp;agrave;ng.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- T&amp;igrave;m hiểu nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng, phối hợp với bộ phận sản xuất cải tiến, n&amp;acirc;ng cấp chất lượng v&amp;agrave; mẫu m&amp;atilde; sản phẩm để ph&amp;ugrave; hợp với nhu cầu thị trường.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Giao dịch, thương lượng với kh&amp;aacute;ch h&amp;agrave;ng để k&amp;yacute; kết hợp đồng.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Phối hợp với c&amp;aacute;c bộ phận chuy&amp;ecirc;n m&amp;ocirc;n để tư vấn v&amp;agrave; hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng trước v&amp;agrave; sau b&amp;aacute;n h&amp;agrave;ng.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Lập kế hoạch kinh doanh v&amp;agrave; b&amp;aacute;o c&amp;aacute;o kết quả kinh doanh h&amp;agrave;ng th&amp;aacute;ng, qu&amp;yacute;, năm cho ban GĐ.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;Thời hạn: 30/6/2020&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Yêu cầu </title_s>
+	<content_t>–  Có ít nhất 02 năm kinh nghiệm ở vị trí tương đương.
+–  Có trình độ chuyên môn, nghiệp vụ kế toán từ cao đẳng học trở lên.</content_t>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Tốt nghiệp chuy&amp;ecirc;n ng&amp;agrave;nh kinh tế, thương mại hoặc chăn nu&amp;ocirc;i&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- C&amp;oacute; khả năng l&amp;agrave;m việc độc lập v&amp;agrave; theo nh&amp;oacute;m, chịu được &amp;aacute;p lực c&amp;ocirc;ng việc cao, c&amp;oacute; khả năng đi c&amp;ocirc;ng t&amp;aacute;c&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- C&amp;oacute; kỹ năng thương thuyết, đ&amp;agrave;m ph&amp;aacute;n.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Ưu ti&amp;ecirc;n ứng vi&amp;ecirc;n c&amp;oacute; kinh nghiệm về c&amp;aacute;c thiết bị thức ăn chăn nu&amp;ocirc;i, nh&amp;agrave; m&amp;aacute;y thức ăn gia s&amp;uacute;c.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Quyền lợi:</title_s>
+	<content_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Lương thỏa thuận.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Được hưởng c&amp;aacute;c quyền lợi theo quy định của ph&amp;aacute;p luật.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;- Thưởng theo hiệu suất c&amp;ocirc;ng việc.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item></item_o>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>2000</orderDefault_f>
+	<internal-name>Nhân viên kinh doanh thiết bị nông nghiệp</internal-name>
+	<title_s>Nhân viên kinh doanh thiết bị nông nghiệp</title_s>
+	<type_s>Toàn thời gian</type_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>ed85a110-dd8f-f7ba-c832-61689aae9a5e</key>
+	<value>Slide</value>
+<component id="ed85a110-dd8f-f7ba-c832-61689aae9a5e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ed85</objectGroupId>
+	<objectId>ed85a110-dd8f-f7ba-c832-61689aae9a5e</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>ed85a110-dd8f-f7ba-c832-61689aae9a5e.xml</file-name>
+	<createdDate>2020-04-06T06:46:55.011Z</createdDate>
+	<createdDate_dt>2020-04-06T06:46:55.011Z</createdDate_dt>
+	<lastModifiedDate>2020-04-06T06:46:55.011Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-06T06:46:55.011Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<file-name>index.xml</file-name>
+	<folder-name>kinh-doanh-thiet-bi-chan-nuoi</folder-name>
+	<createdDate>2020-04-06T06:46:05.171Z</createdDate>
+	<createdDate_dt>2020-04-06T06:46:05.171Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:25:27.906Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:25:27.906Z</lastModifiedDate_dt>
+	<duration_dt>2020-04-06T04:00:00.000Z</duration_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

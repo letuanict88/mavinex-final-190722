@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cdde</objectGroupId>
+	<objectId>cddedfc6-693a-7a4f-f503-61b016911f9b</objectId>
+	<internal-name>Thiết bị nhà máy TACN</internal-name>
+	<productchildtitle_s>Thiết bị nhà máy TACN</productchildtitle_s>
+	<productchildavatar_s>/static-assets/images/products/thiet-bi-nha-may-tacn.png</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-nha-may-thuc-an-chan-nuoi</productgrouplevel1_s>
+	<productgrouplevel2_s>thiet-bi-nha-may-tacn</productgrouplevel2_s>
+	<file-name>cddedfc6-693a-7a4f-f503-61b016911f9b.xml</file-name>
+	<createdDate>2020-05-25T03:19:34.367Z</createdDate>
+	<createdDate_dt>2020-05-25T03:19:34.367Z</createdDate_dt>
+	<lastModifiedDate>2020-05-25T03:19:34.367Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-25T03:19:34.367Z</lastModifiedDate_dt>
+</component>

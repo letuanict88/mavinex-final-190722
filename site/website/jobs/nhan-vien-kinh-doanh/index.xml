@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobpage</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>99c4</objectGroupId>
+	<objectId>99c47e65-52ff-4646-6606-8abe5d2e5365</objectId>
+	<item_o item-list="true">	<item>	<title_s>Nhân viên Kinh doanh thu nhập hấp dẫn</title_s>
+	<content_html>&lt;p&gt;1. Mức lương kh&amp;ocirc;ng giới hạn: 6 triệu lương cứng + 5-30% thưởng doanh thu&lt;/p&gt;
+&lt;p&gt;2. Y&amp;ecirc;u cầu:&lt;/p&gt;
+&lt;p&gt;- Tốt nghiệp chuy&amp;ecirc;n ng&amp;agrave;nh kinh tế, thương mại, th&amp;uacute; y, quản trị kinh doanh&amp;hellip;&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; kinh nghiệm l&amp;agrave;m việc trong lĩnh vực chăn nu&amp;ocirc;i&lt;/p&gt;
+&lt;p&gt;- Giới t&amp;iacute;nh nam, độ tuổi tr&amp;ecirc;n 25 trở l&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;- Nhiệt t&amp;igrave;nh, c&amp;oacute; tr&amp;aacute;ch nhiệm&lt;/p&gt;
+&lt;p&gt;3. M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/p&gt;
+&lt;p&gt;- T&amp;igrave;m kiếm kh&amp;aacute;ch h&amp;agrave;ng c&amp;oacute; nhu cầu mua c&amp;aacute;c sản phẩm của c&amp;ocirc;ng ty&lt;/p&gt;
+&lt;p&gt;- Ch&amp;agrave;o b&amp;aacute;n c&amp;aacute;c sản phẩm của c&amp;ocirc;ng ty tới kh&amp;aacute;ch h&amp;agrave;ng.&lt;/p&gt;
+&lt;p&gt;- Thiết lập, duy tr&amp;igrave; v&amp;agrave; ph&amp;aacute;t triển hệ thống kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c.&lt;/p&gt;
+&lt;p&gt;- T&amp;igrave;m hiểu nhu cầu của kh&amp;aacute;ch h&amp;agrave;ng, phối hợp với bộ phận sản xuất cải tiến, n&amp;acirc;ng cấp chất lượng v&amp;agrave; mẫu m&amp;atilde; sản phẩm để ph&amp;ugrave; hợp với nhu cầu thị trường.&lt;/p&gt;
+&lt;p&gt;- Giao dịch, thương lượng với kh&amp;aacute;ch h&amp;agrave;ng để k&amp;yacute; kết hợp đồng.&lt;/p&gt;
+&lt;p&gt;- Phối hợp với c&amp;aacute;c bộ phận chuy&amp;ecirc;n m&amp;ocirc;n để tư vấn v&amp;agrave; hỗ trợ kh&amp;aacute;ch h&amp;agrave;ng trước v&amp;agrave; sau b&amp;aacute;n h&amp;agrave;ng.&lt;/p&gt;
+&lt;p&gt;- Lập kế hoạch kinh doanh v&amp;agrave; b&amp;aacute;o c&amp;aacute;o kết quả kinh doanh h&amp;agrave;ng th&amp;aacute;ng, qu&amp;yacute;, năm cho ban GĐ.&lt;/p&gt;
+&lt;p&gt;- Thực hiện một số c&amp;ocirc;ng việc kh&amp;aacute;c theo sự ph&amp;acirc;n c&amp;ocirc;ng của Ban GĐ.&lt;/p&gt;
+&lt;p&gt;4. C&amp;aacute;ch thức ứng tuyển: Gửi CV v&amp;agrave;o email: tuyendung@mavinex.com&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;5. Thời gian ứng tuyển: Hết ng&amp;agrave;y 30/10/2020&lt;/p&gt;
+&lt;p&gt;Chi tiết trao đổi khi phỏng vấn&lt;/p&gt;</content_html>
+	</item></item_o>
+	<internal-name>TUYỂN NV KINH DOANH THU NHẬP HẤP DẪN</internal-name>
+	<title_s>Nhân viên Kinh doanh thu nhập hấp dẫn</title_s>
+	<type_s>toàn thời gian</type_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>nhan-vien-kinh-doanh</folder-name>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>caff1b9f-8396-792a-9c05-e7924bb1a180</key>
+	<value>Slide</value>
+<component id="caff1b9f-8396-792a-9c05-e7924bb1a180">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>caff</objectGroupId>
+	<objectId>caff1b9f-8396-792a-9c05-e7924bb1a180</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>caff1b9f-8396-792a-9c05-e7924bb1a180.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-09-16T07:52:21.580Z</createdDate>
+	<createdDate_dt>2020-09-16T07:52:21.580Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T07:52:21.580Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T07:52:21.580Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<duration_dt>2020-10-30T04:00:00.000Z</duration_dt>
+	<createdDate>2020-09-16T07:48:38.263Z</createdDate>
+	<createdDate_dt>2020-09-16T07:48:38.263Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T08:09:22.037Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T08:09:22.037Z</lastModifiedDate_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

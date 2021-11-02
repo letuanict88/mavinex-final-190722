@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>97f5</objectGroupId>
+	<objectId>97f5392b-eee0-6b71-8985-15f407724512</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>news</folder-name>
+	<internal-name>News</internal-name>
+	<title_s>News</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t>News</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>803a5188-258c-7f46-da4e-e15680948da1</key>
+	<value>News</value>
+<component id="803a5188-258c-7f46-da4e-e15680948da1">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>803a</objectGroupId>
+	<objectId>803a5188-258c-7f46-da4e-e15680948da1</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-linh-vuc-hoat-dong.png</image_s>
+	</item></image_o>
+	<file-name>803a5188-258c-7f46-da4e-e15680948da1.xml</file-name>
+	<internal-name>News</internal-name>
+	<createdDate>2020-06-12T07:07:56.474Z</createdDate>
+	<createdDate_dt>2020-06-12T07:07:56.474Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T07:07:56.474Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T07:07:56.474Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>1af66b27-81ff-dafc-71cf-cd1e753a065f</key>
+	<value>News</value>
+<component id="1af66b27-81ff-dafc-71cf-cd1e753a065f">
+	<content-type>/component/componentlistnewsen</content-type>
+	<display-template>/templates/web/news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1af6</objectGroupId>
+	<objectId>1af66b27-81ff-dafc-71cf-cd1e753a065f</objectId>
+	<file-name>1af66b27-81ff-dafc-71cf-cd1e753a065f.xml</file-name>
+	<internal-name>News</internal-name>
+	<title_s>News</title_s>
+	<createdDate>2020-06-12T08:53:35.706Z</createdDate>
+	<createdDate_dt>2020-06-12T08:53:35.706Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T08:53:35.706Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T08:53:35.706Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-12T07:02:54.498Z</createdDate>
+	<createdDate_dt>2020-06-12T07:02:54.498Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T08:53:14.311Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T08:53:14.311Z</lastModifiedDate_dt>
+</page>

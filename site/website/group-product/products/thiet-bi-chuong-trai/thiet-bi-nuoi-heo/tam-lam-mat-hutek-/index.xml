@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e0f1</objectGroupId>
+	<objectId>e0f1285b-5f5d-bc1d-79a8-ca7407f81735</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tam-lam-mat-hutek-</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>Tấm làm mát Hutek </internal-name>
+	<navLabel>Tấm làm mát Hutek </navLabel>
+	<productname_s>Tấm làm mát Hutek </productname_s>
+	<productnameEnglish_s>Hutek cooling pads</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productAvatar_s>/static-assets/images/products/Tấm làm mát Hutek.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;KT: cao x rộng x d&amp;agrave;y: 1800 x 600 x 150mm.&lt;/p&gt;
+&lt;p&gt;Chiều cao s&amp;oacute;ng: 7mm, g&amp;oacute;c s&amp;oacute;ng: 450.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Xuất xứ th&amp;aacute;i Lan.&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Size: height x width x thickness: 1800 x 600 x 150mm.&lt;/p&gt;
+&lt;p&gt;Wave height: 7mm, wave angle: 450.&lt;/p&gt;
+&lt;p&gt;Made in Thailand.&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tấm làm mát Hutek.jpg</productimage_s>
+	<productimagename_s>Tấm làm mát Hutek </productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T09:01:12.822Z</createdDate>
+	<createdDate_dt>2020-06-11T09:01:12.822Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:55:59.061Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:55:59.061Z</lastModifiedDate_dt>
+</page>

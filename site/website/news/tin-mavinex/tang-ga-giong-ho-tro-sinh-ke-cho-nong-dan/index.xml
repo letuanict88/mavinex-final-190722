@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>287b</objectGroupId>
+	<objectId>287b470e-ccf5-796e-80f2-d6c2d4918c74</objectId>
+	<internal-name>Tặng gà giống hỗ trợ sinh kế cho nông dân</internal-name>
+	<navLabel>Tặng gà giống hỗ trợ sinh kế cho nông dân</navLabel>
+	<title_s>Tặng gà giống hỗ trợ sinh kế cho nông dân</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tang-ga-giong-ho-tro-sinh-ke-cho-nong-dan</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/IMG_6114_Fotor.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ng&amp;agrave;y 18/5/2020, Tập đo&amp;agrave;n Mavin đ&amp;atilde; trao tặng con giống g&amp;agrave; Ri Mavin 233 cho c&amp;aacute;c hộ n&amp;ocirc;ng d&amp;acirc;n th&amp;ocirc;n Khu&amp;ocirc;n Phầy, x&amp;atilde; Kh&amp;aacute;ng Nhật, huyện Sơn Dương, tỉnh Tuy&amp;ecirc;n Quang.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;X&amp;atilde; Kh&amp;aacute;ng Nhật, huyện Sơn Dương l&amp;agrave; một địa b&amp;agrave;n miền n&amp;uacute;i ph&amp;iacute;a Nam tỉnh Tuy&amp;ecirc;n Quang, thu nhập của người n&amp;ocirc;ng d&amp;acirc;n chủ yếu phụ thuộc v&amp;agrave;o trồng c&amp;acirc;y c&amp;ocirc;ng nghiệp v&amp;agrave; đang bắt đầu chuyển hướng sang ph&amp;aacute;t triển chăn nu&amp;ocirc;i. Việc trao tặng con giống của Tập đo&amp;agrave;n Mavin đ&amp;atilde; nhận được sự cảm k&amp;iacute;ch từ ch&amp;iacute;nh quyền x&amp;atilde; Kh&amp;aacute;ng Nhật v&amp;agrave; c&amp;aacute;c hộ n&amp;ocirc;ng d&amp;acirc;n đang mong muốn l&amp;agrave;m chủ được nghề chăn nu&amp;ocirc;i để ph&amp;aacute;t triển kinh tế gia đ&amp;igrave;nh.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&amp;Ocirc;ng L&amp;ecirc; Văn Dần, Chủ tịch UBND x&amp;atilde; Kh&amp;aacute;ng Nhật đ&amp;atilde; trực tiếp nhận g&amp;agrave; giống v&amp;agrave; b&amp;agrave;y tỏ sự cảm k&amp;iacute;ch trước tấm l&amp;ograve;ng của Tập đo&amp;agrave;n Mavin v&amp;agrave; khẳng định l&amp;atilde;nh đạo x&amp;atilde; Kh&amp;aacute;ng Nhật v&amp;agrave; th&amp;ocirc;n Khu&amp;ocirc;n Phầy sẽ s&amp;aacute;t sao với c&amp;ocirc;ng t&amp;aacute;c chăn nu&amp;ocirc;i của b&amp;agrave; con để đảm bảo đạt hiệu quả cao nhất.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;G&amp;agrave; ri Mavin 233 l&amp;agrave; giống g&amp;agrave; được lai tạo v&amp;agrave; chọn lọc từ c&amp;aacute;c d&amp;ograve;ng g&amp;agrave; nổi tiếng Ch&amp;acirc;u &amp;Acirc;u với c&amp;aacute;c giống g&amp;agrave; bản địa được chọn lọc, nu&amp;ocirc;i dưỡng, chăm s&amp;oacute;c, c&amp;oacute; độ thuần cao của Việt Nam, nhờ đ&amp;oacute; c&amp;oacute; nhiều phẩm chất vượt trội v&amp;agrave; cho hiệu quả chăn nu&amp;ocirc;i cao. Trao tặng giống g&amp;agrave; chất lượng l&amp;agrave; một cam kết của Tập đo&amp;agrave;n Mavin đồng h&amp;agrave;nh với người n&amp;ocirc;ng d&amp;acirc;n n&amp;oacute;i chung v&amp;agrave; x&amp;atilde; Kh&amp;aacute;ng Nhật n&amp;oacute;i ri&amp;ecirc;ng ph&amp;aacute;t triển chăn nu&amp;ocirc;i v&amp;agrave; kinh tế gia đ&amp;igrave;nh.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-23T07:26:12.223Z</createdDate>
+	<createdDate_dt>2020-06-23T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T07:26:12.223Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T07:26:12.223Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

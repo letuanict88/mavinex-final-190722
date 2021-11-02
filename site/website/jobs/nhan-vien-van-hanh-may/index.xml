@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/jobpage</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ee50</objectGroupId>
+	<objectId>ee50a658-7ea8-bbc8-3d3d-c9af36bda4e9</objectId>
+	<item_o item-list="true">	<item>	<title_s>Nhân viên vận hành máy</title_s>
+	<content_html>&lt;p&gt;&lt;strong&gt;1. M&amp;ocirc; tả c&amp;ocirc;ng việc&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Thực hiện c&amp;aacute;c thao t&amp;aacute;c căn chỉnh m&amp;aacute;y, điều khiển m&amp;aacute;y l&amp;agrave;m tấm đan b&amp;ecirc; t&amp;ocirc;ng&lt;/p&gt;
+&lt;p&gt;- Đề xuất phương &amp;aacute;n điều chỉnh ph&amp;ugrave; hợp với ti&amp;ecirc;u chuẩn sản phẩm.&lt;/p&gt;
+&lt;p&gt;- B&amp;aacute;o c&amp;aacute;o c&amp;aacute;c c&amp;ocirc;ng việc li&amp;ecirc;n quan cho Ban gi&amp;aacute;m đốc v&amp;agrave; Trưởng bộ phận&lt;/p&gt;
+&lt;p&gt;- M&amp;aacute;y vận h&amp;agrave;nh đơn giản, dễ sử dụng&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Y&amp;ecirc;u cầu:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- C&amp;oacute; thể đi c&amp;ocirc;ng tr&amp;igrave;nh được&lt;/p&gt;
+&lt;p&gt;- Kh&amp;ocirc;ng y&amp;ecirc;u cầu kinh nghiệm, bằng cấp&lt;/p&gt;
+&lt;p&gt;- Chăm chỉ, chịu kh&amp;oacute;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. Mức lương:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mức lương thỏa thuận: LCB + % doanh số sản phẩm ho&amp;agrave;n th&amp;agrave;nh&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4. Thời gian gửi hồ sơ:&lt;/strong&gt; Chậm nhất ng&amp;agrave;y 15/10/2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;5. C&amp;aacute;ch thức ứng tuyển:&lt;/strong&gt; Nộp hồ sơ trực tiếp v&amp;agrave; email (tuyendung@mavinex.com)&lt;/p&gt;</content_html>
+	</item></item_o>
+	<internal-name>TUYỂN NHÂN VIÊN VẬN HÀNH MÁY</internal-name>
+	<title_s>Nhân viên vận hành máy</title_s>
+	<type_s>toàn thời gian</type_s>
+	<file-name>index.xml</file-name>
+	<folder-name>nhan-vien-van-hanh-may</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>e97b636a-f710-bb64-77cc-181c45a62e7a</key>
+	<value>Slide</value>
+<component id="e97b636a-f710-bb64-77cc-181c45a62e7a">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e97b</objectGroupId>
+	<objectId>e97b636a-f710-bb64-77cc-181c45a62e7a</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>e97b636a-f710-bb64-77cc-181c45a62e7a.xml</file-name>
+	<createdDate>2020-09-16T07:54:41.973Z</createdDate>
+	<createdDate_dt>2020-09-16T07:54:41.973Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T07:54:41.973Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T07:54:41.973Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<createdDate>2020-09-16T07:53:56.896Z</createdDate>
+	<createdDate_dt>2020-09-16T07:53:56.896Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T08:12:27.267Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T08:12:27.267Z</lastModifiedDate_dt>
+	<duration_dt>2020-10-15T04:00:00.000Z</duration_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

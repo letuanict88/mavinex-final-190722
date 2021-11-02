@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>74a1</objectGroupId>
+	<objectId>74a130da-697e-4193-89b2-2f5ad1afb658</objectId>
+	<internal-name>Mavin liên kết đào tạo với Học viện Nông nghiệp Việt Nam</internal-name>
+	<navLabel>Mavin liên kết đào tạo với Học viện Nông nghiệp Việt Nam</navLabel>
+	<title_s>Mavin liên kết đào tạo với Học viện Nông nghiệp Việt Nam</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-lien-ket-dao-tao-voi-hoc-vien-nong-nghiep-viet-nam</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/IMG_6198_Fotor.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ng&amp;agrave;y 22/5/2020, Tập đo&amp;agrave;n Mavin đ&amp;atilde; k&amp;yacute; kết Thỏa thuận li&amp;ecirc;n kết đ&amp;agrave;o tạo với c&amp;aacute;c Khoa Th&amp;uacute; y v&amp;agrave; Khoa Chăn nu&amp;ocirc;i &amp;ndash; Học viện N&amp;ocirc;ng nghiệp Việt Nam. Tham dự Lễ k&amp;yacute; kết c&amp;oacute; L&amp;atilde;nh đạo, thầy c&amp;ocirc; gi&amp;aacute;o c&amp;aacute;c Khoa Th&amp;uacute; y, Khoa Chăn nu&amp;ocirc;i v&amp;agrave; c&amp;aacute;c L&amp;atilde;nh đạo, c&amp;aacute;n bộ chủ chốt khối Chăn nu&amp;ocirc;i - Tập đo&amp;agrave;n Mavin.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Theo Thỏa thuận giữa Mavin v&amp;agrave; Học viện N&amp;ocirc;ng nghiệp Việt Nam, hai b&amp;ecirc;n sẽ hợp t&amp;aacute;c đ&amp;agrave;o tạo kết hợp sản xuất tại hệ thống trang trại của Mavin. Cụ thể, Mavin sẽ tiếp nhận v&amp;agrave; thu xếp c&amp;aacute;c điều kiện l&amp;agrave;m việc, sinh hoạt cho sinh vi&amp;ecirc;n c&amp;aacute;c khoa Th&amp;uacute; y, khoa Chăn nu&amp;ocirc;i tham gia thực tập tại Mavin. B&amp;ecirc;n cạnh hỗ trợ 100% chi ph&amp;iacute; ăn uống, sinh hoạt của c&amp;aacute;c sinh vi&amp;ecirc;n thực tập, Mavin cũng sẽ hỗ trợ một khoản chi ph&amp;iacute; cố định cho c&amp;aacute;c sinh vi&amp;ecirc;n, c&amp;oacute; cơ chế thưởng vượt năng suất theo quy chế đ&amp;atilde;i ngộ của C&amp;ocirc;ng ty,... Trong trường hợp sinh vi&amp;ecirc;n c&amp;oacute; nhu cầu l&amp;agrave;m việc sẽ được Mavin ưu ti&amp;ecirc;n tuyển dụng sau khi tốt nghiệp.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ngo&amp;agrave;i ra, theo Thỏa thuận, Mavin cũng sẽ c&amp;ugrave;ng Học viện x&amp;acirc;y dựng v&amp;agrave; hiệu chỉnh chương tr&amp;igrave;nh đ&amp;agrave;o tạo ph&amp;ugrave; hợp với ti&amp;ecirc;u chuẩn ng&amp;agrave;nh, điều kiện sản xuất thực tế của thị trường v&amp;agrave; doanh nghiệp. Mavin cũng cam kết đồng h&amp;agrave;nh, hỗ trợ cho c&amp;ocirc;ng t&amp;aacute;c nghi&amp;ecirc;n cứu, đ&amp;agrave;o tạo của c&amp;aacute;c Khoa Th&amp;uacute; y, Khoa Chăn nu&amp;ocirc;i.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ph&amp;aacute;t biểu tại buổi Lễ k&amp;yacute; kết Thỏa thuận hợp t&amp;aacute;c, &amp;ocirc;ng Nguyễn Qu&amp;yacute; Hanh &amp;ndash; Ph&amp;oacute; Gi&amp;aacute;m đốc C&amp;ocirc;ng ty CP Chăn nu&amp;ocirc;i Mavin khẳng định sẽ tạo điều kiện tốt nhất cho c&amp;aacute;c sinh vi&amp;ecirc;n của Học viện thực tập tại hệ thống trang trại của C&amp;ocirc;ng ty. Đặc biệt, Mavin cam kết sẽ ưu ti&amp;ecirc;n tuyển dụng c&amp;aacute;c sinh vi&amp;ecirc;n nữ, bố tr&amp;iacute; c&amp;ocirc;ng việc cho c&amp;aacute;c sinh vi&amp;ecirc;n thực tập tại địa b&amp;agrave;n sinh sống, gần gia đ&amp;igrave;nh v&amp;agrave; theo nguyện vọng của c&amp;aacute;c em.&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Học viện N&amp;ocirc;ng nghiệp Việt Nam (Trường Đại học N&amp;ocirc;ng nghiệp I H&amp;agrave; Nội), l&amp;agrave; một trường đại học trọng điểm quốc gia, trường đầu ng&amp;agrave;nh về đ&amp;agrave;o tạo nh&amp;acirc;n sự trong lĩnh vực n&amp;ocirc;ng nghiệp v&amp;agrave; ph&amp;aacute;t triển n&amp;ocirc;ng th&amp;ocirc;n của Việt Nam, đ&amp;atilde; v&amp;agrave; đang đ&amp;oacute;ng g&amp;oacute;p rất nhiều nh&amp;acirc;n sự chất lượng, c&amp;oacute; tr&amp;igrave;nh độ chuy&amp;ecirc;n m&amp;ocirc;n cao cho c&amp;aacute;c doanh nghiệp trong đ&amp;oacute; c&amp;oacute; Mavin. Li&amp;ecirc;n tục từ năm 2015 đến nay, Tập đo&amp;agrave;n Mavin v&amp;agrave; Học viện N&amp;ocirc;ng nghiệp lu&amp;ocirc;n đồng h&amp;agrave;nh khăng kh&amp;iacute;t v&amp;agrave; hiệu quả trong c&amp;ocirc;ng t&amp;aacute;c đ&amp;agrave;o tạo, tuyển dụng, nghi&amp;ecirc;n cứu khoa học...&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-10T08:44:03.498Z</createdDate>
+	<createdDate_dt>2020-06-10T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:34:36.375Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:34:36.375Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

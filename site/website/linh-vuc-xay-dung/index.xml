@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2454</objectGroupId>
+	<objectId>2454cb42-868f-9447-3055-edd310250f71</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>linh-vuc-xay-dung</folder-name>
+	<internal-name>Lĩnh vực xây dựng</internal-name>
+	<title_s>Lĩnh vực xây dựng</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>5000</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>f3a7570b-6c20-21e2-b182-149ad1b1893e</key>
+	<value>slide</value>
+<component id="f3a7570b-6c20-21e2-b182-149ad1b1893e">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f3a7</objectGroupId>
+	<objectId>f3a7570b-6c20-21e2-b182-149ad1b1893e</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_3.png</image_s>
+	</item></image_o>
+	<internal-name>slide</internal-name>
+	<file-name>f3a7570b-6c20-21e2-b182-149ad1b1893e.xml</file-name>
+	<createdDate>2020-04-01T06:28:23.646Z</createdDate>
+	<createdDate_dt>2020-04-01T06:28:23.646Z</createdDate_dt>
+	<lastModifiedDate>2020-04-01T06:28:23.646Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-01T06:28:23.646Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>268f5b52-f805-2342-2f36-0d4abb2d1950</key>
+	<value>Lĩnh vực xây dựng</value>
+<component id="268f5b52-f805-2342-2f36-0d4abb2d1950">
+	<content-type>/component/componentfields</content-type>
+	<display-template>/templates/web/fields.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>268f</objectGroupId>
+	<objectId>268f5b52-f805-2342-2f36-0d4abb2d1950</objectId>
+	<file-name>268f5b52-f805-2342-2f36-0d4abb2d1950.xml</file-name>
+	<internal-name>Lĩnh vực xây dựng</internal-name>
+	<title_s>Lĩnh vực xây dựng</title_s>
+	<itemTitle_s>Lĩnh vực xây dựng </itemTitle_s>
+	<itemId_s>fields</itemId_s>
+	<createdDate>2020-04-16T08:52:57.182Z</createdDate>
+	<createdDate_dt>2020-04-16T08:52:57.182Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T05:10:27.681Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T05:10:27.681Z</lastModifiedDate_dt>
+	<carousels_o item-list="true">	<item datasource="carouselsDataSource">	<key>/site/items/carousel/a055e5f0-ef72-9ad4-e747-2781cf9bbef5.xml</key>
+	<value>Carousels Năng lực kinh nghiệm</value>
+	<include>/site/items/carousel/a055e5f0-ef72-9ad4-e747-2781cf9bbef5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></carousels_o>
+	<itemContent_html>&lt;p style="text-align: justify;"&gt;&lt;!-- [if !supportLists]--&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Với thế mạnh trong lĩnh vực thi c&amp;ocirc;ng x&amp;acirc;y dựng c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y chế biến thức ăn chăn nu&amp;ocirc;i, C&amp;ocirc;ng ty Cổ phần Mavinex đ&amp;atilde; v&amp;agrave; đang tạo niềm tin đối với kh&amp;aacute;ch h&amp;agrave;ng bằng việc x&amp;acirc;y dựng những nh&amp;agrave; m&amp;aacute;y quy m&amp;ocirc;, chất lượng, đạt đẳng cấp quốc tế.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Với đội ngũ kỹ sư gi&amp;agrave;u kinh nghiệm c&amp;ugrave;ng đội ngũ c&amp;ocirc;ng nh&amp;acirc;n l&amp;agrave;nh nghề lu&amp;ocirc;n đặt hết t&amp;acirc;m huyết v&amp;agrave;o trong từng c&amp;ocirc;ng tr&amp;igrave;nh, từng dự &amp;aacute;n.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Ch&amp;uacute;ng t&amp;ocirc;i mang tới những c&amp;ocirc;ng nghệ hiện đại đảm bảo c&amp;aacute;c c&amp;ocirc;ng tr&amp;igrave;nh, dự &amp;aacute;n ho&amp;agrave;n th&amp;agrave;nh theo đ&amp;uacute;ng tiến độ với hiệu quả đầu tư cao.&lt;/span&gt;&lt;/p&gt;</itemContent_html>
+	<groupTitle_s>MAVINEX CAM KẾT:</groupTitle_s>
+	<group_o item-list="true">	<item>	<groupContent_s>Chất lượng công trình là tiêu chí hàng đầu tạo sự tin tưởng cho khách hàng.</groupContent_s>
+	</item>	<item>	<groupContent_s>Công nghệ tiên tiến theo kịp xu hướng thời đại.</groupContent_s>
+	</item>	<item>	<groupContent_s>Chi phí đầu tư hợp lý với mặt bằng chung của thị trường</groupContent_s>
+	</item>	<item>	<groupContent_s>Cam kết tiến độ thi công.</groupContent_s>
+	</item>	<item>	<groupContent_s>Đồng hành cùng khách hàng trong suốt quá trình sử dụng.</groupContent_s>
+	</item></group_o>
+	<carouselTitle_s>MỘT SỐ DỰ ÁN TIÊU BIỂU MAVINEX ĐÃ THỰC HIỆN</carouselTitle_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-04-01T06:27:57.672Z</createdDate>
+	<createdDate_dt>2020-04-01T06:27:57.672Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T05:10:22.099Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T05:10:22.099Z</lastModifiedDate_dt>
+	<descripttion_t>Đây là trang đề cập đến năng lực của công ty trong các lĩnh vực đang hoạt động</descripttion_t>
+</page>

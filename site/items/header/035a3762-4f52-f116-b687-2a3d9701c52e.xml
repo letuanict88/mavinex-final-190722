@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/header</content-type>
+	<display-template>/templates/web/header.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>035a</objectGroupId>
+	<objectId>035a3762-4f52-f116-b687-2a3d9701c52e</objectId>
+	<file-name>035a3762-4f52-f116-b687-2a3d9701c52e.xml</file-name>
+	<internal-name>Default header</internal-name>
+	<logo_s>/static-assets/images/logos/mavinex_logo.png</logo_s>
+	<createdDate>2020-03-25T10:31:07.155Z</createdDate>
+	<createdDate_dt>2020-03-25T10:31:07.155Z</createdDate_dt>
+	<lastModifiedDate>2020-03-25T10:31:07.155Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-25T10:31:07.155Z</lastModifiedDate_dt>
+</component>

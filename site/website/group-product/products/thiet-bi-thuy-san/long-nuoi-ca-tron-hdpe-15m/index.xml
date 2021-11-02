@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>cfd9</objectGroupId>
+	<objectId>cfd9cdd2-da23-2ebe-40b9-5939f77913c3</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-thuy-san</key>
+	<value_smv>Thiết bị thủy sản</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>long-nuoi-ca-hdpe</key>
+	<value_smv>Lồng nuôi cá tròn HDPE</value_smv>
+	</item></productchildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>long-nuoi-ca-tron-hdpe-15m</folder-name>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<internal-name>Lồng nuôi cá tròn hdpe 15m</internal-name>
+	<navLabel/>
+	<productname_s>Lồng nuôi cá tròn hdpe 15m</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productdescription_html>&lt;p&gt;- Đường k&amp;iacute;nh lồng: 15 m.&lt;/p&gt;
+&lt;p&gt;- Chu vi lồng: 47,1&lt;/p&gt;
+&lt;p&gt;- Ống nổi: HDPE&amp;nbsp; &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Ống lan can: HDPE &amp;Oslash; 110.&lt;/p&gt;
+&lt;p&gt;- Ống kết nối: HDPE &amp;Oslash; 125.&lt;/p&gt;
+&lt;p&gt;- Đai kết nối: đai đ&amp;ocirc;i &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Lưới: 02 lưới&lt;/p&gt;
+&lt;p&gt;Đường 15 m, chiều cao từ miệng lưới đến đ&amp;aacute;y lưới 8m, k&amp;iacute;ch thước mắt lưới a = 2.5 cm v&amp;agrave; 1,5 cm.&lt;/p&gt;
+&lt;p&gt;Lưới dệt kh&amp;ocirc;ng g&amp;uacute;t, chất liệu Polyetylen.&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimagename_s>Lồng nuôi cá tròn hdpe 15m</productimagename_s>
+	<productimage_s>/static-assets/images/products/product-group-5.png</productimage_s>
+	</item></productimage_o>
+	<createdDate>2020-05-25T02:59:41.259Z</createdDate>
+	<createdDate_dt>2020-05-25T02:59:41.259Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T04:26:35.933Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T04:26:35.933Z</lastModifiedDate_dt>
+	<productAvatar_s>/static-assets/images/products/product-group-5.png</productAvatar_s>
+	<productnameEnglish_s>Round cage HDPE 15m</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;- Cage diameter: 15 m.&lt;/p&gt;
+&lt;p&gt;- Cage circumference: 47.1&lt;/p&gt;
+&lt;p&gt;- Floating pipe: HDPE &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Handrail tube: HDPE &amp;Oslash; 110.&lt;/p&gt;
+&lt;p&gt;- Connecting pipe: HDPE &amp;Oslash; 125.&lt;/p&gt;
+&lt;p&gt;- Connecting belt: double belt &amp;Oslash; 250.&lt;/p&gt;
+&lt;p&gt;- Mesh: 02 mesh&lt;/p&gt;
+&lt;p&gt;Road 15 m, height from mesh mouth to mesh bottom 8m, mesh size a = 2.5 cm and 1.5 cm.&lt;/p&gt;
+&lt;p&gt;Non-woven mesh, polyethylene material.&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

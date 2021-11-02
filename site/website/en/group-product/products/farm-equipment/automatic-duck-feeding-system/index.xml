@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5784</objectGroupId>
+	<objectId>57849f80-0de5-bf2f-da49-cb5c1c66f889</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Automatic duck feeding system</internal-name>
+	<navLabel>Automatic duck feeding system</navLabel>
+	<productname_s>Automatic duck feeding system</productname_s>
+	<productnameEnglish_s>Automatic duck feeding system</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<file-name>index.xml</file-name>
+	<folder-name>automatic-duck-feeding-system</folder-name>
+	<productAvatar_s>/static-assets/images/products/He thong an cho vit 1.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 1.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn cho vịt 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/He thong an cho vit 2.jpg</productimage_s>
+	<productimagename_s>Hệ thống ăn cho vịt 2</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T06:09:19.682Z</createdDate>
+	<createdDate_dt>2020-07-14T06:09:19.682Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T06:09:19.682Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T06:09:19.682Z</lastModifiedDate_dt>
+</page>

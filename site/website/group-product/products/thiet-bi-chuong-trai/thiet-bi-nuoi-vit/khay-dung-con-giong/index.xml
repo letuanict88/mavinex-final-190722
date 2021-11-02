@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7a8e</objectGroupId>
+	<objectId>7a8ee494-e83e-4ec3-f314-46488e39fa09</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>khay-dung-con-giong</folder-name>
+	<internal-name>Khay đựng con giống</internal-name>
+	<navLabel>Khay đựng con giống</navLabel>
+	<productname_s>Khay đựng con giống</productname_s>
+	<productnameEnglish_s>Breeding tray</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/khay dung con giong 1.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Xuất xứ: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Iltalia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/khay dung con giong 1.jpg</productimage_s>
+	<productimagename_s>Khay dung con giong 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/khay dung con giong.jpg</productimage_s>
+	<productimagename_s>Khay dung con giong 2</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-15T09:17:41.639Z</createdDate>
+	<createdDate_dt>2020-06-15T09:17:41.639Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T13:46:20.708Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T13:46:20.708Z</lastModifiedDate_dt>
+</page>

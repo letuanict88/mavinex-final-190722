@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>86cd</objectGroupId>
+	<objectId>86cde991-8dfd-d2a8-46bc-eccaf904929d</objectId>
+	<file-name>86cde991-8dfd-d2a8-46bc-eccaf904929d.xml</file-name>
+	<backgroundImage_s>/static-assets/images/featured/footer_bg.png</backgroundImage_s>
+	<internal-name>Footer EN</internal-name>
+	<brandCopyright_s>Copyright by Mavinex Joint Stock Company 2020</brandCopyright_s>
+	<companyname_s>Mavinex Joint Stock Company</companyname_s>
+	<companysAddress_s>8th Floor, Hudland Tower Building, No. 6 Nguyen Huu Tho, Hoang Liet Ward, Hoang Mai District, Hanoi</companysAddress_s>
+	<phonenumber_s>0221 653 7979</phonenumber_s>
+	<tax_s>0901009304</tax_s>
+	<issuedby_s>Department of Planning and Investment of Hung Yen province.</issuedby_s>
+	<socialMedia_o item-list="true">	<item>	<url_s>https://www.facebook.com/</url_s>
+	<icon_s>fa-facebook-f</icon_s>
+	</item>	<item>	<icon_s>fa-youtube</icon_s>
+	<url_s>https://www.youtube..com/</url_s>
+	</item></socialMedia_o>
+	<createdDate>2020-06-10T08:57:28.165Z</createdDate>
+	<createdDate_dt>2020-06-10T08:57:28.165Z</createdDate_dt>
+	<lastModifiedDate>2020-09-17T07:24:55.105Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-17T07:24:55.105Z</lastModifiedDate_dt>
+	<tick_s>/static-assets/item/images/featured/2020/09/17/logoSaleNoti.png</tick_s>
+</component>

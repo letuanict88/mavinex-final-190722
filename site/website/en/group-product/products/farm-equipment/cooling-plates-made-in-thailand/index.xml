@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9255</objectGroupId>
+	<objectId>925525d2-2bf2-f241-6d9a-5e47d2cd8f88</objectId>
+	<internal-name>Cooling plates made in Thailand</internal-name>
+	<navLabel>Cooling plates made in Thailand</navLabel>
+	<productname_s>Cooling plates made in Thailand</productname_s>
+	<productnameEnglish_s>Cooling plates made in Thailand</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<file-name>index.xml</file-name>
+	<folder-name>cooling-plates-made-in-thailand</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Tấm làm mát GO&amp;PPF.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Size: height x width x thickness: 1800 x 600 x 150mm.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Wave height: 7mm, wave angle: 450.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Origin: China&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Size: height x width x thickness: 1800 x 600 x 150mm.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Wave height: 7mm, wave angle: 450.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Origin: China&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tấm làm mát công nghệ Thái Lan.jpg</productimage_s>
+	<productimagename_s>Cooling plate from Thailand</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T04:22:46.867Z</createdDate>
+	<createdDate_dt>2020-07-14T04:22:46.867Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:22:46.867Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:22:46.867Z</lastModifiedDate_dt>
+</page>

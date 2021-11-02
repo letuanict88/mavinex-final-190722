@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a7d8</objectGroupId>
+	<objectId>a7d87a53-9ede-c24f-756b-cec900a757a8</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/He thong an cho vit 1.jpg</image_s>
+	</item></image_o>
+	<file-name>a7d87a53-9ede-c24f-756b-cec900a757a8.xml</file-name>
+	<internal-name>Slide đối tác chiến lược</internal-name>
+	<createdDate>2020-06-23T04:32:18.173Z</createdDate>
+	<createdDate_dt>2020-06-23T04:32:18.173Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T04:32:18.173Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T04:32:18.173Z</lastModifiedDate_dt>
+</component>

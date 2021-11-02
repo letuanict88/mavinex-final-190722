@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a1e5</objectGroupId>
+	<objectId>a1e50c15-d7cf-33af-2a08-3396930b07e2</objectId>
+	<internal-name>DYNAMIC CONTROL CABINET</internal-name>
+	<navLabel>DYNAMIC CONTROL CABINET</navLabel>
+	<productname_s>DYNAMIC CONTROL CABINET</productname_s>
+	<productnameEnglish_s>DYNAMIC CONTROL CABINET</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà-Chicken farm Equipment</value_smv>
+	</item></productchildgroup_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productAvatar_s>/static-assets/images/products/Tủ điều khiển động lực .jpg</productAvatar_s>
+	<file-name>index.xml</file-name>
+	<folder-name>dynamic-control-cabinet</folder-name>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Used for cooling system of pigsty, chicken and duck breeding facilities&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Manufactured and assembled by Mavinex.&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Used for cooling system of pigsty, chicken and duck breeding facilities&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Manufactured and assembled by Mavinex.&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tủ điều khiển động lực .jpg</productimage_s>
+	<productimagename_s>Tủ đk động lực</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T04:33:25.765Z</createdDate>
+	<createdDate_dt>2020-07-14T04:33:25.765Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:35:34.630Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:35:34.630Z</lastModifiedDate_dt>
+</page>

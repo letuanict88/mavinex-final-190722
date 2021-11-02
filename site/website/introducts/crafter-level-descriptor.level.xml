@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/level-descriptor</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a110</objectGroupId>
+	<objectId>a1106536-e218-7402-22c6-6d527be42d5a</objectId>
+	<header_o item-list="true">	<item datasource="headercomponent">	<key>/site/items/header/035a3762-4f52-f116-b687-2a3d9701c52e.xml</key>
+	<value>Default header</value>
+	<include>/site/items/header/035a3762-4f52-f116-b687-2a3d9701c52e.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></header_o>
+	<memberlist_o item-list="true">	<item datasource="listmembercomponent">	<key>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</key>
+	<value>Mavin group members</value>
+	<include>/site/items/list-member/f3610232-c67d-0040-b08d-38036e6763e9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></memberlist_o>
+	<footer_o item-list="true">	<item datasource="footercomponent">	<key>/site/items/footer/9b4ae7f3-594a-5892-9874-ee0f0451c377.xml</key>
+	<value>Default footer</value>
+	<include>/site/items/footer/9b4ae7f3-594a-5892-9874-ee0f0451c377.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></footer_o>
+	<file-name>crafter-level-descriptor.level.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-04-24T07:52:17.841Z</createdDate>
+	<createdDate_dt>2020-04-24T07:52:17.841Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T07:52:17.841Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T07:52:17.841Z</lastModifiedDate_dt>
+</component>

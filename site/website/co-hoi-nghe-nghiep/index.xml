@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8fdb</objectGroupId>
+	<objectId>8fdb5f16-7b2a-44bc-6a87-b72b19ad5bf4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>co-hoi-nghe-nghiep</folder-name>
+	<descripttion_t>Tuyển dụng
+</descripttion_t>
+	<internal-name>Cơ hội nghề nghiệp</internal-name>
+	<title_s>Cơ hội nghề nghiệp</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>eccc88ed-8513-7c79-92ad-5e01bdd0b7ba</key>
+	<value>Slide</value>
+<component id="eccc88ed-8513-7c79-92ad-5e01bdd0b7ba">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>eccc</objectGroupId>
+	<objectId>eccc88ed-8513-7c79-92ad-5e01bdd0b7ba</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>eccc88ed-8513-7c79-92ad-5e01bdd0b7ba.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-23T03:03:47.428Z</createdDate>
+	<createdDate_dt>2020-04-23T03:03:47.428Z</createdDate_dt>
+	<lastModifiedDate>2020-04-23T03:03:47.428Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-23T03:03:47.428Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>e2590725-fc07-c1e4-d0be-bf1b5b44d137</key>
+	<value>Cơ hội nghề nghiệp</value>
+<component id="e2590725-fc07-c1e4-d0be-bf1b5b44d137">
+	<content-type>/component/listjob</content-type>
+	<display-template>/templates/web/listjob.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e259</objectGroupId>
+	<objectId>e2590725-fc07-c1e4-d0be-bf1b5b44d137</objectId>
+	<file-name>e2590725-fc07-c1e4-d0be-bf1b5b44d137.xml</file-name>
+	<internal-name>Cơ hội nghề nghiệp</internal-name>
+	<title_s>Cơ hội nghề nghiệp</title_s>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<createdDate>2020-04-23T03:04:14.436Z</createdDate>
+	<createdDate_dt>2020-04-23T03:04:14.436Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T11:48:35.736Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T11:48:35.736Z</lastModifiedDate_dt>
+	<urlListJobs_s>/tuyen-dung</urlListJobs_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-04-23T03:02:24.538Z</createdDate>
+	<createdDate_dt>2020-04-23T03:02:24.538Z</createdDate_dt>
+	<lastModifiedDate>2020-06-17T10:39:37.705Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-17T10:39:37.705Z</lastModifiedDate_dt>
+</page>

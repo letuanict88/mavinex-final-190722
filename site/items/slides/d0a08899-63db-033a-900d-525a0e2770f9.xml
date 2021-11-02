@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d0a0</objectGroupId>
+	<objectId>d0a08899-63db-033a-900d-525a0e2770f9</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_1.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item></image_o>
+	<file-name>d0a08899-63db-033a-900d-525a0e2770f9.xml</file-name>
+	<internal-name>Home slide</internal-name>
+	<createdDate>2020-03-26T02:45:57.069Z</createdDate>
+	<createdDate_dt>2020-03-26T02:45:57.069Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T02:45:57.069Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T02:45:57.069Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>32d9</objectGroupId>
+	<objectId>32d99062-b54f-d408-edc3-d0283afd156f</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-linh-vuc-hoat-dong.png</image_s>
+	</item></image_o>
+	<file-name>32d99062-b54f-d408-edc3-d0283afd156f.xml</file-name>
+	<internal-name>Triển lãm thiết bị và công nghệ nông lâm ngư nghiệp 2019</internal-name>
+	<createdDate>2020-05-26T03:56:00.973Z</createdDate>
+	<createdDate_dt>2020-05-26T03:56:00.973Z</createdDate_dt>
+	<lastModifiedDate>2020-05-26T03:56:00.973Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-26T03:56:00.973Z</lastModifiedDate_dt>
+</component>

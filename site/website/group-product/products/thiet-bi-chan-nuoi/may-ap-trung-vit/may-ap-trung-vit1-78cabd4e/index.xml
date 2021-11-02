@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0a0d770e</objectGroupId>
+	<objectId>0a0d770e-c74c-4af5-a7b1-1fdf61843e18</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>may-ap-trung-vit1-78cabd4e</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o/>
+	<productchildgroup_o>	<item>	<key>may-ap-no-trung-vit</key>
+	<value_smv>Máy ấp nở trứng vịt-Duck egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>Máy ấp trứng Vịt 78cabd4e</internal-name>
+	<navLabel>Máy ấp trứng Vịt</navLabel>
+	<productname_s>Máy ấp trứng Vịt loại mới</productname_s>
+	<productnameEnglish_s>Duck egg hatching machine</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productAvatar_s>/static-assets/images/products/Máy ấp trứng vịt.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;C&amp;ocirc;ng suất trứng ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;12096&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;quả&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;K&amp;iacute;ch thước&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;3360 x 2520 x 2636&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;mm&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Số lượng xe đẩy trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;4 xe, (12 tầng)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;chiếc&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Số lượng khay ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;192&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;khay&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Số trứng/khay ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;63&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;Quả&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;C&amp;ocirc;ng suất ti&amp;ecirc;u thụ điện&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;5.8&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;kw&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Nguồn điện sử dụng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;380 V - 50Hz&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Phạm vi điều khiển nhiệt độ&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;34 -39,5&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;oC&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Phạm vi điều chỉnh độ ẩm&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;40-80&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;%&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;Thời gian đảo trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;60/120&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;Ph&amp;uacute;t&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;G&amp;oacute;c đảo trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;43o +- 2o&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="109"&gt;
+&lt;p&gt;M&amp;agrave;n h&amp;igrave;nh điều khiển&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p align="center"&gt;Cảm ứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="47"&gt;
+&lt;p align="center"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Hatching capacity of 12096 eggs&lt;/p&gt;
+&lt;p&gt;Dimensions of 3360 x 2520 x 2636 mm&lt;/p&gt;
+&lt;p&gt;Number of egg trolleys, 4 cars (12 floors)&lt;/p&gt;
+&lt;p&gt;The number of incubators is 192&lt;/p&gt;
+&lt;p&gt;Number of eggs / tray incubated 63 Fruit&lt;/p&gt;
+&lt;p&gt;Power consumption of 5.8 kw&lt;/p&gt;
+&lt;p&gt;Power supply uses 380 V - 50Hz&lt;/p&gt;
+&lt;p&gt;Temperature control range from 34 to 39.5 oC&lt;/p&gt;
+&lt;p&gt;Humidity adjustment range 40-80%&lt;/p&gt;
+&lt;p&gt;Time to turn eggs 60/120 Minutes&lt;/p&gt;
+&lt;p&gt;Egg corner 43o + - 2o&lt;/p&gt;
+&lt;p&gt;Touch screen control&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Untitled-1.jpg</productimage_s>
+	<productimagename_s>Máy ấp trứng Vịt 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Untitled-4.jpg</productimage_s>
+	<productimagename_s>Máy ấp trứng Vịt 2</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Máy ấp trứng vịt.jpg</productimage_s>
+	<productimagename_s>Máy ấp trứng Vịt 3</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T04:59:14.439Z</createdDate>
+	<createdDate_dt>2020-06-11T04:59:14.439Z</createdDate_dt>
+	<lastModifiedDate>2021-01-13T12:15:38.273Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-13T12:15:38.273Z</lastModifiedDate_dt>
+</page>

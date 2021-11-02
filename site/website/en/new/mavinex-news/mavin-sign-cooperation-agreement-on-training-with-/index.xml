@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>773b</objectGroupId>
+	<objectId>773bbd59-e66b-0a05-eaf5-ca673dd89e39</objectId>
+	<internal-name>Mavin sign cooperation agreement on training with </internal-name>
+	<navLabel>Mavin sign cooperation agreement on training with </navLabel>
+	<title_s>Mavin sign cooperation agreement on training with </title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>mavin-sign-cooperation-agreement-on-training-with-</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/IMG_6198_Fotor.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;On May 22, 2020, Mavin Group signed an Agreement on joint training with the Faculty of Veterinary and Faculty of Animal Science - Vietnam National University of Agriculture. Attending the signing ceremony, there were leaders, teachers of Veterinary Faculty, Animal Science Faculty and other leaders and key officials of Mavin Farm.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;According to the agreement between Mavin and VNUA, the two sides will cooperate in onsite- training at Mavin's farms. Specifically, Mavin will receive and arrange working and living conditions for students of the two Faculties to participate in internships at Mavin. In addition to supporting 100% of the cost of living at Mavin&amp;rsquo;s farms in the internship period, Mavin will also support a fixed cost for students, with a mechanism to reward excess productivity under the preferential treatment policy of the Company. In the case of students wishing to work will be preferred by Mavin after graduation.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;In addition, under the Agreement, Mavin will also work with the Academy to develop and tailor training programs to suit industry standards, actual production conditions of the market and enterprises. Mavin also committed to accompany and support the research and training work of the two Faculties.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Delivering speech at the cooperation signing ceremony, Mr. Nguyen Quy Hanh - Deputy Director of Mavin Farm affirmed that Mavin would create the best conditions for the students participating in the intership at the farms of Mavin. Mavin is committed to prioritizing the recruitment of female students, arranging work for internships in their local area, close to their families and as their aspirations.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;The Vietnam National University of Agriculture (Hanoi Agricultural University I) is a leading university in training personnel in the field of agriculture and rural development of Vietnam, has been contributing a lot of qualified and highly qualified personnel to agribusinesses including Mavin. Since 2015, Mavin Group and VNUA have always been closely and effectively accompanying in training, recruiting and scientific research ...&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:53:52.305Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T04:53:52.305Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T04:53:52.305Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8cc9</objectGroupId>
+	<objectId>8cc96b24-5979-010b-2959-988a21bf8fde</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>san-pham</folder-name>
+	<internal-name>Sản phẩm</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<sections_o item-list="true">	<item datasource="carouselDataSource">	<key>/site/items/carousel/ae35b8bb-78ea-2486-bbe9-b245dab005fd.xml</key>
+	<value>CarouselHeader</value>
+	<include>/site/items/carousel/ae35b8bb-78ea-2486-bbe9-b245dab005fd.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item datasource="sections" inline="true">	<key>38394b9c-a1a7-2de3-3006-3b8beb3a3394</key>
+	<value>Danh sách nhóm sản phẩm</value>
+<component id="38394b9c-a1a7-2de3-3006-3b8beb3a3394">
+	<content-type>/component/listproduct</content-type>
+	<display-template>/templates/web/list-group-product.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3839</objectGroupId>
+	<objectId>38394b9c-a1a7-2de3-3006-3b8beb3a3394</objectId>
+	<internal-name>Danh sách nhóm sản phẩm</internal-name>
+	<title_s>Sản phẩm</title_s>
+	<file-name>38394b9c-a1a7-2de3-3006-3b8beb3a3394.xml</file-name>
+	<product_o item-list="true">	<item>	<title_s>Thiết bị chuồng trại</title_s>
+	<urlpage_s>/group-product/thiet-bi-chuong-trai</urlpage_s>
+	<avatar_s>/static-assets/images/products/product-group-1.png</avatar_s>
+	<colortext_s>1</colortext_s>
+	<titleEN_s>Farm equipment</titleEN_s>
+	<urlPageEnglish_s/>
+	</item>	<item>	<title_s>Máy ấp nở trứng</title_s>
+	<urlpage_s>/group-product/may-ap-no-trung</urlpage_s>
+	<avatar_s>/static-assets/images/products/product-group-2.png</avatar_s>
+	<colortext_s>2</colortext_s>
+	<titleEN_s>Egg hatching machine </titleEN_s>
+	<urlPageEnglish_s>/en/group-product/egg-hatching-machine </urlPageEnglish_s>
+	</item>	<item>	<title_s>Thiết bị thủy sản</title_s>
+	<urlpage_s>/group-product/thiet-bi-thuy-san</urlpage_s>
+	<avatar_s>/static-assets/images/products/product-group-5.png</avatar_s>
+	<colortext_s>2</colortext_s>
+	<titleEN_s>Aquaculture equipment</titleEN_s>
+	<urlPageEnglish_s>/en/group-product/aquaculture-equipment</urlPageEnglish_s>
+	</item>	<item>	<title_s>Thiết bị nhà máy thức ăn chăn nuôi</title_s>
+	<urlpage_s>/group-product/thiet-bi-thuc-an-chan-nuoi</urlpage_s>
+	<avatar_s>/static-assets/images/products/product-group-4.png</avatar_s>
+	<colortext_s>1</colortext_s>
+	<titleEN_s>Animal feed processing</titleEN_s>
+	<urlPageEnglish_s>/en/group-product/animal-feed-processing</urlPageEnglish_s>
+	</item></product_o>
+	<createdDate>2020-05-21T09:17:01.179Z</createdDate>
+	<createdDate_dt>2020-05-21T09:17:01.179Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:48:27.483Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:48:27.483Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<descripttion_t/>
+	<createdDate>2020-05-21T08:14:35.768Z</createdDate>
+	<createdDate_dt>2020-05-21T08:14:35.768Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:48:23.748Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:48:23.748Z</lastModifiedDate_dt>
+</page>

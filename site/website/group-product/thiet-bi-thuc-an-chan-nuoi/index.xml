@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c448</objectGroupId>
+	<objectId>c4485c6e-7dbf-1051-62b7-d205213c787a</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thiet-bi-thuc-an-chan-nuoi</folder-name>
+	<internal-name>Thiết bị nhà máy và thức ăn chăn nuôi</internal-name>
+	<navLabel>Thiết bị nhà máy và thức ăn nuôi</navLabel>
+	<product_title_s>Thiết bị  phụ trợ ngành Thức ăn chăn nuôi</product_title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productGroup_o>	<item>	<key>thiet-bi-nha-may-thuc-an-chan-nuoi</key>
+	<value_smv>Thiết bị nhà máy và thức ăn chăn nuôi</value_smv>
+	</item></productGroup_o>
+	<createdDate>2020-05-23T03:44:10.536Z</createdDate>
+	<createdDate_dt>2020-05-23T03:44:10.536Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T07:42:11.234Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T07:42:11.234Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/cddedfc6-693a-7a4f-f503-61b016911f9b.xml</key>
+	<value>Thiết bị nhà máy TACN</value>
+	<include>/site/items/cddedfc6-693a-7a4f-f503-61b016911f9b.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGrouptitleEnglish_s>Animal feed processing</productGrouptitleEnglish_s>
+</page>

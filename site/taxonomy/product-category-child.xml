@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/taxonomy</content-type>
+	<display-template/>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8449</objectGroupId>
+	<objectId>8449c9f4-c095-b418-0702-6dc4d7ec4fc2</objectId>
+	<items item-list="true">	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value>Thiết bị chăn nuôi heo-Equipment for breeding pig</value>
+	</item>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value>Thiết bị chăn nuôi gà-Chicken farm Equipment</value>
+	</item>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value>Thiết bị chăn nuôi vịt-Duck farm equipment </value>
+	</item>	<item>	<key>may-ap-no-trung-ga</key>
+	<value>Máy ấp nở trứng gà-Chicken egg hatching machine</value>
+	</item>	<item>	<key>may-ap-no-trung-vit</key>
+	<value>Máy ấp nở trứng vịt-Duck egg hatching machine</value>
+	</item>	<item>	<key>long-nuoi-ca-hdpe</key>
+	<value>Lồng nuôi cá tròn HDPE-Round cage HDPE</value>
+	</item>	<item>	<key>thiet-bi-nha-may-tacn</key>
+	<value>Thiết bị nhà máy TACN-Feed machine equipment</value>
+	</item></items>
+	<internal-name>Nhóm sản phẩm con</internal-name>
+	<file-name>product-category-child.xml</file-name>
+	<folder-name/>
+	<createdDate>2020-05-22T09:53:12.400Z</createdDate>
+	<createdDate_dt>2020-05-22T09:53:12.400Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T06:40:59.897Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T06:40:59.897Z</lastModifiedDate_dt>
+</component>

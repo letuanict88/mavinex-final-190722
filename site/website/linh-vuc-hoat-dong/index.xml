@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1107</objectGroupId>
+	<objectId>110740a2-3ed6-6183-a5d7-b0dcd081f8f1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>linh-vuc-hoat-dong</folder-name>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>2ffc1786-26d4-757b-8b92-28d35be06cb6</key>
+	<value>Slide</value>
+<component id="2ffc1786-26d4-757b-8b92-28d35be06cb6">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2ffc</objectGroupId>
+	<objectId>2ffc1786-26d4-757b-8b92-28d35be06cb6</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-linh-vuc-hoat-dong.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/bg_3.png</image_s>
+	</item></image_o>
+	<file-name>2ffc1786-26d4-757b-8b92-28d35be06cb6.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-01T08:08:59.614Z</createdDate>
+	<createdDate_dt>2020-04-01T08:08:59.614Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T02:56:08.667Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T02:56:08.667Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>0cf21b75-ebd1-b601-4566-87218fae1c1d</key>
+	<value>Lĩnh vực hoạt động</value>
+<component id="0cf21b75-ebd1-b601-4566-87218fae1c1d">
+	<content-type>/component/componentactivity</content-type>
+	<display-template>/templates/web/activity.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0cf2</objectGroupId>
+	<objectId>0cf21b75-ebd1-b601-4566-87218fae1c1d</objectId>
+	<file-name>0cf21b75-ebd1-b601-4566-87218fae1c1d.xml</file-name>
+	<internal-name>Lĩnh vực hoạt động</internal-name>
+	<title_s>Lĩnh vực hoạt động</title_s>
+	<image_s>/static-assets/images/featured/content_img_1.png</image_s>
+	<item_o item-list="true">	<item>	<content_t>Xây dựng các công trình giao thông, thủy lợi, dân dụng, công nghiệp, kết cấu hạ tầng khu công nghiệp, khu đô thị;</content_t>
+	</item>	<item>	<content_t>Sản xuất và kinh doanh vật liệu xây dựng cấu kiện bê tông đúc sẵn, cấu kiện bằng kim loại;</content_t>
+	</item>	<item>	<content_t>Mua bán, cho thuê, máy móc thiết bị dùng trong xây dựng;</content_t>
+	</item>	<item>	<content_t>Gia công, chế tạo và lắp đặt hệ thống dây truyền sản xuất, hệ thống điện công nghiệp;</content_t>
+	</item>	<item>	<content_t>Tư vấn đầu tư xây dựng và quản lý dự án ( Không bao gồm tư vấn pháp luật tài chính);</content_t>
+	</item>	<item>	<content_t>Kinh doanh nông nghiệp.</content_t>
+	</item></item_o>
+	<createdDate>2020-04-22T03:04:23.227Z</createdDate>
+	<createdDate_dt>2020-04-22T03:04:23.227Z</createdDate_dt>
+	<lastModifiedDate>2020-04-22T03:04:23.227Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-22T03:04:23.227Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<internal-name>Lĩnh vực hoạt động</internal-name>
+	<title_s>Lĩnh vực hoạt động</title_s>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>5000</orderDefault_f>
+	<createdDate>2020-04-01T08:08:25.217Z</createdDate>
+	<createdDate_dt>2020-04-01T08:08:25.217Z</createdDate_dt>
+	<lastModifiedDate>2020-04-27T08:11:28.894Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-27T08:11:28.894Z</lastModifiedDate_dt>
+	<descripttion_t>Đây là trang cung cấp các thông tin về các lĩnh vực mà công ty đang hoạt động </descripttion_t>
+</page>

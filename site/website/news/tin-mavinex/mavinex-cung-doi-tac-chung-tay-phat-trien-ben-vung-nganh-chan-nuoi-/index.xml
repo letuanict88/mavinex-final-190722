@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fa1e</objectGroupId>
+	<objectId>fa1eaa06-f375-64e4-d1d7-2c6e85ac2168</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>mavinex-cung-doi-tac-chung-tay-phat-trien-ben-vung-nganh-chan-nuoi-</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/IMG_2066.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Từ ng&amp;agrave;y 5-9/7/2020, tại Đảo Ngọc Ph&amp;uacute; Quốc, Tập đo&amp;agrave;n Mavin đ&amp;atilde; tổ chức Hội Thảo &amp;ldquo;Mavin c&amp;ugrave;ng Đối t&amp;aacute;c chung tay ph&amp;aacute;t triển bền vững ng&amp;agrave;nh chăn nu&amp;ocirc;i Việt Nam&amp;rdquo;. Tham dự Hội thảo c&amp;oacute; c&amp;aacute;c đối t&amp;aacute;c trang trại chăn nu&amp;ocirc;i heo th&amp;acirc;n thiết nhất của Tập đo&amp;agrave;n Mavin tr&amp;ecirc;n to&amp;agrave;n quốc.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Trong khu&amp;ocirc;n khổ chương tr&amp;igrave;nh Hội thảo, với mong muốn mang lại gi&amp;aacute; trị cao nhất, cung cấp c&amp;aacute;c th&amp;ocirc;ng tin hữu &amp;iacute;ch nhất cho Đối t&amp;aacute;c, đội ngũ kỹ thuật của Mavin đ&amp;atilde; chia sẻ cho c&amp;aacute;c Đối t&amp;aacute;c c&amp;aacute;c kiến thức về Dịch tả heo Ch&amp;acirc;u Phi, cập nhật về c&amp;aacute;c hệ thống trang thiết bị trong trang trại chăn nu&amp;ocirc;i. &amp;Ocirc;ng Nguyễn Qu&amp;yacute; Hanh &amp;ndash; Ph&amp;oacute; Gi&amp;aacute;m đốc C&amp;ocirc;ng ty Mavin Farm cũng đ&amp;atilde; giới thiệu về&amp;nbsp; Xu hướng ng&amp;agrave;nh chăn nu&amp;ocirc;i heo tới năm 2025, sự kh&amp;aacute;c biệt của Tập đo&amp;agrave;n Mavin mang lại lợi nhuận v&amp;agrave; thịnh vượng cho đối t&amp;aacute;c. Đặc biệt, c&amp;aacute;c Đối t&amp;aacute;c đ&amp;atilde; được &amp;ocirc;ng Đ&amp;agrave;o Mạnh Lương &amp;ndash; Tổng Gi&amp;aacute;m đốc Tập đo&amp;agrave;n Mavin chia sẻ c&amp;aacute;c cơ hội kinh doanh sau ASF, Covid-19 v&amp;agrave; c&amp;aacute;c kế hoạch ph&amp;aacute;t triển của Tập đo&amp;agrave;n Mavin v&amp;igrave; sự ph&amp;aacute;t triển bền vững của ng&amp;agrave;nh n&amp;ocirc;ng nghiệp Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Theo Tổng Gi&amp;aacute;m đốc Đ&amp;agrave;o Mạnh Lương, với thế mạnh về nguồn giống gốc v&amp;agrave; năng lực c&amp;ocirc;ng nghệ tiệm cận ti&amp;ecirc;u chuẩn quốc tế, Tập đo&amp;agrave;n Mavin x&amp;aacute;c định tầm nh&amp;igrave;n trong ng&amp;agrave;nh chăn nu&amp;ocirc;i heo gồm: trở th&amp;agrave;nh đối t&amp;aacute;c tin cậy, hợp t&amp;aacute;c, bền vững v&amp;agrave; c&amp;ugrave;ng lợi &amp;iacute;ch; trở th&amp;agrave;nh doanh nghiệp c&amp;oacute; tr&amp;aacute;ch nhiệm, tu&amp;acirc;n thủ ph&amp;aacute;p luật v&amp;agrave; bảo vệ m&amp;ocirc;i trường; cải tiến s&amp;aacute;ng tạo, ứng dụng c&amp;ocirc;ng nghệ v&amp;agrave; lu&amp;ocirc;n ph&amp;aacute;t triển.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Chia sẻ về tầm nh&amp;igrave;n đầu tư cho c&amp;ocirc;ng nghệ, &amp;ocirc;ng Lương khẳng định Mavin l&amp;agrave; c&amp;ocirc;ng ty đi đầu trong nhiều ứng dụng cải tiến v&amp;agrave; s&amp;aacute;ng tạo trong lĩnh vực chuồng trại chăn nu&amp;ocirc;i heo như: hệ thống m&amp;aacute;ng cho ăn vu&amp;ocirc;ng, hệ thống silo chứa c&amp;aacute;m,&amp;hellip; m&amp;agrave; cho đến nay đ&amp;atilde; được ứng dụng phổ biến trong c&amp;aacute;c trại chăn nu&amp;ocirc;i. Hiện nay Mavin vẫn kh&amp;ocirc;ng ngừng tiếp tục tiếp thu c&amp;aacute;c kinh nghiệm v&amp;agrave; c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến tr&amp;ecirc;n thế giới (Mỹ, Ch&amp;acirc;u &amp;Acirc;u&amp;hellip;.) mang về Việt Nam, nghi&amp;ecirc;n cứu thử nghiệm v&amp;agrave; cải tiến cho ph&amp;ugrave; hợp với điều kiện trang trại để qua đ&amp;oacute; gi&amp;uacute;p trang trại n&amp;acirc;ng cao năng suất chăn nu&amp;ocirc;i với chi ph&amp;iacute; đầu tư hợp l&amp;yacute; nhất.&amp;nbsp;&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img src="/static-assets/images/Phu Quoc 2020 (2).JPG" alt="" width="600" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;em&gt;&lt;span style="font-size: 14pt;"&gt;Tại Hội thảo, &amp;ocirc;ng Nguyễn Hữu Hiệu - Ph&amp;oacute; Gi&amp;aacute;m đốc Mavinex đ&amp;atilde; tr&amp;igrave;nh b&amp;agrave;y cho c&amp;aacute;c chủ trang trại chăn nu&amp;ocirc;i về C&amp;ocirc;ng nghệ v&amp;agrave; thiết bị chăn nu&amp;ocirc;i heo của Tập đo&amp;agrave;n Mavin.&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Ph&amp;aacute;t biểu tại Hội thảo, đối t&amp;aacute;c Phạm Văn Lu&amp;acirc;n (trang trại Quỳnh Hội, Th&amp;aacute;i B&amp;igrave;nh) cho biết đ&amp;atilde; hợp t&amp;aacute;c với Mavin qua nhiều năm v&amp;agrave; lu&amp;ocirc;n tin tưởng đồng h&amp;agrave;nh c&amp;ugrave;ng Mavin.&amp;nbsp; Được gặp gỡ c&amp;aacute;c l&amp;atilde;nh đạo cao cấp của Tập đo&amp;agrave;n Mavin v&amp;agrave; đặc biệt được lắng nghe c&amp;aacute;c định hướng ph&amp;aacute;t triển của Mavin trong c&amp;aacute;c năm tới khiến &amp;ocirc;ng Lu&amp;acirc;n cũng như c&amp;aacute;c Đối t&amp;aacute;c kh&amp;aacute;c th&amp;ecirc;m tự tin v&amp;agrave; quyết t&amp;acirc;m gắn b&amp;oacute; c&amp;ugrave;ng với Mavin.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/IMG_2080.JPG" alt="" width="600" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Trong những ng&amp;agrave;y tại Đảo Ngọc Ph&amp;uacute; Quốc, c&amp;aacute;c Đối t&amp;aacute;c đ&amp;atilde; c&amp;ugrave;ng với c&amp;aacute;c đại diện Tập đo&amp;agrave;n Mavin tham quan danh lam thắng cảnh Ph&amp;uacute; Quốc v&amp;agrave; tham dự Tiệc Gala Dinner&amp;nbsp;HỘI NGỘ, TRI &amp;Acirc;N, qua đ&amp;oacute; Đối t&amp;aacute;c v&amp;agrave; Mavin đ&amp;atilde; c&amp;oacute; thể thấu hiểu nhau hơn, chia sẻ t&amp;acirc;m huyết với ng&amp;agrave;nh chăn nu&amp;ocirc;i v&amp;agrave; th&amp;ecirc;m quyết t&amp;acirc;m đồng h&amp;agrave;nh c&amp;ugrave;ng nhau ph&amp;aacute;t triển.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<internal-name>Mavinex cùng Đối tác chung tay phát triển bền vững ngành chăn nuôi </internal-name>
+	<navLabel>Mavinex cùng Đối tác chung tay phát triển bền vững ngành chăn nuôi </navLabel>
+	<title_s>Mavinex cùng Đối tác chung tay phát triển bền vững ngành chăn nuôi </title_s>
+	<createdDate>2020-07-14T02:03:49.390Z</createdDate>
+	<createdDate_dt>2020-07-13T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:03:49.390Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:03:49.390Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

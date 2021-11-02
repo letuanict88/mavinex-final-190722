@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6f3c</objectGroupId>
+	<objectId>6f3c37af-0aad-6de2-e651-a81f101f8f88</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>chu-tich-hdqt-mavin-duoc-bo-nhiem-pho-chu-tich-auscham-tai-viet-nam</folder-name>
+	<internal-name>Chủ tịch HĐQT Mavin được bổ nhiệm Phó Chủ tịch Auscham tại Việt Nam</internal-name>
+	<navLabel>Chủ tịch HĐQT Mavin được bổ nhiệm Phó Chủ tịch Auscham tại Việt Nam</navLabel>
+	<title_s>Chủ tịch HĐQT Mavin được bổ nhiệm Phó Chủ tịch Auscham tại Việt Nam</title_s>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/VBF2018.JPG</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Vừa qua, Ph&amp;ograve;ng Thương mại Australia tại Việt Nam (AusCham) đ&amp;atilde; c&amp;ocirc;ng bố danh s&amp;aacute;ch Ban Điều h&amp;agrave;nh nhiệm kỳ 2020 &amp;ndash; 2021 theo đ&amp;oacute;, &amp;ocirc;ng David John Whitehead &amp;ndash; Chủ tịch HĐQT của Tập đo&amp;agrave;n Mavin đ&amp;atilde; được bầu v&amp;agrave;o vị tr&amp;iacute; Ph&amp;oacute; Chủ tịch của Ph&amp;ograve;ng Thương mại Australia tại Việt Nam.&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Đ&amp;acirc;y l&amp;agrave; vị tr&amp;iacute; cao cấp thứ 2 trong Ban Điều h&amp;agrave;nh của Auscham Việt Nam, người được lựa chọn l&amp;agrave; người c&amp;oacute; sức ảnh hưởng trong cộng đồng doanh nghiệp tại Việt Nam, đ&amp;oacute;ng vai tr&amp;ograve; kết nối hiệu quả c&amp;aacute;c th&amp;agrave;nh vi&amp;ecirc;n của AusCham với c&amp;aacute;c cơ hội đầu tư tại Việt Nam.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&amp;Ocirc;ng David đ&amp;atilde; c&amp;oacute; nhiều năm sống v&amp;agrave; l&amp;agrave;m việc tại Việt Nam, thấu hiểu về nền kinh tế v&amp;agrave; c&amp;oacute; nhiều kinh nghiệm phối hợp với Ch&amp;iacute;nh phủ, c&amp;aacute;c l&amp;atilde;nh đạo tỉnh, th&amp;agrave;nh của Việt Nam. Với cương vị l&amp;agrave; Chủ tịch Tập đo&amp;agrave;n Mavin, một th&amp;agrave;nh vi&amp;ecirc;n của Auscham từ năm 2005 tới nay, &amp;Ocirc;ng David đ&amp;atilde; giữ nhiều vị tr&amp;iacute; kh&amp;aacute;c nhau trong Ban Điều h&amp;agrave;nh v&amp;agrave; cũng đang đồng thời l&amp;agrave; th&amp;agrave;nh vi&amp;ecirc;n của nhiều tiểu ban trong Diễn đ&amp;agrave;n Doanh nghiệp Việt Nam (VBF), đ&amp;atilde; từng nhiều lần đại diện cho AusCham trong nhiều hội nghị, hội thảo về hợp t&amp;aacute;c quốc tế, x&amp;uacute;c tiến thương mại tại Việt Nam v&amp;agrave; c&amp;aacute;c nước tr&amp;ecirc;n thế giới. C&amp;ugrave;ng với mối quan hệ bền chặt với Đại sứ qu&amp;aacute;n Australia tại Việt Nam, &amp;Ocirc;ng David đ&amp;atilde; v&amp;agrave; đang đ&amp;oacute;ng vai tr&amp;ograve; quan trọng trong việc kết nối c&amp;aacute;c doanh nghiệp tại Việt Nam với c&amp;aacute;c Ph&amp;ograve;ng Thương mại của Hoa Kỳ (Amcham), của Vương quốc Anh (BBGV) v&amp;agrave; của Ch&amp;acirc;u &amp;Acirc;u (Eurocham).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Tr&amp;ecirc;n cương vị mới l&amp;agrave; Ph&amp;oacute; Chủ tịch Auscham Việt Nam, &amp;Ocirc;ng David bầy tỏ kỳ vọng sẽ gi&amp;uacute;p đ&amp;oacute;ng g&amp;oacute;p hiệu quả hơn cho hoạt động của Ban Điều h&amp;agrave;nh AusCham, cũng như của hiệp hội doanh nghiệp Australia tại Việt Nam nhiệm kỳ 2020 - 2021.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-10T08:41:21.569Z</createdDate>
+	<createdDate_dt>2020-06-10T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2021-01-07T12:03:32.348Z</lastModifiedDate>
+	<lastModifiedDate_dt>2021-01-07T12:03:32.348Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

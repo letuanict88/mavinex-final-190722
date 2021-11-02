@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>f47b</objectGroupId>
+	<objectId>f47b3e28-7855-29be-e468-dae64af8d371</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item></image_o>
+	<file-name>f47b3e28-7855-29be-e468-dae64af8d371.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-17T03:18:57.062Z</createdDate>
+	<createdDate_dt>2020-04-17T03:18:57.062Z</createdDate_dt>
+	<lastModifiedDate>2020-04-17T03:18:57.062Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-17T03:18:57.062Z</lastModifiedDate_dt>
+</component>

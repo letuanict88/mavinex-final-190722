@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a756</objectGroupId>
+	<objectId>a756485b-3afa-c1d6-c0b5-521f0e13cfe9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>lien-he</folder-name>
+	<internal-name>Liên hệ</internal-name>
+	<title_s>Liên hệ</title_s>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>048320cb-f728-787e-a3b4-796714536cd4</key>
+	<value>Slide</value>
+<component id="048320cb-f728-787e-a3b4-796714536cd4">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0483</objectGroupId>
+	<objectId>048320cb-f728-787e-a3b4-796714536cd4</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-lien-he.png</image_s>
+	</item>	<item>	<image_s>/static-assets/images/slides/bg_3.png</image_s>
+	</item></image_o>
+	<file-name>048320cb-f728-787e-a3b4-796714536cd4.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-01T06:11:03.907Z</createdDate>
+	<createdDate_dt>2020-04-01T06:11:03.907Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T02:58:41.032Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T02:58:41.032Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>3cad0e09-b988-b05e-578f-ad7639b4fd99</key>
+	<value>Liên hệ</value>
+<component id="3cad0e09-b988-b05e-578f-ad7639b4fd99">
+	<content-type>/component/contact</content-type>
+	<display-template>/templates/web/contact.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3cad</objectGroupId>
+	<objectId>3cad0e09-b988-b05e-578f-ad7639b4fd99</objectId>
+	<internal-name>Liên hệ</internal-name>
+	<title_s>Công ty cổ phần Mavinex</title_s>
+	<file-name>3cad0e09-b988-b05e-578f-ad7639b4fd99.xml</file-name>
+	<image_s>/static-assets/images/featured/content_img_4.png</image_s>
+	<content_html>&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG TY CỔ PHẦN MAVINEX(MAVINEX)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;VPĐD: Tầng 8- T&amp;ograve;a nh&amp;agrave; Hudland số 6 Nguyễn Hữu Thọ, Phường Ho&amp;agrave;ng Liệt, Quận Ho&amp;agrave;ng Mai, Th&amp;agrave;nh phố H&amp;agrave; Nội.&lt;/p&gt;
+&lt;p&gt;Điện thoại: 0221.653.7979&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Giấy ph&amp;eacute;p đăng k&amp;yacute; kinh doanh: 0901009304 - Ng&amp;agrave;y cấp: 3/4/2017 - Nơi cấp: Sở Kế hoạch v&amp;agrave; Đầu tư tỉnh Hưng Y&amp;ecirc;n.&lt;/p&gt;</content_html>
+	<createdDate>2020-04-01T06:12:30.078Z</createdDate>
+	<createdDate_dt>2020-04-01T06:12:30.078Z</createdDate_dt>
+	<lastModifiedDate>2020-06-10T08:31:28.412Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-10T08:31:28.412Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>4000</orderDefault_f>
+	<createdDate>2020-04-01T06:10:38.796Z</createdDate>
+	<createdDate_dt>2020-04-01T06:10:38.796Z</createdDate_dt>
+	<lastModifiedDate>2020-06-10T08:31:20.044Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-10T08:31:20.044Z</lastModifiedDate_dt>
+	<descripttion_t>Trang này cung cấp các thông tin để có thể liên hệ với công ty bao gồm các thông tin như: Địa chỉ , số điện thoại ...</descripttion_t>
+</page>

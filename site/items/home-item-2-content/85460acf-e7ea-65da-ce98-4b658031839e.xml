@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/homeitem2content</content-type>
+	<display-template>/templates/web/homeitem2content.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8546</objectGroupId>
+	<objectId>85460acf-e7ea-65da-ce98-4b658031839e</objectId>
+	<file-name>85460acf-e7ea-65da-ce98-4b658031839e.xml</file-name>
+	<internal-name>Building sector</internal-name>
+	<title_s>Building sector</title_s>
+	<url_s>/en/building-sector</url_s>
+	<image_s>/static-assets/images/featured/content_img_2.png</image_s>
+	<createdDate>2020-06-08T02:34:56.051Z</createdDate>
+	<createdDate_dt>2020-06-08T02:34:56.051Z</createdDate_dt>
+	<lastModifiedDate>2020-06-08T03:08:23.266Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-08T03:08:23.266Z</lastModifiedDate_dt>
+</component>

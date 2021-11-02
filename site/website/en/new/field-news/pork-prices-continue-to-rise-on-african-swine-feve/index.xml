@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c8e2</objectGroupId>
+	<objectId>c8e224e7-66e8-afdf-1400-78236da80114</objectId>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<internal-name>Pork prices continue to rise on African swine feve</internal-name>
+	<navLabel>Pork prices continue to rise on African swine feve</navLabel>
+	<title_s>Pork prices continue to rise on African swine feve</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>pork-prices-continue-to-rise-on-african-swine-feve</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Thit heo VNS.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;The price of pork with clear origins has increased sharply all over the country because of the impact of African swine fever (ASF).&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;At farms in the north and the south, prices have increased by VNĐ5,000 - VNĐ10,000 per kilogramme in the last several days. In the northern region they have gone up by VNĐ4,000 in just the last two recent days.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;In northern provinces such as Th&amp;aacute;i Nguy&amp;ecirc;n, Hải Dương, Ninh B&amp;igrave;nh, and Hưng Y&amp;ecirc;n and H&amp;agrave; Nội, prices are at VNĐ41,000 - 44,000.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Nguyễn Văn Thanh, a pork trader in the north, said prices are rising because traders are buying to stock for the end of the year festive season, especially Tết (the Lunar New Year), while the number of pigs is reducing rapidly.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;ASF has broken out in 60 of the country&amp;rsquo;s 63 provinces and cities, and more than three million pigs have been culled, severely affecting the balance between demand and supply.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Pork prices in the south have increased from VNĐ30,000 - VNĐ31,000 to VNĐ35,000 - VNĐ36,000.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Nguyễn Xu&amp;acirc;n Dương, acting director of the Ministry of Agriculture and Rural Development&amp;rsquo;s department of livestock production, said ASF had killed 15 per cent of the country&amp;rsquo;s pigs while the demand for pork in the last few months of the year is usually very high, especially during Lunar New Year when most traditional dishes are made from pork.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Prices would continue to rise from now, he said.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;To combat this, the Ministry of Agriculture and Rural Development had instructed businesses and farming households to expand their pig herds with close monitoring, he added.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Source: Vietnam News&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:44:33.735Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T04:46:52.333Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T04:46:52.333Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

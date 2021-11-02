@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>39f7</objectGroupId>
+	<objectId>39f71164-7d3b-006b-ea2d-1cb02029b753</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>san-nhua-chuyen-dung-cho-vit</folder-name>
+	<internal-name>Sàn nhựa chuyên dụng cho vịt</internal-name>
+	<navLabel>Sàn nhựa chuyên dụng cho vịt</navLabel>
+	<productname_s>Sàn nhựa chuyên dụng cho vịt</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-vit</key>
+	<value_smv>Thiết bị chăn nuôi vịt</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Sàn nhưa chuyên dụng cho vịt.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;K&amp;iacute;ch thước tấm 50 x 100cm; cao 3,6 cm. &lt;br /&gt;- K&amp;iacute;ch thước lỗ 2,5 x 2 cm, - Khối lượng 1950 gram&amp;nbsp; +-2%&lt;br /&gt;- Chất liệu: nhựa Polypropylene m&amp;agrave;u trắng (nhựa nguy&amp;ecirc;n sinh).&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;br /&gt;&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Sàn nhưa chuyên dụng cho vịt.jpg</productimage_s>
+	<productimagename_s>Sàn nhưa chuyên dụng cho vịt</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-07T04:44:41.832Z</createdDate>
+	<createdDate_dt>2020-06-07T04:44:41.832Z</createdDate_dt>
+	<lastModifiedDate>2020-06-16T03:21:53.871Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-16T03:21:53.871Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Special plastic flooring for ducks</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;50 x 100cm sheet size; height 3.6 cm.&lt;/p&gt;
+&lt;p&gt;- Hole size 2.5 x 2 cm, - Weight 1950 grams + -2%&lt;/p&gt;
+&lt;p&gt;- Material: white Polypropylene (primary plastic).&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

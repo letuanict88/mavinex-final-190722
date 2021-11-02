@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/socials</content-type>
+	<display-template>/templates/web/socials.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1f3c</objectGroupId>
+	<objectId>1f3cf91a-1eb1-d746-7a61-b1bde2832746</objectId>
+	<file-name>1f3cf91a-1eb1-d746-7a61-b1bde2832746.xml</file-name>
+	<internal-name>Youtube</internal-name>
+	<socialURL_s>https://www.youtube.com/</socialURL_s>
+	<socialImageAlt_s>Youtube</socialImageAlt_s>
+	<socialImage_s>/static-assets/images/socials/footer_icon_3.png</socialImage_s>
+	<createdDate>2020-03-26T09:00:26.783Z</createdDate>
+	<createdDate_dt>2020-03-26T09:00:26.783Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T09:00:26.783Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T09:00:26.783Z</lastModifiedDate_dt>
+</component>

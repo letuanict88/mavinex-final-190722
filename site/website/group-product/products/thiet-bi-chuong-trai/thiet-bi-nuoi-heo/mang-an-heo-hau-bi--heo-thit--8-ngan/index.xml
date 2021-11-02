@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d505</objectGroupId>
+	<objectId>d50548e2-08e1-1b11-478d-4b4515f53cad</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-an-heo-hau-bi--heo-thit--8-ngan</folder-name>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<internal-name>Máng ăn heo hậu bị (heo thịt) 8 ngăn</internal-name>
+	<navLabel>Máng ăn heo hậu bị (heo thịt) 8 ngăn </navLabel>
+	<productname_s>Máng ăn heo hậu bị (heo thịt) 8 ngăn </productname_s>
+	<productnameEnglish_s>Feeder gilt (porker) 8 compartments square format (2 sides)</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productAvatar_s>/static-assets/images/products/Máng ăn heo hậu bị (heo thịt) 8 ngăn.jpg</productAvatar_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productdescription_html>&lt;p&gt;M&amp;aacute;ng ăn heo hậu bị (heo thịt) 8 ngăn dạng vu&amp;ocirc;ng (2 b&amp;ecirc;n)&lt;/p&gt;
+&lt;p&gt;Bằng inox 304, d&amp;agrave;y 1,5mm, k&amp;iacute;ch thước (DxRxC): 150 x 54x 78 cm, c&amp;oacute; n&amp;uacute;m ướt c&amp;aacute;m, nu&amp;ocirc;i từ 15kg đến xuất chuồng.&lt;/p&gt;
+&lt;p&gt;Rất ph&amp;ugrave; hợp cho việc &amp;aacute;p dụng hệ thống silo v&amp;agrave; cho ăn tự động&lt;/p&gt;
+&lt;p&gt;Sức chứa: 150 kg&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Feeder gilt (porker) 8 compartments square format (2 sides)&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;304 stainless steel, 1.5mm thick, size (LxWxH): 150 x 54x 78 cm, with wet bran knob, raised from 15kg to market.&lt;/p&gt;
+&lt;p&gt;Very suitable for the application of silo system and automatic feeding&lt;/p&gt;
+&lt;p&gt;Capacity: 150 kg&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng ăn heo hậu bị (heo thịt) 8 ngăn.jpg</productimage_s>
+	<productimagename_s/>
+	</item></productimage_o>
+	<createdDate>2020-06-11T08:45:29.159Z</createdDate>
+	<createdDate_dt>2020-06-11T08:45:29.159Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:54:51.343Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:54:51.343Z</lastModifiedDate_dt>
+</page>

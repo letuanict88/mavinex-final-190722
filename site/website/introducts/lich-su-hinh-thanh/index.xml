@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6508</objectGroupId>
+	<objectId>65089ccc-6a84-1e19-9110-71252baf9614</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>lich-su-hinh-thanh</folder-name>
+	<internal-name>Lịch sử hình thành</internal-name>
+	<title_s>Lịch sử hình thành</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/58025963-91fe-b4a2-b236-fc70ac85676a.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/58025963-91fe-b4a2-b236-fc70ac85676a.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-2.png</thumbail_s>
+	<contents_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;H&amp;igrave;nh th&amp;agrave;nh trong thời kỳ đất nước đang tr&amp;ecirc;n đ&amp;agrave; hội nhập v&amp;agrave; ph&amp;aacute;t triển mạnh mẽ, với nền tảng 15 năm kinh nghiệm từ ph&amp;ograve;ng dự &amp;aacute;n của Tập đo&amp;agrave;n Mavin, C&amp;ocirc;ng ty cổ phần Mavinex được th&amp;agrave;nh lập theo giấy chứng nhận đăng k&amp;yacute; doanh nghiệp số: 0901009304 ng&amp;agrave;y 3/4/2017 của Sở kế hoạch đầu tư tỉnh Hưng Y&amp;ecirc;n. Trải qua qu&amp;aacute; tr&amp;igrave;nh x&amp;acirc;y dựng v&amp;agrave; ph&amp;aacute;t triển C&amp;ocirc;ng ty cổ phần Mavinex đ&amp;atilde; v&amp;agrave; đang vươn l&amp;ecirc;n trở th&amp;agrave;nh 1 c&amp;ocirc;ng ty được tin cậy c&amp;oacute; chỗ đứng vững chắc tr&amp;ecirc;n thị trường trong việc cung cấp c&amp;aacute;c giải ph&amp;aacute;p c&amp;ocirc;ng nghệ trong lĩnh vực x&amp;acirc;y dựng c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y chế biến thức ăn chăn nu&amp;ocirc;i v&amp;agrave; ph&amp;aacute;t triển c&amp;aacute;c trang trại chăn nu&amp;ocirc;i.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Nhiều dự &amp;aacute;n lớn đ&amp;atilde; được c&amp;ocirc;ng ty đ&amp;atilde; triển khai như: Dự &amp;aacute;n nh&amp;agrave; m&amp;aacute;y thức ăn thủy Sản Hưng Y&amp;ecirc;n với c&amp;ocirc;ng suất 45.000 tấn/năm; Nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i Nghệ An với c&amp;ocirc;ng suất 300.000 tấn/năm; Nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i Đồng Th&amp;aacute;p với c&amp;ocirc;ng suất 350.000 tấn/năm; Nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i B&amp;igrave;nh Định với c&amp;ocirc;ng suất 200.000 tấn/năm; Mở rộng nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i gia s&amp;uacute;c Hưng Y&amp;ecirc;n từ c&amp;ocirc;ng suất 50.000 tấn/năm l&amp;ecirc;n nh&amp;agrave; m&amp;aacute;y thức ăn gia s&amp;uacute;c với c&amp;ocirc;ng suất 250.000 tấn/năm.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;&amp;nbsp;Trong lĩnh vực chăn nu&amp;ocirc;i c&amp;oacute; thể kể tới c&amp;aacute;c dự &amp;aacute;n: Trại 1.200 heo cụ kị Hưng Y&amp;ecirc;n; Trại 1.500 heo &amp;ocirc;ng b&amp;agrave; tại B&amp;igrave;nh Định, Trại 30.000 vịt giống Th&amp;aacute;i B&amp;igrave;nh c&amp;ugrave;ng h&amp;agrave;ng trăm c&amp;aacute;c trang trại chăn nu&amp;ocirc;i heo, g&amp;agrave;, vịt khắp c&amp;aacute;c tỉnh th&amp;agrave;nh trong nước như: Th&amp;aacute;i B&amp;igrave;nh, Ph&amp;uacute; Thọ, Bắc Ninh, H&amp;ograve;a B&amp;igrave;nh, Hưng Y&amp;ecirc;n, Bắc Giang, Hải Dương, Quảng Ninh, Thanh H&amp;oacute;a, Nghệ An, Hậu Giang, T&amp;acirc;y Ninh, B&amp;igrave;nh Phước&amp;hellip;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt;Với bộ m&amp;aacute;y l&amp;atilde;nh đạo tổ chức điều h&amp;agrave;nh gọn nhẹ, năng động, ph&amp;ugrave; hợp với cơ chế thị trường, đội ngũ kỹ sư gi&amp;agrave;u kinh nghiệm, c&amp;ocirc;ng nh&amp;acirc;n kỹ thuật l&amp;agrave;nh nghề, thiết bị c&amp;ocirc;ng nghệ thi c&amp;ocirc;ng đồng bộ, C&amp;ocirc;ng ty Cổ phần Mavinex khẳng định: ho&amp;agrave;n to&amp;agrave;n c&amp;oacute; thể đ&amp;aacute;p ứng được mọi y&amp;ecirc;u cầu của kh&amp;aacute;ch h&amp;agrave;ng về chất lượng v&amp;agrave; tiến độ c&amp;aacute;c c&amp;ocirc;ng tr&amp;igrave;nh lớn nhỏ với gi&amp;aacute; th&amp;agrave;nh hợp l&amp;yacute; nhất.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt; color: #ffffff;"&gt; &lt;!--[endif]--&gt;C&amp;ocirc;ng ty Cổ phần Mavinex mong muốn l&amp;agrave; địa chỉ tin cậy của kh&amp;aacute;ch h&amp;agrave;ng. Đến với C&amp;ocirc;ng ty ch&amp;uacute;ng t&amp;ocirc;i kh&amp;aacute;ch h&amp;agrave;ng sẽ gặp được người bạn v&amp;agrave; đối t&amp;aacute;c ch&amp;acirc;n th&amp;agrave;nh, c&amp;oacute; được những c&amp;ocirc;ng tr&amp;igrave;nh đạt chất lượng tốt, bền vững với gi&amp;aacute; cả hợp l&amp;yacute; v&amp;agrave; gi&amp;aacute; trị thẩm mỹ cao.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-04-16T07:47:22.296Z</createdDate>
+	<createdDate_dt>2020-04-16T07:47:22.296Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:33:08.387Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:33:08.387Z</lastModifiedDate_dt>
+	<section_o item-list="true"/>
+</page>

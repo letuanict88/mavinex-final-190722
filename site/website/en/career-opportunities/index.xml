@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>464c</objectGroupId>
+	<objectId>464c3794-975a-c9a3-e522-8a89b32ab7d4</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>career-opportunities</folder-name>
+	<internal-name>Career opportunities</internal-name>
+	<title_s>Career opportunities</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t>Career opportunities
+</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>6d3371d4-60a2-abad-1765-ee5e9846beb9</key>
+	<value>Career opportunities slide</value>
+<component id="6d3371d4-60a2-abad-1765-ee5e9846beb9">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6d33</objectGroupId>
+	<objectId>6d3371d4-60a2-abad-1765-ee5e9846beb9</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>6d3371d4-60a2-abad-1765-ee5e9846beb9.xml</file-name>
+	<internal-name>Career opportunities slide</internal-name>
+	<createdDate>2020-06-11T03:15:06.228Z</createdDate>
+	<createdDate_dt>2020-06-11T03:15:06.228Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T03:15:06.228Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T03:15:06.228Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>29c031cd-ef09-9e4a-6c71-245d4ca0cac6</key>
+	<value>Career opportunities</value>
+<component id="29c031cd-ef09-9e4a-6c71-245d4ca0cac6">
+	<content-type>/component/listjoben</content-type>
+	<display-template>/templates/web/listjob.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>29c0</objectGroupId>
+	<objectId>29c031cd-ef09-9e4a-6c71-245d4ca0cac6</objectId>
+	<internal-name>Career opportunities</internal-name>
+	<title_s>Career opportunities</title_s>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<file-name>29c031cd-ef09-9e4a-6c71-245d4ca0cac6.xml</file-name>
+	<createdDate>2020-06-11T03:15:29.605Z</createdDate>
+	<createdDate_dt>2020-06-11T03:15:29.605Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T11:50:24.387Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T11:50:24.387Z</lastModifiedDate_dt>
+	<urlListJobs_s>/en/recruitment</urlListJobs_s>
+</component>
+	</item></sections_o>
+	<createdDate>2020-06-11T03:13:44.784Z</createdDate>
+	<createdDate_dt>2020-06-11T03:13:44.784Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T11:50:21.155Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T11:50:21.155Z</lastModifiedDate_dt>
+</page>

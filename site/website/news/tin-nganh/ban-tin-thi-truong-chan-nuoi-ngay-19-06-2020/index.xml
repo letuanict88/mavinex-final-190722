@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3977</objectGroupId>
+	<objectId>39778fb3-2342-8a1b-fc6b-1529a30c7c94</objectId>
+	<internal-name>Bản tin thị trường chăn nuôi ngày 19/06/2020</internal-name>
+	<navLabel>Bản tin thị trường chăn nuôi ngày 19/06/2020</navLabel>
+	<title_s>Bản tin thị trường chăn nuôi ngày 19/06/2020</title_s>
+	<file-name>index.xml</file-name>
+	<folder-name>ban-tin-thi-truong-chan-nuoi-ngay-19-06-2020</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Bản tin thị trường.png</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Gi&amp;aacute; heo hơi h&amp;ocirc;m nay giảm ở nhiều tỉnh th&amp;agrave;nh miền Bắc ngay sau khi l&amp;ocirc; h&amp;agrave;ng 500 con lợn Th&amp;aacute;i Lan được nhập về tới Nghệ An. Trong khi đ&amp;oacute;, gi&amp;aacute; heo hơi h&amp;ocirc;m nay tại miền Trung v&amp;agrave; miền Nam kh&amp;ocirc;ng đổi.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Theo th&amp;ocirc;ng tin mới nhất từ Bộ NN-PTNT, để giải quyết b&amp;agrave;i to&amp;aacute;n tăng nguồn cung, hạ gi&amp;aacute; thịt lợn trong nước, 500 con lợn sống đầu ti&amp;ecirc;n nhập khẩu từ Th&amp;aacute;i Lan đ&amp;atilde; về đến Cửa khẩu Lao Bảo (Quảng Trị). Doanh nghiệp nhập khẩu đang l&amp;agrave;m c&amp;aacute;c thủ tục để đưa về khu c&amp;aacute;ch ly tại Nghệ An. L&amp;ocirc; h&amp;agrave;ng nhập khẩu lợn sống n&amp;agrave;y đ&amp;atilde; được vận chuyển về Việt Nam đ&amp;ecirc;m 17/6 v&amp;agrave; sẽ phải c&amp;aacute;ch ly 30 ng&amp;agrave;y trước khi giết mổ v&amp;agrave; b&amp;aacute;n ra thị trường. V&amp;agrave;, khoảng giữa th&amp;aacute;ng 7/2020, Việt Nam sẽ c&amp;oacute; th&amp;ecirc;m nguồn thịt lợn nhập khẩu tươi sống b&amp;ecirc;n cạnh thịt nhập khẩu đ&amp;ocirc;ng lạnh.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Được biết, hiện c&amp;oacute; khoảng 15 doanh nghiệp đang muốn nhập khẩu lợn sống từ Th&amp;aacute;i Lan v&amp;agrave;o Việt Nam. T&amp;iacute;nh tới ng&amp;agrave;y 12/6, c&amp;aacute;c doanh nghiệp đ&amp;atilde; đăng k&amp;yacute; nhập khẩu tổng cộng gần 1 triệu con lợn sống từ Th&amp;aacute;i Lan để đưa về giết mổ, đưa ra thị trường b&amp;aacute;n.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Cũng theo t&amp;iacute;nh to&amp;aacute;n của Bộ NN&amp;PTNT, đến cuối Qu&amp;yacute; III v&amp;agrave; đầu Qu&amp;yacute; IV năm nay, tổng đ&amp;agrave;n lợn cả nước đạt hơn 28 triệu con, sản lượng thịt lợn xuất chuồng đạt hơn 3 triệu tấn v&amp;agrave; dự b&amp;aacute;o gi&amp;aacute; thịt lợn hơi sẽ tiếp tục giảm về mức hợp l&amp;yacute;.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Trong khi đ&amp;oacute;, gi&amp;aacute; g&amp;agrave; thịt, vịt thịt chững lại nhưng vẫn giữ ở mức cao. Việc ti&amp;ecirc;u thụ giống g&amp;agrave;, vịt của c&amp;aacute;c cơ sở, l&amp;ograve; ấp kh&amp;aacute; chậm. Thậm ch&amp;iacute;, nhiều đại l&amp;yacute; đ&amp;atilde; th&amp;ocirc;ng b&amp;aacute;o giảm gi&amp;aacute; con giống "sập s&amp;agrave;n" nhưng vẫn ế ẩm.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Bản tin do Bộ phận Kinh doanh Tập đo&amp;agrave;n Mavin tổng hợp từ th&amp;ocirc;ng tin thị trường:&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img src="/static-assets/images/Bản tin thị trường chăn nu&amp;ocirc;i ng&amp;agrave;y 1962020 (1).PNG" alt="" width="800" height="1200" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img src="/static-assets/images/Bản tin thị trường chăn nu&amp;ocirc;i ng&amp;agrave;y 1962020 (2).PNG" alt="" width="800" height="1014" /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;&lt;img src="/static-assets/images/Bản tin thị trường chăn nu&amp;ocirc;i ng&amp;agrave;y 1962020 (3).PNG" alt="" width="800" height="1012" /&gt;&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-23T06:18:11.746Z</createdDate>
+	<createdDate_dt>2020-06-23T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-23T06:55:59.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-23T06:55:59.522Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

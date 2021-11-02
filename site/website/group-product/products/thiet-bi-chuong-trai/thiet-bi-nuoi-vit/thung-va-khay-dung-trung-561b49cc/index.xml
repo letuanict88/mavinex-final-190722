@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2ee7befe</objectGroupId>
+	<objectId>2ee7befe-d2e1-4d83-bb51-f18ff3596fb8</objectId>
+	<internal-name>Thùng và khay đựng trứng 561b49cc</internal-name>
+	<navLabel>Thùng và khay đựng trứng</navLabel>
+	<productname_s>Thùng và khay đựng trứng</productname_s>
+	<productnameEnglish_s>Crates and egg trays</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<file-name>index.xml</file-name>
+	<folder-name>thung-va-khay-dung-trung-561b49cc</folder-name>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà-Chicken farm Equipment</value_smv>
+	</item></productchildgroup_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productAvatar_s>/static-assets/images/products/Thung va khay trung 1.jpg</productAvatar_s>
+	<productdescription_html>&lt;p&gt;Xuất xứ: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Thung va khay trung 1.jpg</productimage_s>
+	<productimagename_s>Thùng và khay đựng trứng 1</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Thung va khay trung 2.jpg</productimage_s>
+	<productimagename_s>Thùng và khay đựng trứng 2</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Thung va khay trung 3.jpg</productimage_s>
+	<productimagename_s>Thùng và khay đựng trứng 3</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Thung va khay trung 4.jpg</productimage_s>
+	<productimagename_s>Thùng và khay đựng trứng 4</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-16T03:15:53.180Z</createdDate>
+	<createdDate_dt>2020-06-16T03:15:53.180Z</createdDate_dt>
+	<lastModifiedDate>2020-06-16T03:20:37.344Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-16T03:20:37.344Z</lastModifiedDate_dt>
+</page>

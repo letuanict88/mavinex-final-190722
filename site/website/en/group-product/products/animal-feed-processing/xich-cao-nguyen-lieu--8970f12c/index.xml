@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>68d1322c</objectGroupId>
+	<objectId>68d1322c-892d-49c5-a095-0a85625ad9df</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>xich-cao-nguyen-lieu--8970f12c</folder-name>
+	<productgroup_o>	<item>	<key>thiet-bi-nha-may-thuc-an-chan-nuoi</key>
+	<value_smv>Thiết bị nhà máy và thức ăn chăn nuôi-Animal feed processing</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nha-may-tacn</key>
+	<value_smv>Thiết bị nhà máy TACN-Feed machine equipment</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>Xích cào nguyên liệu  8970f12c</internal-name>
+	<navLabel>Xích cào nguyên liệu </navLabel>
+	<productname_s>Xích cào nguyên liệu </productname_s>
+	<productnameEnglish_s>Scraper rake material</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productAvatar_s>/static-assets/images/products/Xích cào nguyên liệu.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;C&amp;ocirc;ng suất từ 60T/h, 90T/h , 120T/h t&amp;ugrave;y v&amp;agrave;o thiết kế của nh&amp;agrave; m&amp;aacute;y&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Capacity of 60T / h, 90T / h, 120T / h depending on the design of the factory&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Xích cào nguyên liệu.jpg</productimage_s>
+	<productimagename_s>Xích cào nguyên liệu </productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-12T04:02:29.718Z</createdDate>
+	<createdDate_dt>2020-06-12T04:02:29.718Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T07:06:21.537Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T07:06:21.537Z</lastModifiedDate_dt>
+</page>

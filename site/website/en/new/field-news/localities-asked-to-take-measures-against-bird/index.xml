@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>2ca5</objectGroupId>
+	<objectId>2ca5c8a2-556f-7478-cdde-8855a21bc719</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>localities-asked-to-take-measures-against-bird</folder-name>
+	<internal-name>Localities asked to take measures against bird flu</internal-name>
+	<navLabel>Localities asked to take measures against bird flu</navLabel>
+	<title_s>Localities asked to take measures against bird flu</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<categories_o>	<item>	<key>field-news</key>
+	<value_smv>Tin Ngành (Field News)</value_smv>
+	</item></categories_o>
+	<image_s>/static-assets/images/Cong dien ve phong chong cum gia cam.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;The Ministry of Agriculture and Rural Development has called on local authorities nationwide to roll out precautionary measures against avian influenza, commonly called bird flu.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;The request was made on Monday after China announced a case of H5N1 avian influenza on a poultry farm in Hunan Province on Saturday.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Agriculture minister Nguyễn Xu&amp;acirc;n Cường assessed the risks to 467-million-strong domestic poultry flock at "very dangerous" level given that Hunan's proximity to Việt Nam would make it easier for the disease to spread.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;He noted that the consequences for lax management and quarantine efforts would be "highly complicated," especially as the country still barely recovered from the African swine flu that has devastated the pork industry.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;The first months of the year in the country are also likely to be humid, perfect condition for diseases on poultry, necessitating robust measures from all levels to prevent risks of outbreaks.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;According to the World Organisation for Animal Health, the avian flu outbreak has hit 11 countries and territories since January.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;The ministry asked city and provincial People's Committees to instruct their agriculture and rural development authorities to toughen supervision, investigation and early discovery of all bird flu outbreaks.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Localities were asked to take samples to offer timely warnings and effectively use vaccines against the flu.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Chairs of municipal and provincial People&amp;rsquo;s Committees must direct units of the National Steering Committee against Smuggling, Trade Frauds and Counterfeits to deal with illegal transportation of animals and their products, especially fowl from abroad.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;The Department of Animal Health was assigned to hold trips to localities to inspect the implementation of the measures, and work with international organisations to share experience in the effort.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;According to Phạm Văn Đ&amp;ocirc;ng, head of the Department of Animal Health, Việt Nam detected an outbreak of H5N6 bird flu in Quảng Ninh Province at the beginning of this year.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;However, the outbreak was promptly controlled. About 3,000 chickens were culled on January 21.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;No new outbreaks have been reported.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;According to Đ&amp;ocirc;ng, the disease may reappear due to many different reasons such as the large population of poultry, unusual change of weather as well as the increase of demand for transportation, slaughter and consumption of poultry products for festivals at the beginning of the year.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Meanwhile, some localities have not focused on vaccinating poultry.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Therefore, the risk of avian influenza outbreaks is high and poses a risk to public health, especially amid the complex developments of the acute respiratory disease caused by the novel coronavirus (nCoV).&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;Việt Nam has not detected any case of avian influenza virus A/H7N9.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;However, the risk of A/H7N9 virus and some other virus strains such as A/H5N2, A/H5N8 infection is high, according to Đ&amp;ocirc;ng.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14pt;"&gt;In December 2019, the Ministry of Agriculture and Rural Development provided 4.5 million doses of avian influenza vaccine to support localities in vaccinating poultry.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;(Source: Vietnam News)&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:55:48.308Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T04:55:48.308Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T04:55:48.308Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

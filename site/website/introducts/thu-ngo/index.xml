@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b5fe</objectGroupId>
+	<objectId>b5fe1d28-76a9-6f35-787b-52f907e3888b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thu-ngo</folder-name>
+	<internal-name>Thư ngỏ</internal-name>
+	<title_s>Thư ngỏ</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/52a37a6d-0927-03da-44b8-1391b5fcf359.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/52a37a6d-0927-03da-44b8-1391b5fcf359.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<contents_html>&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;K&amp;iacute;nh gửi: Qu&amp;yacute; Kh&amp;aacute;ch h&amp;agrave;ng!&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Lời đầu ti&amp;ecirc;n, thay mặt cho to&amp;agrave;n thể c&amp;aacute;n bộ, c&amp;ocirc;ng nh&amp;acirc;n vi&amp;ecirc;n C&amp;ocirc;ng ty CP Mavinex, t&amp;ocirc;i xin gửi lời ch&amp;agrave;o tr&amp;acirc;n trọng c&amp;ugrave;ng lời cảm ơn ch&amp;acirc;n th&amp;agrave;nh tới c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng, đối t&amp;aacute;c v&amp;agrave; c&amp;aacute;c cổ đ&amp;ocirc;ng đ&amp;atilde; c&amp;ugrave;ng đồng h&amp;agrave;nh v&amp;agrave; hợp t&amp;aacute;c với C&amp;ocirc;ng ty ch&amp;uacute;ng t&amp;ocirc;i trong suốt thời gian qua.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Được th&amp;agrave;nh lập từ năm 2017, với tiền th&amp;acirc;n l&amp;agrave; Ph&amp;ograve;ng dự &amp;aacute;n của tập đo&amp;agrave;n Mavin, C&amp;ocirc;ng ty cổ Phần Mavinex được biết đến l&amp;agrave; đơn vị triển khai thi c&amp;ocirc;ng c&amp;aacute;c dự &amp;aacute;n trọng điểm của tập đo&amp;agrave;n Mavin trong c&amp;aacute;c lĩnh vực thiết kế v&amp;agrave; x&amp;acirc;y dựng c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i, thiết kế v&amp;agrave; x&amp;acirc;y dựng c&amp;aacute;c trang trại chăn nu&amp;ocirc;i, Trong những năm qua C&amp;ocirc;ng ty đ&amp;atilde; triển khai h&amp;agrave;ng chục c&amp;aacute;c dự &amp;aacute;n trọng điểm, c&amp;oacute; thể kể ra như: dự &amp;aacute;n x&amp;acirc;y dựng nh&amp;agrave; m&amp;aacute;y thức ăn thủy Sản tại Hưng Y&amp;ecirc;n với c&amp;ocirc;ng suất 45.000 tấn/năm; nh&amp;agrave; m&amp;aacute;y thức ăn gia s&amp;uacute;c Nghệ An với c&amp;ocirc;ng suất 300.000 tấn/năm; v&amp;agrave; nh&amp;agrave; m&amp;aacute;y Đồng Th&amp;aacute;p với c&amp;ocirc;ng suất&lt;span style="mso-spacerun: yes;"&gt;&amp;nbsp; &lt;/span&gt;350.000 tấn/năm.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Việc kết hợp h&amp;agrave;i h&amp;ograve;a c&amp;ocirc;ng nghệ thiết bị của c&amp;aacute;c h&amp;atilde;ng h&amp;agrave;ng đầu thế giới của c&amp;aacute;c h&amp;agrave;ng Buhler, Vandesen, Chronos&amp;hellip;c&amp;ugrave;ng sự s&amp;aacute;ng tạo của c&amp;aacute;c kỹ sư Mavinex đ&amp;atilde; x&amp;acirc;y dựng n&amp;ecirc;n c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i c&amp;ocirc;ng nghệ 4.0, Việc &amp;aacute;p dụng c&amp;ocirc;ng nghệ 4.0 gi&amp;uacute;p Mavin giảm được chi ph&amp;iacute; sản xuất, vận h&amp;agrave;nh, tăng năng suất lao động v&amp;agrave; bảo vệ m&amp;ocirc;i trường cũng như bảo vệ sức khỏe của người sản xuất v&amp;agrave; ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Trong lĩnh vực chăn nu&amp;ocirc;i, Mavinex cũng triển khai h&amp;agrave;ng chục c&amp;aacute;c dự &amp;aacute;n lớn như trại heo 1.200 heo Cụ Kị Hưng Việt &amp;ndash; Hưng Y&amp;ecirc;n, trại 1.500 Heo n&amp;aacute;i &amp;ocirc;ng b&amp;agrave; tại Nhơn T&amp;acirc;n &amp;ndash; B&amp;igrave;nh Định c&amp;ugrave;ng h&amp;agrave;ng trăm c&amp;aacute;c trại heo n&amp;aacute;i bố mẹ, trại heo thịt; trại g&amp;agrave; v&amp;agrave; trại vịt. Nhờ &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến trong c&amp;aacute;c trang trại như: ứng dụng hệ thống cho ăn tự động, hệ thống vệ sinh v&amp;agrave; xử l&amp;yacute; m&amp;ocirc;i trường tự động, hệ thống điều chỉnh nhiệt độ tự động&amp;hellip; điều n&amp;agrave;y gi&amp;uacute;p cho vật nu&amp;ocirc;i c&amp;oacute; điều kiện sinh trưởng v&amp;agrave; ph&amp;aacute;t triển tốt nhất, qua đ&amp;oacute; tối ưu h&amp;oacute;a hiệu quả chăn nu&amp;ocirc;i đồng thời hướng tới nền chăn nu&amp;ocirc;i th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Trong lĩnh vực chăn nu&amp;ocirc;i thủy sản, C&amp;ocirc;ng ty cung cấp hệ thống lồng c&amp;aacute; Nauy với thể t&amp;iacute;ch chăn nu&amp;ocirc;i lớn, khả năng chống chịu thời tiết, b&amp;atilde;o gi&amp;oacute; cao rất th&amp;iacute;ch hợp với chăn nu&amp;ocirc;i tập trung tại v&amp;ugrave;ng ven biển hay c&amp;aacute;c hồ thủy điện đem lại năng suất v&amp;agrave; chất lượng c&amp;aacute; thương phẩm rất cao.&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Với mục ti&amp;ecirc;u mang đến những sản phẩm chất lượng cao kh&amp;ocirc;ng chỉ cho những dự &amp;aacute;n trong tập đo&amp;agrave;n Mavin m&amp;agrave; c&amp;ograve;n hướng tới c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng trong v&amp;agrave; ngo&amp;agrave;i nước, C&amp;ocirc;ng ty CP Mavinex cam kết giữ g&amp;igrave;n gi&amp;aacute; trị truyền thống, ph&amp;aacute;t huy lợi thế canh tranh, đồng h&amp;agrave;nh c&amp;ugrave;ng c&amp;aacute;c đối t&amp;aacute;c, đem lại sự ph&amp;aacute;t triển thịnh vượng cho Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng, cổ đ&amp;ocirc;ng v&amp;agrave; cộng đồng x&amp;atilde; hội. &lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Tr&amp;acirc;n trọng!&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Gi&amp;aacute;m đốc&lt;/span&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Trần C&amp;ocirc;ng T&amp;iacute;nh&lt;/span&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-04-16T07:35:37.305Z</createdDate>
+	<createdDate_dt>2020-04-16T07:35:37.305Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T08:12:41.819Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T08:12:41.819Z</lastModifiedDate_dt>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-1.png</thumbail_s>
+</page>

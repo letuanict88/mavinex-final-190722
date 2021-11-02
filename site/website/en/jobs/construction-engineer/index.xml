@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/joben</content-type>
+	<display-template>/templates/web/jobitem.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>834c</objectGroupId>
+	<objectId>834c45f1-3cab-1a69-0ac7-d715fac62e3b</objectId>
+	<internal-name>Construction engineer</internal-name>
+	<navLabel>Construction engineer</navLabel>
+	<title_s>Construction engineer</title_s>
+	<type_s>Full time</type_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide" inline="true">	<key>72a5d7e3-6533-1902-7478-c4392f360a6b</key>
+	<value>Jobs</value>
+<component id="72a5d7e3-6533-1902-7478-c4392f360a6b">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>72a5</objectGroupId>
+	<objectId>72a5d7e3-6533-1902-7478-c4392f360a6b</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>72a5d7e3-6533-1902-7478-c4392f360a6b.xml</file-name>
+	<internal-name>Jobs</internal-name>
+	<createdDate>2020-06-13T02:14:57.584Z</createdDate>
+	<createdDate_dt>2020-06-13T02:14:57.584Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T02:14:57.584Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T02:14:57.584Z</lastModifiedDate_dt>
+</component>
+	</item></slide_o>
+	<image_s>/static-assets/images/featured/content_img_10.png</image_s>
+	<file-name>index.xml</file-name>
+	<folder-name>construction-engineer</folder-name>
+	<duration_dt>2020-06-30T04:00:00.000Z</duration_dt>
+	<item_o item-list="true">	<item>	<title_s>Job description</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Direct the preparation of documents and construction cost estimates.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Develop effective and safe construction plans.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Organizing construction in accordance with design requirements, ensuring progress and quality.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Monitoring, managing labor and equipment at the site.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Responsible for the technical aspects of construction.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Coordinate with departments in the procurement of supplies; complete the settlement records; bids, bids ...&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Directing and supervising a couple of workers and technicians to perform labor safety, fire and explosion prevention and fighting during the construction process.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Report periodic results to the Board of Directors.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Requirement</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Male.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Graduation: University, College specialized in Construction, Architecture, Transport and related fields&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Know how to use auto cad software, projects, estimates ...&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- At least 01 year experience in construction&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Priority has a construction supervision practice certificate.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Ability to work independently and in groups, under high pressure&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Can go on business trips.&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item>	<item>	<title_s>Interest</title_s>
+	<content_html>&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Wage agreement.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Enjoy benefits as prescribed by law.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;- Bonus according to job performance.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;&lt;span style="font-size: 14pt;"&gt;Duration: June 30, 2020&lt;/span&gt;&lt;/p&gt;</content_html>
+	</item></item_o>
+	<createdDate>2020-06-13T02:11:45.559Z</createdDate>
+	<createdDate_dt>2020-06-13T02:11:45.559Z</createdDate_dt>
+	<lastModifiedDate>2020-06-13T02:16:16.774Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-13T02:16:16.774Z</lastModifiedDate_dt>
+	<duration_dt_tz>EST5EDT</duration_dt_tz>
+</page>

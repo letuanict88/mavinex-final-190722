@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/homeitem2content</content-type>
+	<display-template>/templates/web/homeitem2content.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>21ca</objectGroupId>
+	<objectId>21ca1eef-107f-353c-5a25-60c5608db25e</objectId>
+	<file-name>21ca1eef-107f-353c-5a25-60c5608db25e.xml</file-name>
+	<internal-name>Overall consulting, livestock farm design</internal-name>
+	<title_s>Overall consulting, livestock farm design</title_s>
+	<url_s>/en/overall-consulting--livestock-farm-design</url_s>
+	<image_s>/static-assets/images/featured/content_img_3.png</image_s>
+	<createdDate>2020-06-08T02:36:01.634Z</createdDate>
+	<createdDate_dt>2020-06-08T02:36:01.634Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T03:16:57.238Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T03:16:57.238Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9597</objectGroupId>
+	<objectId>95971361-2726-deef-b928-57965ebeaa78</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-heo-tron-bang-inox-201-</folder-name>
+	<internal-name>Máng heo tròn bằng inox 201 </internal-name>
+	<navLabel>Máng heo tròn bằng inox 201 </navLabel>
+	<productname_s>Máng heo tròn bằng inox 201 </productname_s>
+	<productnameEnglish_s>Round stainless steel pig trough 201</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Máng heo tròn bằng inox 201.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;D&amp;ugrave;ng cho heo thịt, heo hậu bị.&lt;/p&gt;
+&lt;p&gt;Sức chứa: 75 kg&lt;/p&gt;
+&lt;p&gt;K&amp;iacute;ch thước đ&amp;aacute;y m&amp;aacute;ng 50cm, chiều cao tổng thể 120cm&lt;/p&gt;
+&lt;p&gt;Vật liệu Inox 201&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Used for porker, gilts.&lt;/p&gt;
+&lt;p&gt;Capacity: 75 kg&lt;/p&gt;
+&lt;p&gt;Size of 50cm trough bottom, overall height 120cm&lt;/p&gt;
+&lt;p&gt;Stainless steel 201&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng heo tròn bằng inox 201.jpg</productimage_s>
+	<productimagename_s>Máng heo tròn bằng inox 201 </productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T08:58:49.692Z</createdDate>
+	<createdDate_dt>2020-06-11T08:58:49.692Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T07:22:06.117Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T07:22:06.117Z</lastModifiedDate_dt>
+</page>

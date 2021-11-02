@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1ff8</objectGroupId>
+	<objectId>1ff8baa0-bc7f-256b-d822-a9bae939643c</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>linh-vuc-hoat-dong</folder-name>
+	<internal-name>Lĩnh vực hoạt động</internal-name>
+	<title_s>Lĩnh vực hoạt động</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/6f9dffca-614b-0e5a-e998-e9c7e90265d3.xml</key>
+	<value>Lĩnh vực hoạt động</value>
+	<include>/site/items/slides/6f9dffca-614b-0e5a-e998-e9c7e90265d3.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-3.png</thumbail_s>
+	<contents_html/>
+	<createdDate>2020-05-25T03:18:16.743Z</createdDate>
+	<createdDate_dt>2020-05-25T03:18:16.743Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:05:17.163Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:05:17.163Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="sectionDataSource" inline="true">	<key>181911e2-1d28-b6ca-e0c9-fb4b1c45b3bb</key>
+	<value>Lĩnh vực hoạt động</value>
+<component id="181911e2-1d28-b6ca-e0c9-fb4b1c45b3bb">
+	<content-type>/component/componentactivity</content-type>
+	<display-template>/templates/web/activity.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1819</objectGroupId>
+	<objectId>181911e2-1d28-b6ca-e0c9-fb4b1c45b3bb</objectId>
+	<file-name>181911e2-1d28-b6ca-e0c9-fb4b1c45b3bb.xml</file-name>
+	<internal-name>Lĩnh vực hoạt động</internal-name>
+	<title_s>Lĩnh vực hoạt động</title_s>
+	<image_s>/static-assets/images/featured/content_img_1.png</image_s>
+	<item_o item-list="true">	<item>	<content_t>Xây dựng các công trình giao thông thủy lợi, dân dụng, công nghiệp, kết cấu hạ tầng khu công nghiệp, khu đô thị.</content_t>
+	</item>	<item>	<content_t>Sản xuất và kinh doanh vật liệu xây dựng cấu kiện bê tông đúc sẵn, cấu kiện bằng kim loại;</content_t>
+	</item>	<item>	<content_t>Tư vấn, quy hoạch xây dựng các dự án nhà máy thức ăn chăn nuôi và trang trại chăn nuôi.</content_t>
+	</item>	<item>	<content_t>Mua bán, cho thuê máy móc, thiết bị dùng trong ngành chăn nuôi.</content_t>
+	</item>	<item>	<content_t>Cung cấp và lắp đặt thiết bị dây truyền sản xuất thức ăn chăn nuôi, Hệ thống điện công nghiệp, Hệ thống phần mềm quản lý nhà máy.</content_t>
+	</item>	<item>	<content_t>Cung cấp thiết bị chăn nuôi: Khung lồng chuồng; Hệ thống cho ăn, uống tự động; máy ấp nở gà, vịt; lồng nuôi cá tròn HDPE ...)</content_t>
+	</item></item_o>
+	<createdDate>2020-05-25T03:28:11.878Z</createdDate>
+	<createdDate_dt>2020-05-25T03:28:11.878Z</createdDate_dt>
+	<lastModifiedDate>2020-06-12T02:05:25.971Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-12T02:05:25.971Z</lastModifiedDate_dt>
+</component>
+	</item></section_o>
+</page>

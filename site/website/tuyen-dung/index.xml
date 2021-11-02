@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>783c</objectGroupId>
+	<objectId>783c28f9-bef0-6636-f0c7-256aa62d2079</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tuyen-dung</folder-name>
+	<internal-name>Tuyển dụng</internal-name>
+	<title_s>Tuyển dụng</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>1e5de1b7-53a1-16e2-94fa-739a65c2c7c6</key>
+	<value>Slide</value>
+<component id="1e5de1b7-53a1-16e2-94fa-739a65c2c7c6">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>1e5d</objectGroupId>
+	<objectId>1e5de1b7-53a1-16e2-94fa-739a65c2c7c6</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_4.png</image_s>
+	</item></image_o>
+	<file-name>1e5de1b7-53a1-16e2-94fa-739a65c2c7c6.xml</file-name>
+	<internal-name>Slide</internal-name>
+	<createdDate>2020-04-01T04:55:21.679Z</createdDate>
+	<createdDate_dt>2020-04-01T04:55:21.679Z</createdDate_dt>
+	<lastModifiedDate>2020-06-17T10:42:42.244Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-17T10:42:42.244Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>55c47574-477f-896f-fae3-d00f3769e03a</key>
+	<value>Danh sách công việc</value>
+<component id="55c47574-477f-896f-fae3-d00f3769e03a">
+	<content-type>/component/jobs</content-type>
+	<display-template>/templates/web/job.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>55c4</objectGroupId>
+	<objectId>55c47574-477f-896f-fae3-d00f3769e03a</objectId>
+	<file-name>55c47574-477f-896f-fae3-d00f3769e03a.xml</file-name>
+	<internal-name>Danh sách công việc</internal-name>
+	<title_s>Cơ hội nghề nghiệp</title_s>
+	<section_o item-list="true"/>
+	<controllers_o item-list="true"/>
+	<createdDate>2020-05-04T07:21:14.501Z</createdDate>
+	<createdDate_dt>2020-05-04T07:21:14.501Z</createdDate_dt>
+	<lastModifiedDate>2020-05-04T07:22:43.558Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-04T07:22:43.558Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-04-01T04:50:47.836Z</createdDate>
+	<createdDate_dt>2020-04-01T04:50:47.836Z</createdDate_dt>
+	<lastModifiedDate>2020-06-17T10:42:36.674Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-17T10:42:36.674Z</lastModifiedDate_dt>
+	<descripttion_t>Trang này cung cấp các thông tin tuyển dụng, các vị trí công việc mà công ty đang yêu cầu</descripttion_t>
+</page>

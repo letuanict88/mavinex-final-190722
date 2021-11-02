@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/policywebsite</content-type>
+	<display-template>/templates/web/policy.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fd8a</objectGroupId>
+	<objectId>fd8a50fc-920c-870f-f74a-8a3ed9304370</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>website-policy</folder-name>
+	<internal-name>Website's policies</internal-name>
+	<navLabel>Website's policies</navLabel>
+	<title_s>Website's policies</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/_E6P1798a.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<content_html>&lt;p&gt;&lt;span style="font-family: 'Open Sans', Arial, sans-serif; font-size: 14px; text-align: justify; background-color: #ffffff;"&gt;"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-16T02:40:02.522Z</createdDate>
+	<createdDate_dt>2020-07-16T02:40:02.522Z</createdDate_dt>
+	<lastModifiedDate>2020-07-16T02:40:02.522Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-16T02:40:02.522Z</lastModifiedDate_dt>
+</page>

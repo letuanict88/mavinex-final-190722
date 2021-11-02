@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>912a</objectGroupId>
+	<objectId>912ac07d-3516-81cf-ddb5-200cc2c032bf</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<internal-name>THERMAL HEAT PLATE FOR PIGLETS</internal-name>
+	<navLabel>THERMAL HEAT PLATE FOR PIGLETS</navLabel>
+	<productname_s>THERMAL HEAT PLATE FOR PIGLETS</productname_s>
+	<productnameEnglish_s>THERMAL HEAT PLATE FOR PIGLETS</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<file-name>index.xml</file-name>
+	<folder-name>thermal-heat-plate-for-piglets</folder-name>
+	<productAvatar_s>/static-assets/images/products/Tấm sưởi nhiệt.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Composite material&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Voltage 220 v - 50Hz&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Hi - low switch (90-180w)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Made in Korea&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Composite material&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Voltage 220 v - 50Hz&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Hi - low switch (90-180w)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;Made in Korea&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tấm sưởi nhiệt.jpg</productimage_s>
+	<productimagename_s>TẤM SƯỞI NHIỆT</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T02:56:52.002Z</createdDate>
+	<createdDate_dt>2020-07-14T02:56:52.002Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T02:56:52.002Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T02:56:52.002Z</lastModifiedDate_dt>
+</page>

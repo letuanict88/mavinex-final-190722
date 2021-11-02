@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b5fe</objectGroupId>
+	<objectId>b5fe1d28-76a9-6f35-787b-52f907e3888b</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>gioi-thieu-chung</folder-name>
+	<internal-name>Giới thiệu chung</internal-name>
+	<title_s>Giới thiệu chung</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/52a37a6d-0927-03da-44b8-1391b5fcf359.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/52a37a6d-0927-03da-44b8-1391b5fcf359.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<contents_html>&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Được th&amp;agrave;nh lập từ năm 2017, với tiền th&amp;acirc;n l&amp;agrave; ph&amp;ograve;ng dự &amp;aacute;n của&lt;strong&gt;&lt;a href="https://mavin-group.com"&gt; Tập đo&amp;agrave;n Mavin&lt;/a&gt;&lt;/strong&gt;, C&amp;ocirc;ng ty cổ Phần Mavinex được biết đến l&amp;agrave; đơn vị triển khai thi c&amp;ocirc;ng c&amp;aacute;c dự &amp;aacute;n trọng điểm của Tập đo&amp;agrave;n như: dự &amp;aacute;n x&amp;acirc;y dựng nh&amp;agrave; m&amp;aacute;y thức ăn thủy Sản tại Hưng Y&amp;ecirc;n với c&amp;ocirc;ng suất 450.000 tấn/năm; nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i Nghệ An với c&amp;ocirc;ng suất 300.000 tấn/năm; v&amp;agrave; nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i Đồng Th&amp;aacute;p với c&amp;ocirc;ng suất 350.000 tấn/năm. Việc kết hợp h&amp;agrave;i h&amp;ograve;a c&amp;ocirc;ng nghệ thiết bị của c&amp;aacute;c thương hiệu h&amp;agrave;ng đầu thế giới như: Buhler, CPM, Premier tech, Obial&amp;hellip;c&amp;ugrave;ng sự s&amp;aacute;ng tạo của c&amp;aacute;c kỹ sư Mavinex đ&amp;atilde; x&amp;acirc;y dựng n&amp;ecirc;n c&amp;aacute;c nh&amp;agrave; m&amp;aacute;y sản xuất thức ăn chăn nu&amp;ocirc;i uy t&amp;iacute;n v&amp;agrave; tin cậy, việc &amp;aacute;p dụng c&amp;ocirc;ng nghệ 4.0 gi&amp;uacute;p Mavin giảm được chi ph&amp;iacute; sản xuất, vận h&amp;agrave;nh, tăng năng suất lao động, bảo vệ m&amp;ocirc;i trường cũng như bảo vệ sức khỏe của người sản xuất v&amp;agrave; ti&amp;ecirc;u d&amp;ugrave;ng.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Trong lĩnh vực chăn nu&amp;ocirc;i: Mavinex kết hợp với c&amp;aacute;c đối t&amp;aacute;c như: Bigdutchman, Roxell, Fancom, Giordano Poultry Plat, Vostermans&amp;hellip;để triển khai rất nhiều c&amp;aacute;c dự &amp;aacute;n lớn như: Trại 1.200 heo cụ kị Hưng Việt &amp;ndash; Hưng Y&amp;ecirc;n, trại 1.500 heo n&amp;aacute;i &amp;ocirc;ng b&amp;agrave; tại Nhơn T&amp;acirc;n &amp;ndash; B&amp;igrave;nh Định, trại 30.000 vịt giống Th&amp;aacute;i Hưng &amp;ndash; Th&amp;aacute;i B&amp;igrave;nh&amp;hellip; c&amp;ugrave;ng h&amp;agrave;ng trăm c&amp;aacute;c trại heo n&amp;aacute;i bố mẹ, trại heo thịt, trại g&amp;agrave; v&amp;agrave; trại vịt. Nhờ &amp;aacute;p dụng c&amp;aacute;c c&amp;ocirc;ng nghệ ti&amp;ecirc;n tiến trong c&amp;aacute;c trang trại như: Hệ thống ăn, uống tự động; hệ thống quản l&amp;yacute; v&amp;agrave; điều chỉnh nhiệt độ th&amp;ocirc;ng minh, hệ thống xử l&amp;yacute; chất thải kh&amp;eacute;p&amp;hellip; gi&amp;uacute;p cho vật nu&amp;ocirc;i c&amp;oacute; điều kiện sinh trưởng v&amp;agrave; ph&amp;aacute;t triển tốt nhất, qua đ&amp;oacute; tối ưu h&amp;oacute;a hiệu quả chăn nu&amp;ocirc;i đồng thời hướng tới nền chăn nu&amp;ocirc;i bền vững th&amp;acirc;n thiện với m&amp;ocirc;i trường.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Trong lĩnh vực chăn nu&amp;ocirc;i thủy sản, c&amp;ocirc;ng ty cung cấp giải ph&amp;aacute;p nu&amp;ocirc;i c&amp;aacute; bằng hệ thống lồng c&amp;aacute; tr&amp;ograve;n HDPE với thể t&amp;iacute;ch chăn nu&amp;ocirc;i lớn, độ bền cao, khả năng chống chịu b&amp;atilde;o gi&amp;oacute; tốt rất th&amp;iacute;ch hợp với chăn nu&amp;ocirc;i tập trung tại v&amp;ugrave;ng ven biển hay c&amp;aacute;c hồ thủy điện đem lại năng suất v&amp;agrave; chất lượng c&amp;aacute; thương phẩm rất cao.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Ngo&amp;agrave;i việc cung cấp thiết bị nh&amp;agrave; m&amp;aacute;y v&amp;agrave; chăn nu&amp;ocirc;i, Mavinex cũng l&amp;agrave; nh&amp;agrave; cung cấp h&amp;agrave;ng đầu Việt Nam trong lĩnh vực cung cấp c&amp;aacute;c loại m&amp;aacute;y ấp, nở con giống.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="color: #ffffff; font-size: 14pt;"&gt;Với mục ti&amp;ecirc;u mang đến những sản phẩm chất lượng cao kh&amp;ocirc;ng chỉ cho những dự &amp;aacute;n trong &lt;strong&gt;&lt;a href="https://mavin-group.com"&gt;Tập đo&amp;agrave;n Mavin&lt;/a&gt;&lt;/strong&gt; m&amp;agrave; c&amp;ograve;n hướng tới c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng trong v&amp;agrave; ngo&amp;agrave;i nước, C&amp;ocirc;ng ty CP Mavinex cam kết giữ g&amp;igrave;n gi&amp;aacute; trị truyền thống, ph&amp;aacute;t huy lợi thế cạnh tranh, đồng h&amp;agrave;nh c&amp;ugrave;ng c&amp;aacute;c đối t&amp;aacute;c, đem lại sự ph&amp;aacute;t triển thịnh vượng cho Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng, cổ đ&amp;ocirc;ng v&amp;agrave; cộng đồng x&amp;atilde; hội.&lt;/span&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-04-16T07:35:37.305Z</createdDate>
+	<createdDate_dt>2020-04-16T07:35:37.305Z</createdDate_dt>
+	<lastModifiedDate>2020-08-11T02:21:35.967Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-11T02:21:35.967Z</lastModifiedDate_dt>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-1.png</thumbail_s>
+	<section_o item-list="true"/>
+</page>

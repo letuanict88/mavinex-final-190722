@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c40f</objectGroupId>
+	<objectId>c40f928d-1d36-2688-dfaa-5f56d5513430</objectId>
+	<internal-name>Máy xử lý xác động vật</internal-name>
+	<navLabel>Máy xử lý xác động vật</navLabel>
+	<productname_s>Máy xử lý xác động vật</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Máy xử lý xác động vật.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<file-name>index.xml</file-name>
+	<folder-name>may-xu-ly-xac-dong-vat</folder-name>
+	<productdescription_html>&lt;p&gt;- K&amp;iacute;ch thước L4955*W1600*H1730&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; - Chất liệu: Inox 304&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; - V&amp;iacute;t tải inox &amp;Oslash; 200 L1000, P=1.5kw, 1445V/P&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; - Cơ chế hoạt động: Cắt, đập v&amp;agrave; sấy&lt;/p&gt;
+&lt;p&gt;&amp;nbsp; - C&amp;ocirc;ng suất xử l&amp;yacute;: 1.200 kg/48 h&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máy xử lý xác động vật.jpg</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-08T03:34:25.252Z</createdDate>
+	<createdDate_dt>2020-06-08T03:34:25.252Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T10:00:45.609Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T10:00:45.609Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Animal body handling machine</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;- Size L4955 * W1600 * H1730&lt;/p&gt;
+&lt;p&gt;- Material: 304 stainless steel&lt;/p&gt;
+&lt;p&gt;- Stainless steel screw conveyor &amp;Oslash; 200 L1000, P = 1.5kw, 1445V / P&lt;/p&gt;
+&lt;p&gt;- Mechanism of action: Cutting, beating and drying&lt;/p&gt;
+&lt;p&gt;- Handling capacity: 1,200 kg / 48 h&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

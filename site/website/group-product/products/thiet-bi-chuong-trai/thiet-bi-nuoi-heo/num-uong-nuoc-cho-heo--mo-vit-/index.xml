@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fc08</objectGroupId>
+	<objectId>fc085e72-cf89-7b6a-16cd-45366893f937</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>num-uong-nuoc-cho-heo--mo-vit-</folder-name>
+	<internal-name>Núm uống nước cho heo (mỏ vịt)</internal-name>
+	<navLabel>Núm uống nước cho heo (mỏ vịt)</navLabel>
+	<productname_s>Núm uống nước cho heo (mỏ vịt)</productname_s>
+	<productnameEnglish_s>Drinking knob for pigs (duckbill)</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Núm uống nước cho heo (mỏ vịt).jpg</productAvatar_s>
+	<productdescription_html>&lt;p&gt;Chất liệu&amp;nbsp; inox 304&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Stainless steel 304&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Núm uống nước cho heo (mỏ vịt).jpg</productimage_s>
+	<productimagename_s>Núm uống nước cho heo (mỏ vịt)</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T09:37:16.572Z</createdDate>
+	<createdDate_dt>2020-06-11T09:37:16.572Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:55:09.114Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:55:09.114Z</lastModifiedDate_dt>
+</page>

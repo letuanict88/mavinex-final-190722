@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>c947</objectGroupId>
+	<objectId>c947e955-5d99-a184-203f-53ed61e19032</objectId>
+	<internal-name>Kết quả tìm kiếm</internal-name>
+	<title_s>Kết quả tìm kiếm</title_s>
+	<descripttion_t>Trang này hiển thị nội dung mà người dùng tìm kiếm</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>dce5d210-1d81-3959-b022-2f3d1e53f9f3</key>
+	<value>Slide</value>
+<component id="dce5d210-1d81-3959-b022-2f3d1e53f9f3">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>dce5</objectGroupId>
+	<objectId>dce5d210-1d81-3959-b022-2f3d1e53f9f3</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/bg_2.png</image_s>
+	</item></image_o>
+	<internal-name>Slide</internal-name>
+	<file-name>dce5d210-1d81-3959-b022-2f3d1e53f9f3.xml</file-name>
+	<createdDate>2020-04-14T07:13:29.754Z</createdDate>
+	<createdDate_dt>2020-04-14T07:13:29.754Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T07:13:29.754Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T07:13:29.754Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>6dcac19a-765e-bb44-fed6-21ac7ab40249</key>
+	<value>Search result</value>
+<component id="6dcac19a-765e-bb44-fed6-21ac7ab40249">
+	<content-type>/component/searchresult</content-type>
+	<display-template>/templates/web/searchresult.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6dca</objectGroupId>
+	<objectId>6dcac19a-765e-bb44-fed6-21ac7ab40249</objectId>
+	<file-name>6dcac19a-765e-bb44-fed6-21ac7ab40249.xml</file-name>
+	<internal-name>Search result</internal-name>
+	<title_s>Kết quả tìm kiếm</title_s>
+	<createdDate>2020-04-14T07:14:00.116Z</createdDate>
+	<createdDate_dt>2020-04-14T07:14:00.116Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T07:14:00.116Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T07:14:00.116Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<file-name>index.xml</file-name>
+	<folder-name>search-result</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<createdDate>2020-04-14T07:12:26.032Z</createdDate>
+	<createdDate_dt>2020-04-14T07:12:26.032Z</createdDate_dt>
+	<lastModifiedDate>2020-04-14T07:12:26.032Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-14T07:12:26.032Z</lastModifiedDate_dt>
+</page>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0153</objectGroupId>
+	<objectId>015395ec-76ed-5b32-2185-b49c8b956078</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tu-dieu-khien-dong-luc</folder-name>
+	<internal-name>Tủ điều khiển động lực hoặc tủ điều khiển biến tần  </internal-name>
+	<navLabel>Tủ điều khiển động lực hoặc tủ điều khiển biến tần</navLabel>
+	<productname_s>Tủ điều khiển động lực hoặc tủ điều khiển biến tần </productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chan-nuoi</key>
+	<value_smv>Thiết bị chăn nuôi</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Tủ điều khiển động lực .jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;D&amp;ugrave;ng cho hệ thống quạt l&amp;agrave;m m&amp;aacute;t c&amp;aacute;c chuồng nu&amp;ocirc;i heo, g&amp;agrave;, vịt&lt;/p&gt;
+&lt;p&gt;Sản xuất v&amp;agrave; lắp rắp bởi Mavinex.&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Tủ điều khiển động lực .jpg</productimage_s>
+	<productimagename_s>Tủ điều khiển động lực</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-08T03:31:55.703Z</createdDate>
+	<createdDate_dt>2020-06-08T03:31:55.703Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T10:02:47.080Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T10:02:47.080Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Dynamic control cabinet or inverter control cabinet</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;Used for cooling system of pigsty, chicken and duck breeding facilities&lt;/p&gt;
+&lt;p&gt;Manufactured and assembled by Mavinex.&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bd36</objectGroupId>
+	<objectId>bd363931-d397-ed43-dbe5-2798ed7f4048</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>mang-tap-an-cho-heo-cai</folder-name>
+	<internal-name>Máng tập ăn cho heo cai</internal-name>
+	<navLabel>Máng tập ăn cho heo cai</navLabel>
+	<productname_s>Máng tập ăn cho heo cai</productname_s>
+	<productnameEnglish_s>Troughs for feeding pigs</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo-Equipment for breeding pig</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/Máng tập ăn heo cai.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;M&amp;aacute;ng tập ăn cho heo cai: KT 240 x 25x 15 cm; với 20 &amp;ocirc;.&lt;/p&gt;
+&lt;p&gt;Chất liệu: Inox&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Xuất xứ: Mavinex&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Training trough for weaning pigs: KT 240 x 25x 15 cm; with 20 cells.&lt;/p&gt;
+&lt;p&gt;Material: Stainless steel&lt;/p&gt;
+&lt;p&gt;Origin: Mavinex&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Máng tập ăn heo cai.jpg</productimage_s>
+	<productimagename_s>Máng tập ăn heo cai</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-11T08:33:13.319Z</createdDate>
+	<createdDate_dt>2020-06-11T08:33:13.319Z</createdDate_dt>
+	<lastModifiedDate>2020-06-11T09:53:40.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-11T09:53:40.195Z</lastModifiedDate_dt>
+</page>

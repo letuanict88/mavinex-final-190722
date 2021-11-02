@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/footer</content-type>
+	<display-template>/templates/web/footer.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6395</objectGroupId>
+	<objectId>6395a484-01d0-502c-995b-ea4747cf07a4</objectId>
+	<internal-name>Giodano</internal-name>
+	<brandCopyright_s>Giodano</brandCopyright_s>
+	<companyname_s>Giodano</companyname_s>
+	<companysAddress_s/>
+	<phonenumber_s/>
+	<tax_s/>
+	<file-name>6395a484-01d0-502c-995b-ea4747cf07a4.xml</file-name>
+	<backgroundImage_s>/static-assets/item/images/featured/2020/06/10/Logo Giordano.png</backgroundImage_s>
+	<createdDate>2020-06-10T08:23:40.578Z</createdDate>
+	<createdDate_dt>2020-06-10T08:23:40.578Z</createdDate_dt>
+	<lastModifiedDate>2020-06-10T08:23:40.578Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-10T08:23:40.578Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>28e6</objectGroupId>
+	<objectId>28e6168c-feae-9389-bcc4-74056a82b738</objectId>
+	<file-name>28e6168c-feae-9389-bcc4-74056a82b738.xml</file-name>
+	<internal-name>Máy ấp nở trứng vịt</internal-name>
+	<productchildtitle_s>Máy ấp nở trứng vịt</productchildtitle_s>
+	<productchildavatar_s>/static-assets/images/products/Layer 200.png</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-chan-nuoi</productgrouplevel1_s>
+	<productgrouplevel2_s>may-ap-no-trung-vit</productgrouplevel2_s>
+	<createdDate>2020-06-08T06:57:23.935Z</createdDate>
+	<createdDate_dt>2020-06-08T06:57:23.935Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T07:56:59.203Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T07:56:59.203Z</lastModifiedDate_dt>
+	<productchildtitleEnglish_s>Duck egg hatching machine</productchildtitleEnglish_s>
+</component>

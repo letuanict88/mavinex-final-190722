@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>fa52</objectGroupId>
+	<objectId>fa52d2e9-ec7e-ef9c-ac58-4cf31ec0810e</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-silo-va-truyen-tai-cam-cho-chuong-heo-cai</folder-name>
+	<internal-name>Hệ thống silo và truyền tải cám cho chuồng heo cai</internal-name>
+	<navLabel/>
+	<productname_s>Hệ thống silo và truyền tải cám cho chuồng heo cai</productname_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-heo</key>
+	<value_smv>Thiết bị chăn nuôi heo</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/silo-500.png</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;[Phương &amp;aacute;n xả c&amp;aacute;m v&amp;agrave;o tận m&amp;aacute;ng ăn]&lt;/p&gt;
+&lt;p&gt;Bao gồm:&lt;/p&gt;
+&lt;p&gt;- Silo Composite dung t&amp;iacute;ch 7,5 tấn (3 ch&amp;acirc;n, c&amp;oacute; cần mở nắp)&lt;/p&gt;
+&lt;p&gt;- 03 Loadcell SQB - 5T&lt;/p&gt;
+&lt;p&gt;- 01 Đầu c&amp;acirc;n W 100 - (Laumas Italia)&lt;/p&gt;
+&lt;p&gt;- 01 Cảm biến Dol - xuất xứ Đan Mạch&lt;/p&gt;
+&lt;p&gt;- 10 M&amp;aacute;ng ăn 8 ngăn dạng vu&amp;ocirc;ng (2 b&amp;ecirc;n) bằng inox 304, d&amp;agrave;y 1,5mm, k&amp;iacute;ch thước (DxRxC): 150 x 54 x&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;78 cm c&amp;oacute; n&amp;uacute;m ướt c&amp;aacute;m, với sức chứa 150 kg.&lt;/p&gt;
+&lt;p&gt;- Hệ thống truyền tải c&amp;aacute;m d&amp;agrave;i 55 - 60 m.&lt;/p&gt;
+&lt;p&gt;- Tủ điều khiển.&lt;/p&gt;
+&lt;p&gt;- Phụ kiện lắp đặt.&lt;/p&gt;</productdescription_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/silo-500.png</productimage_s>
+	<productimagename_s>Xe truyền tải cám</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-06-05T09:11:09.213Z</createdDate>
+	<createdDate_dt>2020-06-05T09:11:09.213Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T07:47:47.953Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T07:47:47.953Z</lastModifiedDate_dt>
+	<productnameEnglish_s>Silo system and bran transmission for pigsty</productnameEnglish_s>
+	<productdescriptionEnglish_html>&lt;p&gt;[Phương &amp;aacute;n xả c&amp;aacute;m v&amp;agrave;o tận m&amp;aacute;ng ăn]&lt;/p&gt;
+&lt;p&gt;Bao gồm:&lt;/p&gt;
+&lt;p&gt;- Silo Composite dung t&amp;iacute;ch 7,5 tấn (3 ch&amp;acirc;n, c&amp;oacute; cần mở nắp)&lt;/p&gt;
+&lt;p&gt;- 03 Loadcell SQB - 5T&lt;/p&gt;
+&lt;p&gt;- 01 Đầu c&amp;acirc;n W 100 - (Laumas Italia)&lt;/p&gt;
+&lt;p&gt;- 01 Cảm biến Dol - xuất xứ Đan Mạch&lt;/p&gt;
+&lt;p&gt;- 10 M&amp;aacute;ng ăn 8 ngăn dạng vu&amp;ocirc;ng (2 b&amp;ecirc;n) bằng inox 304, d&amp;agrave;y 1,5mm, k&amp;iacute;ch thước (DxRxC): 150 x 54 x&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;78 cm c&amp;oacute; n&amp;uacute;m ướt c&amp;aacute;m, với sức chứa 150 kg.&lt;/p&gt;
+&lt;p&gt;- Hệ thống truyền tải c&amp;aacute;m d&amp;agrave;i 55 - 60 m.&lt;/p&gt;
+&lt;p&gt;- Tủ điều khiển.&lt;/p&gt;
+&lt;p&gt;- Phụ kiện lắp đặt.&lt;/p&gt;</productdescriptionEnglish_html>
+</page>

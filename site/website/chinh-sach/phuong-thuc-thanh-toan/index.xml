@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/policywebsite</content-type>
+	<display-template>/templates/web/policy.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>e0f9afb1</objectGroupId>
+	<objectId>e0f9afb1-6039-47e4-80f0-9b7c7afdc0db</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>phuong-thuc-thanh-toan</folder-name>
+	<internal-name>Phương thức thanh toán</internal-name>
+	<navLabel>Phương thức thanh toán</navLabel>
+	<title_s>Phương thức thanh toán</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<image_s>/static-assets/images/_E6P1798a.jpg</image_s>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<content_html>&lt;p&gt;Khi qu&amp;yacute; kh&amp;aacute;ch mua h&amp;agrave;ng của C&amp;ocirc;ng ty Cổ phần Mavinex, qu&amp;yacute; kh&amp;aacute;ch c&amp;oacute; thể thanh to&amp;aacute;n bằng c&amp;aacute;c h&amp;igrave;nh thức như sau:&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Thanh to&amp;aacute;n bằng tiền mặt&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Thanh to&amp;aacute;n bằng chuyển khoản&lt;/p&gt;
+&lt;p&gt;&amp;ndash; C&amp;aacute;c h&amp;igrave;nh thức kh&amp;aacute;c&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1/ Thanh to&amp;aacute;n bằng tiền mặt:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Khi mua h&amp;agrave;ng trực tiếp tại Kho/Văn ph&amp;ograve;ng Mavinex qu&amp;yacute; kh&amp;aacute;ch thanh to&amp;aacute;n chi ph&amp;iacute; ngay tại đ&amp;oacute;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2/ Thanh to&amp;aacute;n trực tiếp tại C&amp;ocirc;ng ty:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Qu&amp;yacute; kh&amp;aacute;ch h&amp;agrave;ng vui l&amp;ograve;ng thanh to&amp;aacute;n trực tiếp tại c&amp;ocirc;ng ty ngay khi mua h&amp;agrave;ng tại:&lt;/p&gt;
+&lt;p&gt;- Trụ sở ch&amp;iacute;nh: Tầng 8, t&amp;ograve;a nh&amp;agrave; Hudland, số 6 Nguyễn Hữu Thọ, Ho&amp;agrave;ng Liệt, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/p&gt;
+&lt;p&gt;- Kho v&amp;agrave; Nh&amp;agrave; m&amp;aacute;y sản xuất: Nh&amp;agrave; m&amp;aacute;y thức ăn chăn nu&amp;ocirc;i Mavin Austfeed - Thị tứ B&amp;ocirc; Thời, Hồng Tiến, Kho&amp;aacute;i Ch&amp;acirc;u, Hưng Y&amp;ecirc;n&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Ngay khi qu&amp;yacute; kh&amp;aacute;ch thanh to&amp;aacute;n xong, nh&amp;acirc;n vi&amp;ecirc;n kế to&amp;aacute;n sẽ gửi lại qu&amp;yacute; kh&amp;aacute;ch h&amp;oacute;a đơn t&amp;agrave;i ch&amp;iacute;nh v&amp;agrave; nh&amp;acirc;n vi&amp;ecirc;n kinh doanh sẽ hướng dẫn qu&amp;yacute; kh&amp;aacute;ch h&amp;igrave;nh thức giao nhận h&amp;agrave;ng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3/ Thanh to&amp;aacute;n tại điểm giao h&amp;agrave;ng.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Qu&amp;yacute; kh&amp;aacute;ch thanh to&amp;aacute;n cho nh&amp;acirc;n vi&amp;ecirc;n giao nhận to&amp;agrave;n bộ hoặc phần c&amp;ograve;n lại của gi&amp;aacute; trị đơn h&amp;agrave;ng đ&amp;atilde; mua (nếu đ&amp;atilde; đặt cọc)&lt;/p&gt;
+&lt;p&gt;&amp;ndash; H&amp;igrave;nh thức thanh to&amp;aacute;n n&amp;agrave;y chỉ thực hiện với c&amp;aacute;c đơn h&amp;agrave;ng c&amp;oacute; địa chỉ giao h&amp;agrave;ng tại nội th&amp;agrave;nh th&amp;agrave;nh phố H&amp;agrave; Nội hoặc tỉnh Hưng Y&amp;ecirc;n (trong phạm vi b&amp;aacute;n k&amp;iacute;nh 30 km t&amp;iacute;nh từ nơi mua h&amp;agrave;ng).&lt;/p&gt;
+&lt;p&gt;&amp;ndash; Nếu địa điểm giao h&amp;agrave;ng ngay tại nơi thanh to&amp;aacute;n, nh&amp;acirc;n vi&amp;ecirc;n giao h&amp;agrave;ng của ch&amp;uacute;ng t&amp;ocirc;i sẽ thu tiền khi giao h&amp;agrave;ng.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;4/ Thanh to&amp;aacute;n bằng chuyển khoản.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nếu địa điểm giao h&amp;agrave;ng l&amp;agrave; ngoại th&amp;agrave;nh, ngoại tỉnh hoặc nội th&amp;agrave;nh th&amp;agrave;nh phố H&amp;agrave; Nội nhưng kh&amp;aacute;c với địa điểm thanh to&amp;aacute;n (trong trường hợp Qu&amp;yacute; kh&amp;aacute;ch gửi qu&amp;agrave;, gửi h&amp;agrave;ng cho bạn b&amp;egrave;, đối t&amp;aacute;c &amp;hellip;) ch&amp;uacute;ng t&amp;ocirc;i sẽ thu tiền trước 100% gi&amp;aacute; trị đơn h&amp;agrave;ng + ph&amp;iacute; vận chuyển theo cước ph&amp;iacute; t&amp;iacute;nh trong ch&amp;iacute;nh s&amp;aacute;ch vận chuyển bằng phương thức chuyển khoản trước khi giao h&amp;agrave;ng&lt;/p&gt;
+&lt;p&gt;Ghi ch&amp;uacute;: Để h&amp;agrave;ng h&amp;oacute;a v&amp;agrave; gi&amp;aacute; cả được ch&amp;iacute;nh x&amp;aacute;c, ngay sau khi qu&amp;yacute; kh&amp;aacute;ch chuyển tiền xin vui l&amp;ograve;ng fax giấy ủy nhiệm chi c&amp;oacute; dấu ng&amp;acirc;n h&amp;agrave;ng chuyển tiền để nh&amp;acirc;n vi&amp;ecirc;n kinh doanh l&amp;agrave;m căn cứ giữ h&amp;agrave;ng v&amp;agrave; gi&amp;aacute; tiền theo đ&amp;uacute;ng thỏa thuận cho qu&amp;yacute; kh&amp;aacute;ch.&lt;/p&gt;
+&lt;p&gt;Th&amp;ocirc;ng tin t&amp;agrave;i khoản:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;C&amp;Ocirc;NG TY CỔ PHẦN MAVINEX&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;T&amp;agrave;i khoản Ng&amp;acirc;n h&amp;agrave;ng: 0931004210171 tại Ng&amp;acirc;n h&amp;agrave;ng Vietcombank &amp;ndash; CN Ho&amp;agrave;ng Mai&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Khi cần li&amp;ecirc;n hệ về c&amp;aacute;c dịch vụ của Mavinex, Qu&amp;yacute; kh&amp;aacute;ch vui l&amp;ograve;ng li&amp;ecirc;n hệ :&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;bull; C&amp;ocirc;ng ty Cổ phần Mavinex -&amp;nbsp; Hotline: 0221.653.7979&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;bull; Website:&amp;nbsp; https://mavinex.com - Email: info@mavin-group.com&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;bull; Địa chỉ: Tầng 8, t&amp;ograve;a nh&amp;agrave; Hudland, số 6 Nguyễn Hữu Thọ, Ho&amp;agrave;ng Liệt, Ho&amp;agrave;ng Mai, H&amp;agrave; Nội&lt;/strong&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-07-16T02:29:30.123Z</createdDate>
+	<createdDate_dt>2020-07-16T02:29:30.123Z</createdDate_dt>
+	<lastModifiedDate>2020-08-12T08:00:02.661Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-12T08:00:02.661Z</lastModifiedDate_dt>
+</page>

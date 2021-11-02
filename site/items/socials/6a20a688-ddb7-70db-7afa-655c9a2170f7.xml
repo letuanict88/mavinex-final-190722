@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/socials</content-type>
+	<display-template>/templates/web/socials.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>6a20</objectGroupId>
+	<objectId>6a20a688-ddb7-70db-7afa-655c9a2170f7</objectId>
+	<file-name>6a20a688-ddb7-70db-7afa-655c9a2170f7.xml</file-name>
+	<internal-name>Facebook</internal-name>
+	<socialURL_s>https://www.facebook.com/</socialURL_s>
+	<socialImageAlt_s>Facebook</socialImageAlt_s>
+	<socialImage_s>/static-assets/images/socials/footer_icon_1.png</socialImage_s>
+	<createdDate>2020-03-26T08:58:38.066Z</createdDate>
+	<createdDate_dt>2020-03-26T08:58:38.066Z</createdDate_dt>
+	<lastModifiedDate>2020-03-26T08:58:38.066Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-03-26T08:58:38.066Z</lastModifiedDate_dt>
+</component>

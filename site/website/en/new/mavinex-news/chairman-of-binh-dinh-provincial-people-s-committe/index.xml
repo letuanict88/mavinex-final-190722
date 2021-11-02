@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/pagenewsdetailen</content-type>
+	<display-template>/templates/web/newsdetailen.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b515</objectGroupId>
+	<objectId>b5152988-8ac5-aa36-be9a-f75255a5f381</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>chairman-of-binh-dinh-provincial-people-s-committe</folder-name>
+	<internal-name>Chairman of Binh Dinh Provincial People's Committe</internal-name>
+	<navLabel>Chairman of Binh Dinh Provincial People's Committe</navLabel>
+	<title_s>Chairman of Binh Dinh Provincial People's Committe</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Anh MBD 17.3.2020A.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;On March 17, 2020, Mr. Ho Quoc Dung, Chairman of Binh Dinh People's Committee and the delegation visited and worked at Nhon Tan nuclear swine breeding farm of Mavin Group.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Mr. Dao Manh Luong, CEO of Mavin Group welcomed the delegation and introduced Nhon Tan farm as well as the swine breeding system of Mavin Group in the Central.&lt;/span&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Delivering his speech at the meeting, the provincial chairman suggested Mavin Group support Binh Dinh province to develop high-tech pig breeds as well as support the province to develop duck breeding. Mr Ho Quoc Dung also suggested that Mavin organize intensive conference to discuss the direction of livestock development for the province, especially the application of high-tech farming.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Nhon Tan nuclear swine breeding farm is located at Tho Tan Bac village, Nhon Tan commune, An Nhon town of Binh Dinh province. This is the most modern pig farm in the Central Highlands regions, with an investment of nearly US $ 4 million. The farm is designed and operated in an automated, closed process with a scale of 1,200 sows and more than 7,000 porkers according to GMP standards.&lt;/span&gt;&lt;/p&gt;</content_html>
+	<createdDate>2020-06-15T04:48:01.648Z</createdDate>
+	<createdDate_dt>2020-06-15T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T04:48:01.648Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T04:48:01.648Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

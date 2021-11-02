@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productgrouplanding</content-type>
+	<display-template>/templates/web/product-group-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>b52f</objectGroupId>
+	<objectId>b52f85ec-5c19-6040-45d1-0f23492bf8cf</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thiet-bi-thuy-san</folder-name>
+	<internal-name>Thiết bị thủy sản</internal-name>
+	<navLabel>Thiết bị thủy sản</navLabel>
+	<product_title_s>Thiết bị thủy sản</product_title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productGroup_o>	<item>	<key>thiet-bi-thuy-san</key>
+	<value_smv>Thiết bị thủy sản</value_smv>
+	</item></productGroup_o>
+	<createdDate>2020-05-23T03:41:49.327Z</createdDate>
+	<createdDate_dt>2020-05-23T03:41:49.327Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T07:42:39.825Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T07:42:39.825Z</lastModifiedDate_dt>
+	<section_o item-list="true">	<item datasource="productchildcomponent">	<key>/site/items/8725a3fd-6c5f-1580-a47d-b71578608614.xml</key>
+	<value>Lồng nuôi cá tròn hdpe</value>
+	<include>/site/items/8725a3fd-6c5f-1580-a47d-b71578608614.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></section_o>
+	<productGrouptitleEnglish_s>Aquaculture equipment</productGrouptitleEnglish_s>
+</page>

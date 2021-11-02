@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/home</content-type>
+	<display-template>/templates/web/home.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0dab</objectGroupId>
+	<objectId>0dab4e22-d4ce-db6e-4f1e-178328ce242d</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>tin-tuc</folder-name>
+	<internal-name>Tin Tức</internal-name>
+	<title_s>Tin Tức</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<descripttion_t>Tin Tức</descripttion_t>
+	<sections_o item-list="true">	<item datasource="sections" inline="true">	<key>9b730c28-5d53-f44b-b19a-b8e9050381de</key>
+	<value>Tin tức</value>
+<component id="9b730c28-5d53-f44b-b19a-b8e9050381de">
+	<content-type>/component/slide</content-type>
+	<display-template>/templates/web/slide.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>9b73</objectGroupId>
+	<objectId>9b730c28-5d53-f44b-b19a-b8e9050381de</objectId>
+	<image_o item-list="true">	<item>	<image_s>/static-assets/images/slides/slide-linh-vuc-hoat-dong.png</image_s>
+	</item></image_o>
+	<file-name>9b730c28-5d53-f44b-b19a-b8e9050381de.xml</file-name>
+	<internal-name>Tin tức</internal-name>
+	<createdDate>2020-05-26T07:44:37.717Z</createdDate>
+	<createdDate_dt>2020-05-26T07:44:37.717Z</createdDate_dt>
+	<lastModifiedDate>2020-05-26T07:44:37.717Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-26T07:44:37.717Z</lastModifiedDate_dt>
+</component>
+	</item>	<item datasource="sections" inline="true">	<key>a8854ed9-21f3-de69-d5b7-a79a18f15bf6</key>
+	<value>Tin tức</value>
+<component id="a8854ed9-21f3-de69-d5b7-a79a18f15bf6">
+	<content-type>/component/componentlistnews</content-type>
+	<display-template>/templates/web/news.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>a885</objectGroupId>
+	<objectId>a8854ed9-21f3-de69-d5b7-a79a18f15bf6</objectId>
+	<file-name>a8854ed9-21f3-de69-d5b7-a79a18f15bf6.xml</file-name>
+	<internal-name>Tin tức</internal-name>
+	<title_s>Tin Tức</title_s>
+	<createdDate>2020-05-26T07:45:35.110Z</createdDate>
+	<createdDate_dt>2020-05-26T07:45:35.110Z</createdDate_dt>
+	<lastModifiedDate>2020-05-26T07:45:35.110Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-26T07:45:35.110Z</lastModifiedDate_dt>
+</component>
+	</item></sections_o>
+	<createdDate>2020-05-26T07:44:11.999Z</createdDate>
+	<createdDate_dt>2020-05-26T07:44:11.999Z</createdDate_dt>
+	<lastModifiedDate>2020-05-26T07:44:11.999Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-05-26T07:44:11.999Z</lastModifiedDate_dt>
+</page>

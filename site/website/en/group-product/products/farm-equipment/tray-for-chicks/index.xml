@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3794</objectGroupId>
+	<objectId>3794ebd0-de62-a8f5-d4ea-50ef51635533</objectId>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<internal-name>Tray for chicks</internal-name>
+	<navLabel>Tray for chicks</navLabel>
+	<productname_s>Tray for chicks</productname_s>
+	<productnameEnglish_s>Tray for chicks</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<file-name>index.xml</file-name>
+	<folder-name>tray-for-chicks</folder-name>
+	<productgroup_o>	<item>	<key>thiet-bi-chuong-trai</key>
+	<value_smv>Thiết bị chuồng trại-Farm equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>thiet-bi-nuoi-ga</key>
+	<value_smv>Thiết bị chăn nuôi gà-Chicken farm Equipment</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/khay dung con giong.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Origin: Italia&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/khay dung con giong.jpg</productimage_s>
+	<productimagename_s>khay đựng con giống</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T04:57:16.152Z</createdDate>
+	<createdDate_dt>2020-07-14T04:57:16.152Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T04:57:16.152Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T04:57:16.152Z</lastModifiedDate_dt>
+</page>

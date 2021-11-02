@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/introductiondetail</content-type>
+	<display-template>/templates/web/introductiondetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d1e5</objectGroupId>
+	<objectId>d1e581d5-c74f-3924-cd7a-d6efdb7dc6e1</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>co-cau-to-chuc</folder-name>
+	<internal-name>Cơ cấu tổ chức</internal-name>
+	<title_s>Cơ cấu tổ chức</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<thumbail_s>/static-assets/images/featured/gioi-thieu-img-3.png</thumbail_s>
+	<slide_o item-list="true">	<item datasource="slide">	<key>/site/items/slides/57ec7c48-d8b0-5ce6-5e5c-a701d93768c2.xml</key>
+	<value>Slide</value>
+	<include>/site/items/slides/57ec7c48-d8b0-5ce6-5e5c-a701d93768c2.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<contents_html>&lt;p&gt;&lt;img src="/static-assets/images/featured/organization.png" alt="" width="1250" height="1106" /&gt;&lt;/p&gt;</contents_html>
+	<createdDate>2020-04-17T03:20:57.584Z</createdDate>
+	<createdDate_dt>2020-04-17T03:20:57.584Z</createdDate_dt>
+	<lastModifiedDate>2020-04-24T03:05:15.687Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-24T03:05:15.687Z</lastModifiedDate_dt>
+</page>

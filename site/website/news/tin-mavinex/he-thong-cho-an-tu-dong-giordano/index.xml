@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>d588</objectGroupId>
+	<objectId>d588d38e-ac6e-03f3-2fb6-ff9dddd5a700</objectId>
+	<internal-name>Mavinex giới thiệu Hệ thống cho ăn tự động chuyên dùng cho vịt</internal-name>
+	<navLabel>Mavinex giới thiệu Hệ thống cho ăn tự động chuyên dùng cho vịt</navLabel>
+	<title_s>Mavinex giới thiệu Hệ thống cho ăn tự động chuyên dùng cho vịt</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>he-thong-cho-an-tu-dong-giordano</folder-name>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/products/He thong an cho vit 1.jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Tr&amp;ecirc;n cơ sở hợp t&amp;aacute;c với h&amp;atilde;ng Giordano Poultry Plast (Italia), mới đ&amp;acirc;y C&amp;ocirc;ng ty CP Mavinex đ&amp;atilde; giới thiệu hệ thống cho ăn tự động chuy&amp;ecirc;n d&amp;ugrave;ng cho vịt.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Ưu điểm của hệ thống:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Thiết kế khoa học với 2 tầng, ph&amp;ugrave; hợp với c&amp;aacute;c giai đoạn nu&amp;ocirc;i&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Tiết kiệm chi ph&amp;iacute; chỉ với 1 lần đầu tư&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Vịt dễ d&amp;agrave;ng tiếp cận thức ăn&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Hạn chế rơi v&amp;atilde;i, tổn thất thức ăn.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Độ bền cao&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;- Dễ d&amp;agrave;ng lắp đặt v&amp;agrave; vệ sinh&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Xem th&amp;ecirc;m tại đ&amp;acirc;y: &lt;em&gt;&lt;a href="https://mavinex.com/group-product/products/thiet-bi-chuong-trai/thiet-bi-nuoi-vit/he-thong-an-tu-dong-cho-vit"&gt;https://mavinex.com/group-product/products/thiet-bi-chuong-trai/thiet-bi-nuoi-vit/he-thong-an-tu-dong-cho-vit&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Hệ thống đang được ứng dụng tại một số trang trại vịt của Tập đo&amp;agrave;n Mavin.&lt;/p&gt;
+&lt;p&gt;&lt;img style="display: block; margin-left: auto; margin-right: auto;" src="/static-assets/images/products/He thong an cho vit 2.jpg" alt="" width="500" height="667" /&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;strong&gt;Qu&amp;yacute; kh&amp;aacute;ch c&amp;oacute; nhu cầu, mời li&amp;ecirc;n hệ:&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Điện thoại: 0221.653.7979&lt;/p&gt;</content_html>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<createdDate>2020-09-16T08:17:26.302Z</createdDate>
+	<createdDate_dt>2020-09-16T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2020-09-16T08:17:26.302Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-09-16T08:17:26.302Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>

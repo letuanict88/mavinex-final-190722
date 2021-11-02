@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/productchildgroup</content-type>
+	<display-template>/templates/web/product-group-child.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>01a3</objectGroupId>
+	<objectId>01a39551-1be1-ae6e-7235-6de5fea6ca53</objectId>
+	<productchildavatar_s>/static-assets/images/products/Layer 198.png</productchildavatar_s>
+	<productgrouplevel1_s>thiet-bi-chan-nuoi</productgrouplevel1_s>
+	<productgrouplevel2_s>may-ap-no-trung-ga</productgrouplevel2_s>
+	<file-name>01a39551-1be1-ae6e-7235-6de5fea6ca53.xml</file-name>
+	<internal-name>Chicken egg hatching machine</internal-name>
+	<productchildtitle_s>Máy ấp nở trứng gà</productchildtitle_s>
+	<productchildtitleEnglish_s>Chicken egg hatching machine</productchildtitleEnglish_s>
+	<createdDate>2020-06-09T08:37:36.636Z</createdDate>
+	<createdDate_dt>2020-06-09T08:37:36.636Z</createdDate_dt>
+	<lastModifiedDate>2020-06-09T08:37:36.636Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-09T08:37:36.636Z</lastModifiedDate_dt>
+</component>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>8c812a13</objectGroupId>
+	<objectId>8c812a13-fdc7-4668-a78d-e1fb61f2940a</objectId>
+	<internal-name>Máy ấp trứng Gà a3d7ad53</internal-name>
+	<navLabel>Máy ấp trứng Gà</navLabel>
+	<productname_s>Máy ấp trứng Gà</productname_s>
+	<productnameEnglish_s>Chicken egg incubator</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<productgroup_o>	<item>	<key>thiet-bi-chan-nuoi</key>
+	<value_smv>Thiết bị chăn nuôi-Livestock equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>may-ap-no-trung-ga</key>
+	<value_smv>Máy ấp nở trứng gà-Chicken egg hatching machine</value_smv>
+	</item></productchildgroup_o>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<file-name>index.xml</file-name>
+	<folder-name>may-ap-trung-ga-a3d7ad53</folder-name>
+	<productAvatar_s>/static-assets/images/products/Untitled-1.jpg</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;table style="border-collapse: collapse; width: 100%;" border="1" width="100%" cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;C&amp;ocirc;ng suất trứng ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;19.200&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;quả&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;K&amp;iacute;ch thước&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;3360 x 2520 x 2636&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;mm&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Số lượng xe đẩy trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;4 xe, (16 tầng)&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;chiếc&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Số lượng khay ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;128&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;khay&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Số trứng/khay ấp&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;150&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;Quả&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;C&amp;ocirc;ng suất ti&amp;ecirc;u thụ điện&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;5.8&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;kw&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Nguồn điện sử dụng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;380 V - 50Hz&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Phạm vi điều khiển nhiệt độ&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;34 -39,5&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;oC&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Phạm vi điều chỉnh độ ẩm&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;40-80&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;%&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;Thời gian đảo trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;60/120&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;Ph&amp;uacute;t&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;G&amp;oacute;c đảo trứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;45o +- 2o&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td nowrap="nowrap" width="160"&gt;
+&lt;p&gt;M&amp;agrave;n h&amp;igrave;nh điều khiển&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="95"&gt;
+&lt;p&gt;Cảm ứng&lt;/p&gt;
+&lt;/td&gt;
+&lt;td nowrap="nowrap" width="59"&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p&gt;Hatching capacity of 19,200 eggs&lt;/p&gt;
+&lt;p&gt;Dimensions of 3360 x 2520 x 2636 mm&lt;/p&gt;
+&lt;p&gt;Number of egg trolleys, 4 cars (16 floors)&lt;/p&gt;
+&lt;p&gt;Number of incubators 128&lt;/p&gt;
+&lt;p&gt;Number of eggs / tray incubated 150 Fruit&lt;/p&gt;
+&lt;p&gt;Power consumption of 5.8 kw&lt;/p&gt;
+&lt;p&gt;Power supply uses 380 V - 50Hz&lt;/p&gt;
+&lt;p&gt;Temperature control range from 34 to 39.5 oC&lt;/p&gt;
+&lt;p&gt;Humidity adjustment range 40-80%&lt;/p&gt;
+&lt;p&gt;Time to turn eggs 60/120 Minutes&lt;/p&gt;
+&lt;p&gt;Egg corner 45o + - 2o&lt;/p&gt;
+&lt;p&gt;Touch screen control&lt;/p&gt;</productdescriptionEnglish_html>
+	<createdDate>2020-06-11T04:45:08.553Z</createdDate>
+	<createdDate_dt>2020-06-11T04:45:08.553Z</createdDate_dt>
+	<lastModifiedDate>2020-06-15T07:14:41.665Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-06-15T07:14:41.665Z</lastModifiedDate_dt>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/Untitled-4.jpg</productimage_s>
+	<productimagename_s>Chicken incubator</productimagename_s>
+	</item>	<item>	<productimage_s>/static-assets/images/products/Untitled-3.jpg</productimage_s>
+	<productimagename_s>Chicken incubator 2</productimagename_s>
+	</item></productimage_o>
+</page>

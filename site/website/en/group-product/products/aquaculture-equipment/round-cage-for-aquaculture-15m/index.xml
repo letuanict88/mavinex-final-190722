@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/productdetail</content-type>
+	<display-template>/templates/web/product-detail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3f1d</objectGroupId>
+	<objectId>3f1d8081-8774-89d5-92a5-9ee9f66c08fa</objectId>
+	<internal-name>Round Cage for Aquaculture 15m</internal-name>
+	<navLabel>Round Cage for Aquaculture 15m</navLabel>
+	<productname_s>Round Cage for Aquaculture 15m</productname_s>
+	<productnameEnglish_s>Round Cage for Aquaculture 15m</productnameEnglish_s>
+	<phonenumber_s>0221.653.7979</phonenumber_s>
+	<file-name>index.xml</file-name>
+	<folder-name>round-cage-for-aquaculture-15m</folder-name>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<productgroup_o>	<item>	<key>thiet-bi-thuy-san</key>
+	<value_smv>Thiết bị thủy sản-Aquaculture equipment</value_smv>
+	</item></productgroup_o>
+	<productchildgroup_o>	<item>	<key>long-nuoi-ca-hdpe</key>
+	<value_smv>Lồng nuôi cá tròn HDPE-Round cage HDPE</value_smv>
+	</item></productchildgroup_o>
+	<productAvatar_s>/static-assets/images/products/product-group-5.png</productAvatar_s>
+	<slide_o item-list="true">	<item datasource="slideheader">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<productdescription_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Cage diameter: 15 m.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Cage circumference: 47.1&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Floating pipe: HDPE &amp;Oslash; 250.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Handrail tube: HDPE &amp;Oslash; 110.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Connecting pipe: HDPE &amp;Oslash; 125.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Connecting belt: double belt &amp;Oslash; 250.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Mesh: 02 mesh&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Road 15 m, height from mesh mouth to mesh bottom 8m, mesh size a = 2.5 cm and 1.5 cm.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Non-woven mesh, polyethylene material.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescription_html>
+	<productdescriptionEnglish_html>&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Cage diameter: 15 m.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Cage circumference: 47.1&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Floating pipe: HDPE &amp;Oslash; 250.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Handrail tube: HDPE &amp;Oslash; 110.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Connecting pipe: HDPE &amp;Oslash; 125.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Connecting belt: double belt &amp;Oslash; 250.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;- Mesh: 02 mesh&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Road 15 m, height from mesh mouth to mesh bottom 8m, mesh size a = 2.5 cm and 1.5 cm.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Non-woven mesh, polyethylene material.&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;span style="font-size: 14pt;"&gt;Origin: Mavinex&lt;/span&gt;&lt;/p&gt;</productdescriptionEnglish_html>
+	<productimage_o item-list="true">	<item>	<productimage_s>/static-assets/images/products/product-group-5.png</productimage_s>
+	<productimagename_s>Lồng tròn Nauy</productimagename_s>
+	</item></productimage_o>
+	<createdDate>2020-07-14T06:43:05.895Z</createdDate>
+	<createdDate_dt>2020-07-14T06:43:05.895Z</createdDate_dt>
+	<lastModifiedDate>2020-07-14T06:43:05.895Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-07-14T06:43:05.895Z</lastModifiedDate_dt>
+</page>
