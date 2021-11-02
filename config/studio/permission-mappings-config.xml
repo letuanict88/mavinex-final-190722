@@ -77,7 +77,7 @@
 
 -->
 <permissions>
-   <version>14</version>
+   <version>15</version>
    <role name="mavinex">
       <rule regex="/.*">
          <allowed-permissions>
