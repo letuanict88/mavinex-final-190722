@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/newsdetail</content-type>
+	<display-template>/templates/web/newsdetail.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>3644</objectGroupId>
+	<objectId>3644c38f-fd47-d51d-2d0e-496e41129b77</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>thi-cong-du-an-12000-heo-thit-quang-tri</folder-name>
+	<internal-name>Mavinex thi công Dự án 12.000 heo thịt tại Quảng Trị</internal-name>
+	<navLabel>Mavinex thi công Dự án 12.000 heo thịt tại Quảng Trị</navLabel>
+	<title_s>Mavinex thi công Dự án 12.000 heo thịt tại Quảng Trị</title_s>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<categories_o>	<item>	<key>mavinex-news</key>
+	<value_smv>Tin Mavinex (Mavinex News)</value_smv>
+	</item></categories_o>
+	<slide_o item-list="true">	<item datasource="slideDataSource">	<key>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</key>
+	<value>Home slide</value>
+	<include>/site/items/slides/d0a08899-63db-033a-900d-525a0e2770f9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></slide_o>
+	<image_s>/static-assets/images/Mavinex_trai Quang Tri_2022 (1).jpg</image_s>
+	<content_html>&lt;p style="text-align: justify;"&gt;Với mục ti&amp;ecirc;u mở rộng hợp t&amp;aacute;c chăn nu&amp;ocirc;i Heo theo hướng &amp;aacute;p dụng c&amp;ocirc;ng nghệ chăn nu&amp;ocirc;i hiện đại trong hệ thống trang trại của Tập đo&amp;agrave;n Mavin, trong&amp;nbsp; th&amp;aacute;ng 5 C&amp;ocirc;ng ty Cổ Phần Mavinex (Mavinex) c&amp;ugrave;ng với đối t&amp;aacute;c tại Quảng Trị tiến h&amp;agrave;nh thi c&amp;ocirc;ng, lắp đặt thiết bị cho dự &amp;aacute;n chăn nu&amp;ocirc;i 12.000 heo thịt c&amp;ocirc;ng nghệ cao.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;&lt;iframe title="YouTube video player" src="https://www.youtube.com/embed/UkJzB0e07I8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dự &amp;aacute;n &amp;aacute;p dụng đồng bộ c&amp;aacute;c c&amp;ocirc;ng nghệ tiến tiến nhất trong chăn nu&amp;ocirc;i hiện nay như: Hệ thống th&amp;ocirc;ng tho&amp;aacute;ng chuồng nu&amp;ocirc;i kh&amp;eacute;p k&amp;iacute;n, hệ thống silo v&amp;agrave; cho ăn tự động, hệ thống m&amp;aacute;ng ăn cải tiến&amp;hellip;.nhằm cho ra sản phẩm heo thịt thương phẩm tốt nhất cho chuỗi gi&amp;aacute; trị &lt;strong&gt;&amp;ldquo;Từ N&amp;ocirc;ng trại tới b&amp;agrave;n ăn&amp;rdquo;&lt;/strong&gt; của Tập đo&amp;agrave;n Mavin.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Dự &amp;aacute;n l&amp;agrave; một trong những điểm s&amp;aacute;ng về m&amp;ocirc; h&amp;igrave;nh kết hợp h&amp;agrave;i ho&amp;agrave; giữa mục đ&amp;iacute;ch chăn nu&amp;ocirc;i v&amp;agrave; mục đ&amp;iacute;ch khai th&amp;aacute;c năng lượng tự nhi&amp;ecirc;n - Phong điện. Điện năng từ c&amp;aacute;c hệ thống Tuabin quạt gi&amp;oacute; ngo&amp;agrave;i mục đ&amp;iacute;ch thương mại sẽ được sử dụng để cung cấp điện cho to&amp;agrave;n bộ hệ thống vận h&amp;agrave;nh của trang trại, từ đ&amp;oacute; đảm bảo nguồn cung năng lượng ổn định v&amp;agrave; th&amp;acirc;n thiện m&amp;ocirc;i trường.&lt;/p&gt;
+&lt;p style="text-align: justify;"&gt;Trong thời gian tới, Mavinex sẽ tiếp tục đồng h&amp;agrave;nh c&amp;ugrave;ng c&amp;aacute;c đối t&amp;aacute;c trong việc cung cấp, thiết lập để đưa v&amp;agrave;o vận h&amp;agrave;nh c&amp;aacute;c dự &amp;aacute;n chăn nu&amp;ocirc;i lớn v&amp;agrave; hiện đại như: Dự &amp;aacute;n 2.500 heo n&amp;aacute;i tại Đắk N&amp;ocirc;ng; Dự &amp;aacute;n 5.000 heo n&amp;aacute;i tại Đắk Lắk; Dự &amp;aacute;n 24.000 heo thịt tại KonTum&amp;hellip; từ đ&amp;oacute; đem lại những gi&amp;aacute; trị gia tăng cho c&amp;aacute;c kh&amp;aacute;ch h&amp;agrave;ng cũng như hướng tới nền chăn nu&amp;ocirc;i bền vững trong hệ sinh th&amp;aacute;i Chuỗi gi&amp;aacute; trị của Tập đo&amp;agrave;n Mavin!&lt;/p&gt;</content_html>
+	<createdDate>2022-06-23T07:10:50.547Z</createdDate>
+	<createdDate_dt>2022-06-23T04:00:00.000Z</createdDate_dt>
+	<lastModifiedDate>2022-06-23T07:10:50.547Z</lastModifiedDate>
+	<lastModifiedDate_dt>2022-06-23T07:10:50.547Z</lastModifiedDate_dt>
+	<createdDate_dt_tz>EST5EDT</createdDate_dt_tz>
+</page>
